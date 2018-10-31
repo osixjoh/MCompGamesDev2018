@@ -1497,3 +1497,288 @@ LogInit: Object subsystem initialized
 [2018.10.31-11.21.38:024][360]LogSavePackage: Save=117.19ms
 [2018.10.31-11.21.38:024][360]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownExampleMap4D0379A545BE7ECCDB3FF9A313C646CE.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
 [2018.10.31-11.21.38:029][360]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.10.31-11.23.53:185][429]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-11.23.53:212][429]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.10.31-11.23.53:212][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-11.23.53:212][429]PIE: New page: PIE session: TopDownExampleMap (31 Oct 2018 11:23:53)
+[2018.10.31-11.23.53:212][429]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.10.31-11.23.53:238][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025379s)
+[2018.10.31-11.23.53:238][429]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.10.31-11.23.53:239][429]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2018.10.31-11.23.53:239][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.026388s)
+[2018.10.31-11.23.53:267][429]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-11.23.53:282][429]LogInit: FAudioDevice initialized.
+[2018.10.31-11.23.53:314][429]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.31-11.23.53:316][429]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.10.31-11.23.53
+[2018.10.31-11.23.53:316][429]LogWorld: Bringing up level for play took: 0.001951
+[2018.10.31-11.23.53:318][429]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.151
+[2018.10.31-11.23.53:318][429]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.10.31-11.23.55:433][678]Cmd: LevelEditor.ToggleImmersive
+[2018.10.31-11.23.55:643][683]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-11.25.00:932][768]Cmd: LevelEditor.ToggleImmersive
+[2018.10.31-11.25.01:146][773]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.10.31-11.25.01:197][773]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.10.31-11.25.01:260][774]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-11.25.02:121][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-11.25.09:256][609]LogMaterial: Missing cached shader map for material buttonOptions, compiling. 
+[2018.10.31-11.25.09:822][609]LogMaterial: Missing cached shader map for material buttonOptions, compiling. 
+[2018.10.31-11.25.09:830][609]LogMaterial: Missing cached shader map for material buttonOptions, compiling. 
+[2018.10.31-11.25.09:852][609]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.31-11.25.09:852][609]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.31-11.25.09:852][609]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.31-11.25.09:852][609]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.31-11.25.09:864][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.10.31-11.25.09:867][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.10.31-11.25.11:060][692]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.31-11.25.11:060][692]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.31-11.25.11:091][694]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.31-11.25.11:105][695]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.31-11.25.11:894][703]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.31-11.25.11:894][703]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.31-11.25.11:894][703]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.31-11.25.11:894][703]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.31-11.25.11:894][703]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.31-11.25.11:894][703]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.31-11.25.11:894][703]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.31-11.25.11:894][703]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.31-11.25.11:894][703]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.31-11.25.11:894][703]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.31-11.25.11:894][703]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.31-11.25.11:894][703]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.31-11.25.11:911][704]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.31-11.25.11:912][704]MaterialEditorStats: Default UI Pixel Shader: 32 instructions
+[2018.10.31-11.25.11:912][704]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.10.31-11.25.11:912][704]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.10.31-11.25.11:912][704]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.31-11.25.11:912][704]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-11.25.12:869][790]LogSlate: Window 'buttonOptions' being destroyed
+[2018.10.31-11.25.40:028][ 30]LogMaterial: Missing cached shader map for material buttonOptions, compiling. 
+[2018.10.31-11.25.40:045][ 32]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.31-11.25.40:045][ 32]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.31-11.25.40:045][ 32]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.31-11.25.40:045][ 32]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.31-11.25.41:146][163]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.31-11.25.41:154][164]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.31-11.25.41:180][167]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.31-11.25.41:197][169]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.31-11.25.41:495][204]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.31-11.25.41:521][207]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.31-11.25.41:529][208]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.31-11.25.41:724][230]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.31-11.25.41:732][231]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.31-11.25.41:749][233]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.31-11.25.41:904][251]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.31-11.25.42:032][266]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.31-11.25.42:032][266]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.31-11.25.42:165][281]MaterialEditorStats: Default UI Pixel Shader: 30 instructions
+[2018.10.31-11.25.42:165][281]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.10.31-11.25.42:165][281]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.10.31-11.25.42:165][281]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.31-11.25.42:165][281]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-11.25.48:825][ 77]LogMaterial: Missing cached shader map for material buttonOptions, compiling. 
+[2018.10.31-11.25.48:837][ 78]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.31-11.25.48:837][ 78]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.31-11.25.48:837][ 78]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.31-11.25.48:837][ 78]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.31-11.25.49:046][103]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.31-11.25.49:046][103]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.31-11.25.49:079][107]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.31-11.25.49:088][108]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.31-11.25.49:319][135]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.31-11.25.49:345][138]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.31-11.25.49:361][140]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.31-11.25.49:486][152]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.31-11.25.49:503][154]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.31-11.25.49:520][156]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.31-11.25.49:638][170]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.31-11.25.49:646][171]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.31-11.25.49:653][172]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.31-11.25.49:790][188]MaterialEditorStats: Default UI Pixel Shader: 30 instructions
+[2018.10.31-11.25.49:790][188]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.10.31-11.25.49:790][188]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.10.31-11.25.49:790][188]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.31-11.25.49:790][188]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-11.25.50:041][218]LogMaterial: Missing cached shader map for material buttonOptions, compiling. 
+[2018.10.31-11.25.50:055][219]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.31-11.25.50:055][219]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.31-11.25.50:055][219]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.31-11.25.50:055][219]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.31-11.25.50:277][245]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.31-11.25.50:283][246]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.31-11.25.50:301][248]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.31-11.25.50:318][250]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.31-11.25.50:557][278]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.31-11.25.50:581][281]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.31-11.25.50:589][282]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.31-11.25.50:715][297]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.31-11.25.50:741][300]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.31-11.25.50:757][302]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.31-11.25.50:886][317]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.31-11.25.50:894][318]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.31-11.25.50:903][319]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.31-11.25.51:037][335]MaterialEditorStats: Default UI Pixel Shader: 32 instructions
+[2018.10.31-11.25.51:037][335]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.10.31-11.25.51:037][335]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.10.31-11.25.51:037][335]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.31-11.25.51:037][335]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-11.26.14:654][161]LogMaterialEditor: Saving and Compiling material buttonOptions
+[2018.10.31-11.26.16:546][161]LogMaterial: Missing cached shader map for material buttonOptions, compiling. 
+[2018.10.31-11.26.16:584][161]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.31-11.26.16:584][161]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.31-11.26.16:584][161]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.31-11.26.16:584][161]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.31-11.26.16:605][161]LogMaterial: Missing cached shader map for material buttonOptions, compiling. 
+[2018.10.31-11.26.16:625][161]LogMaterial: Missing cached shader map for material buttonOptions, compiling. 
+[2018.10.31-11.26.16:656][161]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2018.10.31-11.26.19:784][161]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.10.31-11.26.19:784][161]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.10.31-11.26.19:784][161]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.10.31-11.26.19:784][161]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.31-11.26.19:784][161]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.10.31-11.26.19:784][161]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.10.31-11.26.19:784][161]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.10.31-11.26.19:784][161]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.10.31-11.26.19:784][161]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.31-11.26.19:784][161]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.10.31-11.26.19:784][161]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.10.31-11.26.19:784][161]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.31-11.26.19:784][161]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.31-11.26.19:784][161]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.31-11.26.19:784][161]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.31-11.26.19:830][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/buttonOptions" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/buttonOptions.uasset" SILENT=true
+[2018.10.31-11.26.19:911][161]LogSavePackage: Save=19.64ms
+[2018.10.31-11.26.19:911][161]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/buttonOptionsD37C202D4FAF10927395B1A1E02E1B52.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/buttonOptions.uasset'
+[2018.10.31-11.26.19:915][161]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/buttonOptions.uasset
+[2018.10.31-11.26.24:401][686]LogTexture: Display: Building textures: wall-base (BGRA8, 32X32)
+[2018.10.31-11.26.24:401][686]LogTexture: Display: Building textures: wall-paper (BGRA8, 32X32)
+[2018.10.31-11.26.24:401][686]LogMaterial: Missing cached shader map for material master-wall, compiling. 
+[2018.10.31-11.26.24:421][686]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.31-11.26.30:058][313]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.31-11.26.46:048][225]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy master-wall_Inst, compiling. 
+[2018.10.31-11.26.47:161][225]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.31-11.26.47:162][225]TextureStreamingBuild: Display: Compiling optional shaders took 1.119 seconds.
+[2018.10.31-11.27.39:659][494]LogMaterial: Missing cached shader map for material buttonOptions, compiling. 
+[2018.10.31-11.27.39:670][495]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.31-11.27.39:670][495]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.31-11.27.39:670][495]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.31-11.27.39:670][495]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.31-11.27.40:786][629]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.31-11.27.40:793][630]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.31-11.27.40:819][633]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.31-11.27.40:826][634]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.31-11.27.41:086][665]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.31-11.27.41:119][669]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.31-11.27.41:128][670]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.31-11.27.41:269][687]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.31-11.27.41:286][689]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.31-11.27.41:301][691]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.31-11.27.41:443][708]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.31-11.27.41:452][709]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.31-11.27.41:459][710]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.31-11.27.41:605][727]MaterialEditorStats: Default UI Pixel Shader: 30 instructions
+[2018.10.31-11.27.41:605][727]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.10.31-11.27.41:605][727]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.10.31-11.27.41:605][727]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.31-11.27.41:605][727]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-11.27.53:929][196]LogMaterial: Missing cached shader map for material buttonOptions, compiling. 
+[2018.10.31-11.27.53:946][198]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.31-11.27.53:947][198]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.31-11.27.53:947][198]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.31-11.27.53:947][198]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.31-11.27.54:191][227]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.31-11.27.54:198][228]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.31-11.27.54:225][231]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.31-11.27.54:225][231]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.31-11.27.54:486][259]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.31-11.27.54:495][260]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.31-11.27.54:513][262]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.31-11.27.54:647][278]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.31-11.27.54:662][280]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.31-11.27.54:671][281]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.31-11.27.54:814][298]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.31-11.27.54:822][299]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.31-11.27.54:829][300]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.31-11.27.54:957][315]MaterialEditorStats: Default UI Pixel Shader: 30 instructions
+[2018.10.31-11.27.54:957][315]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.10.31-11.27.54:957][315]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.10.31-11.27.54:957][315]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.31-11.27.54:957][315]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-11.27.55:509][381]LogMaterial: Missing cached shader map for material buttonOptions, compiling. 
+[2018.10.31-11.27.55:525][383]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.31-11.27.55:525][383]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.31-11.27.55:525][383]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.31-11.27.55:525][383]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.31-11.27.55:738][408]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.31-11.27.55:745][409]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.31-11.27.55:771][412]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.31-11.27.55:778][413]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.31-11.27.56:029][443]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.31-11.27.56:046][445]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.31-11.27.56:055][446]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.31-11.27.56:197][463]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.31-11.27.56:205][464]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.31-11.27.56:213][465]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.31-11.27.56:347][481]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.31-11.27.56:363][483]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.31-11.27.56:371][484]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.31-11.27.56:499][499]MaterialEditorStats: Default UI Pixel Shader: 32 instructions
+[2018.10.31-11.27.56:499][499]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.10.31-11.27.56:500][499]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.10.31-11.27.56:500][499]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.31-11.27.56:500][499]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-11.27.58:169][699]LogMaterialEditor: Applying material buttonOptions
+[2018.10.31-11.27.59:977][699]LogMaterial: Missing cached shader map for material buttonOptions, compiling. 
+[2018.10.31-11.28.00:025][699]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.31-11.28.00:025][699]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.31-11.28.00:025][699]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.31-11.28.00:025][699]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.31-11.28.00:044][699]LogMaterial: Missing cached shader map for material buttonOptions, compiling. 
+[2018.10.31-11.28.00:058][699]LogMaterial: Missing cached shader map for material buttonOptions, compiling. 
+[2018.10.31-11.28.00:091][699]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2018.10.31-11.28.00:266][717]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.10.31-11.28.00:275][718]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.10.31-11.28.00:307][722]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.10.31-11.28.00:307][722]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.31-11.28.00:558][752]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.10.31-11.28.00:582][755]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.10.31-11.28.00:592][756]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.10.31-11.28.00:725][772]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.10.31-11.28.00:733][773]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.31-11.28.00:749][775]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.10.31-11.28.00:866][789]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.10.31-11.28.00:950][799]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.31-11.28.00:959][800]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.31-11.28.00:966][801]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.31-11.28.01:015][807]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.31-11.28.02:605][997]MaterialEditorStats: Default UI Pixel Shader: 32 instructions
+[2018.10.31-11.28.02:605][997]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.10.31-11.28.02:605][997]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.10.31-11.28.02:605][997]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.31-11.28.02:605][997]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-11.28.22:761][398]LogMaterialEditor: Saving and Compiling material buttonOptions
+[2018.10.31-11.28.22:805][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/buttonOptions" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/buttonOptions.uasset" SILENT=true
+[2018.10.31-11.28.22:873][398]LogSavePackage: Save=19.54ms
+[2018.10.31-11.28.22:873][398]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/buttonOptionsB9DBB858438FA9CA318DF6841150AA94.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/buttonOptions.uasset'
+[2018.10.31-11.28.22:883][398]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/buttonOptions.uasset
+[2018.10.31-11.28.27:359][858]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-11.28.27:379][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.10.31-11.28.27:379][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-11.28.27:379][858]PIE: New page: PIE session: TopDownExampleMap (31 Oct 2018 11:28:27)
+[2018.10.31-11.28.27:379][858]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.10.31-11.28.27:382][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002934s)
+[2018.10.31-11.28.27:383][858]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.10.31-11.28.27:383][858]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2018.10.31-11.28.27:383][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.003659s)
+[2018.10.31-11.28.27:410][858]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-11.28.27:424][858]LogInit: FAudioDevice initialized.
+[2018.10.31-11.28.27:456][858]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.10.31-11.28.27:458][858]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.10.31-11.28.27
+[2018.10.31-11.28.27:458][858]LogWorld: Bringing up level for play took: 0.001657
+[2018.10.31-11.28.27:460][858]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.294
+[2018.10.31-11.28.27:460][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.10.31-11.28.37:485][ 57]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.10.31-11.28.37:532][ 57]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.10.31-11.28.40:275][181]LogSlate: Window 'Save Content' being destroyed
+[2018.10.31-11.28.40:399][181]LogSavePackage: Save=15.40ms
+[2018.10.31-11.28.40:399][181]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/master-wall_InstC8CF0B8A4D6362C4FE4450863041AF82.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/DynamicWall/master-wall_Inst.uasset'
+[2018.10.31-11.28.40:408][181]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/DynamicWall/master-wall_Inst.uasset
