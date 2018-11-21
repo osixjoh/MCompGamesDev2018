@@ -1,4 +1,4 @@
-﻿Log file open, 11/16/18 18:21:20
+﻿Log file open, 11/21/18 15:21:56
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +7,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: MCompProject
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(1339803367) SRandInit(1339803368).
+LogInit: Display: RandInit(1834306016) SRandInit(1834306016).
 LogInit: Read version file with build ID '3944462'
 LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
 LogInit: Registered custom module enumerator with build ID '3944462'
-LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 1.682887
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.504885
 LogD3D11RHI: Aftermath initialized
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
@@ -168,7 +168,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  7.195s to configure plugins.
+LogStreaming: Display: Took  3.547s to configure plugins.
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -188,7 +188,7 @@ LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured
 LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
 LogInit:  - LocalHostAddr = Default
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-LogInit: WinSock: I am ADAMS-PC (172.18.101.2:0)
+LogInit: WinSock: I am DESKTOP-G9AEHUG (192.168.0.3:0)
 LogInit: Build: ++UE4+Release-4.19-CL-4033788
 LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
 LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
@@ -219,541 +219,410 @@ LogInit: Branch Name: ++UE4+Release-4.19
 LogInit: Command Line:  
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
-LogStreaming: Display: Took  0.038s to delete old logs.
+LogStreaming: Display: Took  0.000s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.11.16-18.21.28:641][  0]LogInit: Selected Device Profile: [Windows]
-[2018.11.16-18.21.28:641][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.11.16-18.21.28:760][  0]LogInit: Computer: ADAMS-PC
-[2018.11.16-18.21.28:760][  0]LogInit: User: Osixjoh
-[2018.11.16-18.21.28:760][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.11.16-18.21.28:760][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2018.11.16-18.21.28:760][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
-[2018.11.16-18.21.28:760][  0]LogMemory: Platform Memory Stats for Windows
-[2018.11.16-18.21.28:760][  0]LogMemory: Process Physical Memory: 277.55 MB used, 277.55 MB peak
-[2018.11.16-18.21.28:760][  0]LogMemory: Process Virtual Memory: 272.98 MB used, 272.98 MB peak
-[2018.11.16-18.21.28:760][  0]LogMemory: Physical Memory: 6476.48 MB used,  9871.60 MB free, 16348.08 MB total
-[2018.11.16-18.21.28:760][  0]LogMemory: Virtual Memory: 4799.57 MB used,  9871.60 MB free, 134217728.00 MB total
-[2018.11.16-18.21.29:641][  0]LogInit: Using OS detected language (en-GB).
-[2018.11.16-18.21.29:641][  0]LogInit: Using OS detected locale (en-GB).
-[2018.11.16-18.21.30:155][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
-[2018.11.16-18.21.30:994][  0]LogStreaming: Display: Took  1.354s to EndInitTextLocalization.
-[2018.11.16-18.21.30:994][  0]LogInit: Setting process to per monitor DPI aware
-[2018.11.16-18.21.31:699][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.11.16-18.21.31:699][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.11.16-18.21.38:150][  0]LogD3D11RHI: D3D11 adapters:
-[2018.11.16-18.21.38:890][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) R9 390 Series' (Feature Level 11_0)
-[2018.11.16-18.21.38:890][  0]LogD3D11RHI:       8168/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
-[2018.11.16-18.21.38:914][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.11.16-18.21.38:914][  0]LogD3D11RHI:       0/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.11.16-18.21.38:914][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.11.16-18.21.38:922][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.11.16-18.21.38:922][  0]LogD3D11RHI:     GPU DeviceId: 0x67b0 (for the marketing name, search the web for "GPU Device Id")
-[2018.11.16-18.21.38:922][  0]LogWindows: EnumDisplayDevices:
-[2018.11.16-18.21.38:923][  0]LogWindows:    0. 'AMD Radeon (TM) R9 390 Series' (P:0 D:1)
-[2018.11.16-18.21.38:923][  0]LogWindows:    1. 'AMD Radeon (TM) R9 390 Series' (P:1 D:1)
-[2018.11.16-18.21.38:923][  0]LogWindows:    2. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
-[2018.11.16-18.21.38:924][  0]LogWindows:    3. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
-[2018.11.16-18.21.38:924][  0]LogWindows:    4. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
-[2018.11.16-18.21.38:925][  0]LogWindows:    5. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
-[2018.11.16-18.21.38:925][  0]LogWindows:    6. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
-[2018.11.16-18.21.38:925][  0]LogWindows:    7. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
-[2018.11.16-18.21.38:926][  0]LogWindows:    8. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
-[2018.11.16-18.21.38:927][  0]LogWindows:    9. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
-[2018.11.16-18.21.38:927][  0]LogWindows:    10. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
-[2018.11.16-18.21.38:928][  0]LogWindows:    11. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
-[2018.11.16-18.21.38:928][  0]LogWindows:    12. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
-[2018.11.16-18.21.38:928][  0]LogWindows:    13. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
-[2018.11.16-18.21.38:929][  0]LogWindows:    14. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
-[2018.11.16-18.21.38:929][  0]LogWindows:    15. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
-[2018.11.16-18.21.38:930][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.11.16-18.21.38:930][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R9 390 Series
-[2018.11.16-18.21.38:930][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.11.16-18.21.38:930][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.11.16-18.21.38:930][  0]LogRHI: Texture pool is 5717 MB (70% of 8168 MB)
-[2018.11.16-18.21.39:176][  0]LogD3D11RHI: Async texture creation enabled
-[2018.11.16-18.21.39:203][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
-[2018.11.16-18.21.39:208][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Intermediate/Shaders/WorkingDirectory/7548/).
-[2018.11.16-18.21.39:208][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Osixjoh/AppData/Local/Temp/UnrealShaderWorkingDir/B718ADE24F86D4761C6EAFA61409D188/'.
-[2018.11.16-18.21.41:800][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.11.16-18.21.41:836][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.11.16-18.21.41:899][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.11.16-18.21.41:959][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.11.16-18.21.42:059][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.11.16-18.21.42:098][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.11.16-18.21.42:158][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.11.16-18.21.42:196][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.11.16-18.21.42:241][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.11.16-18.21.42:314][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.11.16-18.21.42:368][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.11.16-18.21.42:436][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.11.16-18.21.42:511][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
-[2018.11.16-18.21.42:546][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.11.16-18.21.42:585][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.11.16-18.21.42:669][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.11.16-18.21.42:670][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.11.16-18.21.42:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.16-18.21.42:786][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.11.16-18.21.42:985][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.11.16-18.21.43:024][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.11.16-18.21.43:061][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.11.16-18.21.43:101][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.11.16-18.21.43:138][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.11.16-18.21.43:216][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.11.16-18.21.43:216][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.11.16-18.21.45:268][  0]LogXGEController: Cleaning working directory: C:/Users/Osixjoh/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2018.11.16-18.21.45:269][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.11.16-18.21.45:269][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.11.16-18.21.45:269][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.11.16-18.21.50:213][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.11.16-18.21.51:528][  0]LogDerivedDataCache: Loaded boot cache 1.29s 74MB C:/Users/Osixjoh/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.11.16-18.21.51:529][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Osixjoh/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
-[2018.11.16-18.21.51:529][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.11.16-18.21.51:529][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.11.16-18.21.51:529][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.11.16-18.21.51:529][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.11.16-18.21.51:582][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.11.16-18.21.51:619][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Osixjoh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.11.16-18.21.51:619][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2018.11.16-18.21.51:619][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2018.11.16-18.21.51:637][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.11.16-18.21.51:638][  0]LogSlate: Using Freetype 2.6.0
-[2018.11.16-18.21.51:733][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.11.16-18.21.51:733][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.11.16-18.21.58:157][  0]LogAssetRegistry: FAssetRegistry took 0.0280 seconds to start up
-[2018.11.16-18.22.02:215][  0]LogInit: Selected Device Profile: [Windows]
-[2018.11.16-18.22.05:865][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.11.16-18.22.05:997][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.11.16-18.22.05:997][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.11.16-18.22.05:997][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.11.16-18.22.05:997][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.11.16-18.22.05:997][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.11.16-18.22.07:271][  0]LogNetVersion: MCompProject , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 693527995)
-[2018.11.16-18.22.13:679][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.483267 seconds
-[2018.11.16-18.22.13:687][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
-[2018.11.16-18.22.13:687][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
-[2018.11.16-18.22.13:687][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.11.16-18.23.31:069][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.11.16-18.23.31:141][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.11.16-18.23.33:210][  0]SourceControl: Source control is disabled
-[2018.11.16-18.23.33:210][  0]SourceControl: Source control is disabled
-[2018.11.16-18.23.33:383][  0]SourceControl: Source control is disabled
-[2018.11.16-18.23.33:475][  0]SourceControl: Source control is disabled
-[2018.11.16-18.23.35:841][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.11.16-18.23.37:099][  0]LogOcInput: OculusInput pre-init called
-[2018.11.16-18.23.37:633][  0]LogEngine: Initializing Engine...
-[2018.11.16-18.23.37:637][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.11.16-18.23.37:640][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.11.16-18.23.37:640][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.11.16-18.23.38:088][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.11.16-18.23.38:205][  0]LogInit: XAudio2 using 'Headphones (3- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.11.16-18.23.38:300][  0]LogInit: FAudioDevice initialized.
-[2018.11.16-18.23.38:449][  0]LogDerivedDataCache: Saved boot cache 0.15s 74MB C:/Users/Osixjoh/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.11.16-18.23.38:495][  0]LogInit: Texture streaming: Enabled
-[2018.11.16-18.23.38:614][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.11.16-18.23.38:654][  0]LogInit: Transaction tracking system initialized
-[2018.11.16-18.23.38:913][  0]BlueprintLog: New page: Editor Load
-[2018.11.16-18.23.40:586][  0]LocalizationService: Localization service is disabled
-[2018.11.16-18.23.41:366][  0]LogConsoleResponse: Display: 
-[2018.11.16-18.23.42:276][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.11.16-18.23.42:276][  0]LogCook: Display: Mobile HDR setting 1
-[2018.11.16-18.23.42:277][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.11.16-18.23.42:277][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.11.16-18.23.42:277][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.11.16-18.23.43:846][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/' took 0.06s
-[2018.11.16-18.23.45:738][  0]SourceControl: Source control is disabled
-[2018.11.16-18.23.45:738][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.11.16-18.23.45:739][  0]LightingResults: New page: Lighting Build
-[2018.11.16-18.23.45:745][  0]MapCheck: New page: Map Check
-[2018.11.16-18.23.45:745][  0]LightingResults: New page: Lighting Build
-[2018.11.16-18.23.45:873][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501cbd6180, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
-[2018.11.16-18.23.45:892][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501cbd6180, Size=64
-[2018.11.16-18.23.45:892][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501cbd6200, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
-[2018.11.16-18.23.45:906][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501f6ab560, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
-[2018.11.16-18.23.45:914][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501f69c800, Size=1312, Default__TopDownCharacter_C Function /Game/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
-[2018.11.16-18.23.45:916][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501f68fba0, Size=56, Default__MasterInteratable_C Function /Game/ell/MasterInteratable.MasterInteratable_C:ExecuteUbergraph_MasterInteratable
-[2018.11.16-18.23.46:186][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501f60e480, Size=600, Default__MasterRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
-[2018.11.16-18.23.46:358][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501f61af30, Size=12, Default__Counter-manager_C Function /Game/GhostRoomStuff/Counter_Test/Counter-manager.Counter-manager_C:ExecuteUbergraph_Counter-manager
-[2018.11.16-18.23.46:364][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501f2dae00, Size=728, Default__Testing_ghost_C Function /Game/GhostRoomStuff/Counter_Test/Testing_ghost.Testing_ghost_C:ExecuteUbergraph_Testing_ghost
-[2018.11.16-18.23.46:366][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501f2b2080, Size=336, Default__Lights_odd_C Function /Game/GhostRoomStuff/Lights_odd.Lights_odd_C:ExecuteUbergraph_Lights_odd
-[2018.11.16-18.23.46:410][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000250775a4b18, Size=4, Default__HideAndSpookGhost_C Function /Game/Rooms/HideAndSpookAssets/HideAndSpookGhost.HideAndSpookGhost_C:ExecuteUbergraph_HideAndSpookGhost
-[2018.11.16-18.23.46:414][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501195c3c0, Size=32, Default__Hello_C Function /Game/GhostRoomStuff/Hello.Hello_C:ExecuteUbergraph_Hello
-[2018.11.16-18.23.46:668][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501f68f890, Size=56, Default__MainMenu_C Function /Game/MainMenu/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
-[2018.11.16-18.23.46:670][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501f6a3e40, Size=112, Default__TopDownGameMode_C Function /Game/TopDownGameMode.TopDownGameMode_C:ExecuteUbergraph_TopDownGameMode
-[2018.11.16-18.23.46:674][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501c58bd80, Size=312, Default__HideAndSpookRoom_C Function /Game/Rooms/HideAndSpookRoom.HideAndSpookRoom_C:ExecuteUbergraph_HideAndSpookRoom
-[2018.11.16-18.23.46:674][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000250740cb100, Size=600, Default__HideAndSpookRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
-[2018.11.16-18.23.46:677][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000250740cae80, Size=624, Default__HideAndSpookCrate_C Function /Game/Rooms/HideAndSpookAssets/HideAndSpookCrate.HideAndSpookCrate_C:ExecuteUbergraph_HideAndSpookCrate
-[2018.11.16-18.23.46:708][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501c58b240, Size=312, Default__HideAndSpookRoom_C Function /Game/Rooms/HideAndSpookRoom.HideAndSpookRoom_C:ExecuteUbergraph_HideAndSpookRoom
-[2018.11.16-18.23.46:708][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501fa1ae80, Size=600, Default__HideAndSpookRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
-[2018.11.16-18.23.46:732][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025074108c00, Size=992, Default__TopDownController_C Function /Game/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController
-[2018.11.16-18.23.46:823][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501f61af30, Size=12
-[2018.11.16-18.23.46:823][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501fde3810, Size=12, Default__Counter-manager_C Function /Engine/Transient.REINST_Counter-manager_C_4:ExecuteUbergraph_Counter-manager
-[2018.11.16-18.23.46:824][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501195c3c0, Size=32
-[2018.11.16-18.23.46:824][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501fdf1ea0, Size=32, Default__Hello_C Function /Engine/Transient.REINST_Hello_C_5:ExecuteUbergraph_Hello
-[2018.11.16-18.23.46:825][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000250740cae80, Size=624
-[2018.11.16-18.23.46:825][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501ff0ce00, Size=624, Default__HideAndSpookCrate_C Function /Engine/Transient.REINST_HideAndSpookCrate_C_6:ExecuteUbergraph_HideAndSpookCrate
-[2018.11.16-18.23.46:826][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501f2b2080, Size=336
-[2018.11.16-18.23.46:826][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501fdb4580, Size=336, Default__Lights_odd_C Function /Engine/Transient.REINST_Lights_odd_C_8:ExecuteUbergraph_Lights_odd
-[2018.11.16-18.23.46:826][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501f68fba0, Size=56
-[2018.11.16-18.23.46:826][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501f68fba0, Size=56, Default__MasterInteratable_C Function /Engine/Transient.REINST_MasterInteratable_C_9:ExecuteUbergraph_MasterInteratable
-[2018.11.16-18.23.46:828][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501f60e480, Size=600
-[2018.11.16-18.23.46:828][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501fa1a200, Size=600, Default__MasterRoom_C Function /Engine/Transient.REINST_MasterRoom_C_10:ExecuteUbergraph_MasterRoom
-[2018.11.16-18.23.46:828][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501f2dae00, Size=728
-[2018.11.16-18.23.46:828][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501fdaab00, Size=728, Default__Testing_ghost_C Function /Engine/Transient.REINST_Testing_ghost_C_11:ExecuteUbergraph_Testing_ghost
-[2018.11.16-18.23.46:830][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501c58b240, Size=312
-[2018.11.16-18.23.46:830][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501fa1ae80, Size=600
-[2018.11.16-18.23.46:830][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501c58b240, Size=312, Default__HideAndSpookRoom_C Function /Engine/Transient.REINST_HideAndSpookRoom_C_12:ExecuteUbergraph_HideAndSpookRoom
-[2018.11.16-18.23.46:830][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501fa1ae80, Size=600, Default__HideAndSpookRoom_C Function /Engine/Transient.REINST_MasterRoom_C_10:ExecuteUbergraph_MasterRoom
-[2018.11.16-18.23.46:830][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000250775a4b18, Size=4
-[2018.11.16-18.23.46:830][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501fab2800, Size=4, Default__HideAndSpookGhost_C Function /Engine/Transient.REINST_HideAndSpookGhost_C_1:ExecuteUbergraph_HideAndSpookGhost
-[2018.11.16-18.23.46:830][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501f68f890, Size=56
-[2018.11.16-18.23.46:830][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501f68f890, Size=56, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_2:ExecuteUbergraph_MainMenu
-[2018.11.16-18.23.46:831][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501f69c800, Size=1312
-[2018.11.16-18.23.46:831][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501fd7dd00, Size=1312, Default__TopDownCharacter_C Function /Engine/Transient.REINST_TopDownCharacter_C_13:ExecuteUbergraph_TopDownCharacter
-[2018.11.16-18.23.46:832][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025074108c00, Size=992
-[2018.11.16-18.23.46:832][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501ff31800, Size=992, Default__TopDownController_C Function /Engine/Transient.REINST_TopDownController_C_14:ExecuteUbergraph_TopDownController
-[2018.11.16-18.23.46:832][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501f6a3e40, Size=112
-[2018.11.16-18.23.46:832][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501fe23200, Size=112, Default__TopDownGameMode_C Function /Engine/Transient.REINST_TopDownGameMode_C_15:ExecuteUbergraph_TopDownGameMode
-[2018.11.16-18.23.46:915][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025020b386e0, Size=12, Default__Counter-manager_C Function /Game/GhostRoomStuff/Counter_Test/Counter-manager.Counter-manager_C:ExecuteUbergraph_Counter-manager
-[2018.11.16-18.23.46:916][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025020a3de00, Size=32, Default__Hello_C Function /Game/GhostRoomStuff/Hello.Hello_C:ExecuteUbergraph_Hello
-[2018.11.16-18.23.46:919][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025020a29a80, Size=624, Default__HideAndSpookCrate_C Function /Game/Rooms/HideAndSpookAssets/HideAndSpookCrate.HideAndSpookCrate_C:ExecuteUbergraph_HideAndSpookCrate
-[2018.11.16-18.23.46:921][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025020a0dd80, Size=336, Default__Lights_odd_C Function /Game/GhostRoomStuff/Lights_odd.Lights_odd_C:ExecuteUbergraph_Lights_odd
-[2018.11.16-18.23.46:922][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000250209b3fc8, Size=56, Default__MasterInteratable_C Function /Game/ell/MasterInteratable.MasterInteratable_C:ExecuteUbergraph_MasterInteratable
-[2018.11.16-18.23.46:929][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025020937d80, Size=600, Default__MasterRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
-[2018.11.16-18.23.46:932][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025020923700, Size=728, Default__Testing_ghost_C Function /Game/GhostRoomStuff/Counter_Test/Testing_ghost.Testing_ghost_C:ExecuteUbergraph_Testing_ghost
-[2018.11.16-18.23.46:936][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501fb656c0, Size=312, Default__HideAndSpookRoom_C Function /Game/Rooms/HideAndSpookRoom.HideAndSpookRoom_C:ExecuteUbergraph_HideAndSpookRoom
-[2018.11.16-18.23.46:936][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025020936e80, Size=600, Default__HideAndSpookRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
-[2018.11.16-18.23.46:938][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002502090bbc0, Size=4, Default__HideAndSpookGhost_C Function /Game/Rooms/HideAndSpookAssets/HideAndSpookGhost.HideAndSpookGhost_C:ExecuteUbergraph_HideAndSpookGhost
-[2018.11.16-18.23.46:940][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002502093cd78, Size=56, Default__MainMenu_C Function /Game/MainMenu/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
-[2018.11.16-18.23.46:945][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002502088f200, Size=1312, Default__TopDownCharacter_C Function /Game/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
-[2018.11.16-18.23.46:957][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002502095e000, Size=992, Default__TopDownController_C Function /Game/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController
-[2018.11.16-18.23.46:959][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000250208152f0, Size=112, Default__TopDownGameMode_C Function /Game/TopDownGameMode.TopDownGameMode_C:ExecuteUbergraph_TopDownGameMode
-[2018.11.16-18.23.48:973][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [26.772600ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
-[2018.11.16-18.23.49:076][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
-[2018.11.16-18.23.49:170][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.11.16-18.23.49:188][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501cbd6200, Size=64
-[2018.11.16-18.23.49:188][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501fd7dd00, Size=1312
-[2018.11.16-18.23.49:188][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501f68fba0, Size=56
-[2018.11.16-18.23.49:188][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501fa1a200, Size=600
-[2018.11.16-18.23.49:188][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501fde3810, Size=12
-[2018.11.16-18.23.49:188][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501fdaab00, Size=728
-[2018.11.16-18.23.49:188][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501fdb4580, Size=336
-[2018.11.16-18.23.49:188][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501fab2800, Size=4
-[2018.11.16-18.23.49:188][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501fdf1ea0, Size=32
-[2018.11.16-18.23.49:188][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501f68f890, Size=56
-[2018.11.16-18.23.49:189][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501fe23200, Size=112
-[2018.11.16-18.23.49:189][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501c58b240, Size=312
-[2018.11.16-18.23.49:189][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501fa1ae80, Size=600
-[2018.11.16-18.23.49:189][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501ff0ce00, Size=624
-[2018.11.16-18.23.49:189][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501ff31800, Size=992
-[2018.11.16-18.23.49:191][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.11.16-18.23.49:325][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 134.023ms to complete.
-[2018.11.16-18.23.49:325][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 3.588
-[2018.11.16-18.23.49:889][  0]LogCollectionManager: Loaded 0 collections in 0.003455 seconds
-[2018.11.16-18.23.49:967][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/Collections/' took 0.01s
-[2018.11.16-18.23.49:967][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Developers/Osixjoh/Collections/' took 0.01s
-[2018.11.16-18.23.49:967][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Collections/' took 0.01s
-[2018.11.16-18.23.49:967][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.11.16-18.23.49:980][  0]LogContentBrowser: Native class hierarchy populated in 0.0128 seconds. Added 2452 classes and 558 folders.
-[2018.11.16-18.23.50:000][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2018.11.16-18.23.52:105][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.11.16-18.23.52:162][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2018.11.16-18.23.52:208][  0]LogSlate: Took 0.017856 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.11.16-18.23.52:257][  0]LogSlate: Took 0.046863 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.11.16-18.23.52:279][  0]LogSlate: Took 0.014563 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.11.16-18.23.52:634][  0]LogRenderer: Reallocating scene render targets to support 1204x640 Format 10 NumSamples 1 (Frame:1).
-[2018.11.16-18.23.52:789][  0]LogSlate: Took 0.046249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.11.16-18.23.52:948][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2018.11.16-18.23.52:948][  0]LogLoad: (Engine Initialization) Total time: 167.59 seconds
-[2018.11.16-18.23.52:948][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.11.16-18.23.53:346][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.11.16-18.23.53:969][  2]LogAssetRegistry: Asset discovery search completed in 115.8336 seconds
-[2018.11.16-18.23.53:972][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2018.11.16-18.23.53:972][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000113 seconds (updated 0 objects)
-[2018.11.16-18.23.54:308][  3]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.11.16-18.24.03:620][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.16-18.24.06:421][276]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501b270680, Size=600, Default__Pong-room_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
-[2018.11.16-18.24.06:424][276]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501b26e780, Size=880, Default__Enemy_C Function /Game/Rooms/Pong_room/Pong_room/Enemy.Enemy_C:ExecuteUbergraph_Enemy
-[2018.11.16-18.24.06:426][276]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501b1f5300, Size=712, Default__Ball_Blue_C Function /Game/Rooms/Pong_room/Pong_room/Ball_Blue.Ball_Blue_C:ExecuteUbergraph_Ball_Blue
-[2018.11.16-18.24.06:451][276]LogUObjectGlobals: Created PersistentFrame Addr=0x00000250457dd800, Size=472, Default__Ball_Red_C Function /Game/Rooms/Pong_room/Pong_room/Ball_Red.Ball_Red_C:ExecuteUbergraph_Ball_Red
-[2018.11.16-18.24.06:477][276]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501b1f5300, Size=712
-[2018.11.16-18.24.06:477][276]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501b27a200, Size=712, Default__Ball_Blue_C Function /Engine/Transient.REINST_Ball_Blue_C_31:ExecuteUbergraph_Ball_Blue
-[2018.11.16-18.24.06:478][276]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000250457dd800, Size=472
-[2018.11.16-18.24.06:478][276]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501b1d2c00, Size=472, Default__Ball_Red_C Function /Engine/Transient.REINST_Ball_Red_C_32:ExecuteUbergraph_Ball_Red
-[2018.11.16-18.24.06:478][276]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501b26e780, Size=880
-[2018.11.16-18.24.06:478][276]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501b26e780, Size=880, Default__Enemy_C Function /Engine/Transient.REINST_Enemy_C_33:ExecuteUbergraph_Enemy
-[2018.11.16-18.24.06:479][276]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501b270680, Size=600
-[2018.11.16-18.24.06:479][276]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501b1c7b00, Size=600, Default__Pong-room_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
-[2018.11.16-18.24.06:499][276]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501b1f5300, Size=712, Default__Ball_Blue_C Function /Game/Rooms/Pong_room/Pong_room/Ball_Blue.Ball_Blue_C:ExecuteUbergraph_Ball_Blue
-[2018.11.16-18.24.06:501][276]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501b0b7800, Size=472, Default__Ball_Red_C Function /Game/Rooms/Pong_room/Pong_room/Ball_Red.Ball_Red_C:ExecuteUbergraph_Ball_Red
-[2018.11.16-18.24.06:504][276]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501b04f900, Size=880, Default__Enemy_C Function /Game/Rooms/Pong_room/Pong_room/Enemy.Enemy_C:ExecuteUbergraph_Enemy
-[2018.11.16-18.24.06:505][276]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501b077880, Size=600, Default__Pong-room_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
-[2018.11.16-18.24.06:548][276]LogMaterial: Missing cached shader map for material red, compiling. 
-[2018.11.16-18.24.06:752][276]LogShaderCompilers: Display: Shaders left to compile 22
-[2018.11.16-18.24.06:752][276]LogShaderCompilers: Display: Shaders left to compile 12
-[2018.11.16-18.24.06:752][276]LogShaderCompilers: Display: Shaders left to compile 2
-[2018.11.16-18.24.07:435][276]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
-[2018.11.16-18.24.08:085][276]LogUObjectGlobals: Created PersistentFrame Addr=0x000002504d67d828, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
-[2018.11.16-18.24.08:086][276]LogUObjectGlobals: Created PersistentFrame Addr=0x000002504d67d820, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
-[2018.11.16-18.24.09:438][276]LogSlate: Took 0.023508 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2018.11.16-18.24.12:665][435]LogRenderer: Reallocating scene render targets to support 1604x756 Format 10 NumSamples 1 (Frame:1).
-[2018.11.16-18.24.14:571][554]LogSlate: Window 'Pong-room' being destroyed
-[2018.11.16-18.24.24:654][428]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501b04f900, Size=880
-[2018.11.16-18.24.24:655][428]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025079bff900, Size=880, Default__PongEnemy_C Function /Engine/Transient.REINST_PongEnemy_C_57:ExecuteUbergraph_Enemy
-[2018.11.16-18.24.24:679][428]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025050c8e400, Size=880, Default__PongEnemy_C Function /Game/Rooms/Pong_room/Pong_room/PongEnemy.PongEnemy_C:ExecuteUbergraph_PongEnemy
-[2018.11.16-18.24.24:997][428]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501b1d2c00, Size=472
-[2018.11.16-18.24.24:997][428]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501b27a200, Size=712
-[2018.11.16-18.24.24:997][428]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501b26e780, Size=880
-[2018.11.16-18.24.24:997][428]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501b1c7b00, Size=600
-[2018.11.16-18.24.25:055][428]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501b1f5300, Size=712
-[2018.11.16-18.24.25:055][428]LogUObjectGlobals: Created PersistentFrame Addr=0x00000250371a9300, Size=712, Default__Ball_Blue_C Function /Engine/Transient.REINST_Ball_Blue_C_63:ExecuteUbergraph_Ball_Blue
-[2018.11.16-18.24.25:060][428]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501b1f4a00, Size=712, Default__Ball_Blue_C Function /Game/Rooms/Pong_room/Pong_room/Ball_Blue.Ball_Blue_C:ExecuteUbergraph_Ball_Blue
-[2018.11.16-18.24.25:258][428]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025079bff900, Size=880
-[2018.11.16-18.24.25:286][428]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501b0b7800, Size=472
-[2018.11.16-18.24.25:286][428]LogUObjectGlobals: Created PersistentFrame Addr=0x000002504f730c00, Size=472, Default__Ball_Red_C Function /Engine/Transient.REINST_Ball_Red_C_69:ExecuteUbergraph_Ball_Red
-[2018.11.16-18.24.25:290][428]LogUObjectGlobals: Created PersistentFrame Addr=0x000002504d474600, Size=472, Default__Ball_Red_C Function /Game/Rooms/Pong_room/Pong_room/Ball_Red.Ball_Red_C:ExecuteUbergraph_Ball_Red
-[2018.11.16-18.24.25:489][428]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000250371a9300, Size=712
-[2018.11.16-18.24.25:494][428]LogMetaData: Removing '/Game/Rooms/Pong_room/Pong_room/PongEnemy.PongEnemy_C' ref from Metadata '/Game/Rooms/Pong_room/Pong_room/Enemy.PackageMetaData'
-[2018.11.16-18.24.25:494][428]LogMetaData: Removing '/Game/Rooms/Pong_room/Pong_room/PongEnemy.PongEnemy:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Rooms/Pong_room/Pong_room/Enemy.PackageMetaData'
-[2018.11.16-18.24.25:494][428]LogMetaData: Removing '/Game/Rooms/Pong_room/Pong_room/PongEnemy.PongEnemy:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Rooms/Pong_room/Pong_room/Enemy.PackageMetaData'
-[2018.11.16-18.24.25:494][428]LogMetaData: Removing '/Game/Rooms/Pong_room/Pong_room/PongEnemy.PongEnemy:WaitIfPlayerStunned.K2Node_Tunnel_3' ref from Metadata '/Game/Rooms/Pong_room/Pong_room/Enemy.PackageMetaData'
-[2018.11.16-18.24.25:494][428]LogMetaData: Removing '/Game/Rooms/Pong_room/Pong_room/PongEnemy.PongEnemy:WaitIfPlayerStunned.K2Node_Tunnel_2' ref from Metadata '/Game/Rooms/Pong_room/Pong_room/Enemy.PackageMetaData'
-[2018.11.16-18.24.25:495][428]LogMetaData: Removing '/Game/Rooms/Pong_room/Pong_room/PongEnemy.SKEL_PongEnemy_C' ref from Metadata '/Game/Rooms/Pong_room/Pong_room/Enemy.PackageMetaData'
-[2018.11.16-18.24.25:728][428]LogSavePackage: Save=131.87ms
-[2018.11.16-18.24.25:728][428]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/PongEnemy1FA441914CE4E2DAE5495ABA29724B3B.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset'
-[2018.11.16-18.24.25:740][428]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset
-[2018.11.16-18.24.25:931][428]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002504f730c00, Size=472
-[2018.11.16-18.24.26:032][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/Pong-room" FILE="../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong-room.uasset" SILENT=true
-[2018.11.16-18.24.31:647][428]LogSavePackage: Save=103.45ms
-[2018.11.16-18.24.31:647][428]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/Pong-room12E5B7104E2EE552E54DABA4E80988F4.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong-room.uasset'
-[2018.11.16-18.24.31:660][428]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong-room.uasset
-[2018.11.16-18.24.31:937][428]LogSavePackage: Save=65.19ms
-[2018.11.16-18.24.31:937][428]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/Ball_Blue1A47181B409CF895FD076D92285BF9FB.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/Ball_Blue.uasset'
-[2018.11.16-18.24.31:950][428]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/Ball_Blue.uasset
-[2018.11.16-18.24.32:181][428]LogSavePackage: Save=64.30ms
-[2018.11.16-18.24.32:182][428]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/Ball_Red92DE0A0D4CDB85AA04B217BA15946AFC.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/Ball_Red.uasset'
-[2018.11.16-18.24.32:195][428]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/Ball_Red.uasset
-[2018.11.16-18.24.37:996][  2]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501b1f4a00, Size=712
-[2018.11.16-18.24.37:996][  2]LogUObjectGlobals: Created PersistentFrame Addr=0x000002507aaf8100, Size=712, Default__RedPongBall_C Function /Engine/Transient.REINST_RedPongBall_C_75:ExecuteUbergraph_Ball_Blue
-[2018.11.16-18.24.38:003][  2]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501b1f5f00, Size=712, Default__RedPongBall_C Function /Game/Rooms/Pong_room/Pong_room/RedPongBall.RedPongBall_C:ExecuteUbergraph_RedPongBall
-[2018.11.16-18.24.38:279][  2]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025050c8e400, Size=880
-[2018.11.16-18.24.38:279][  2]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501b26e780, Size=880, Default__PongEnemy_C Function /Engine/Transient.REINST_PongEnemy_C_83:ExecuteUbergraph_PongEnemy
-[2018.11.16-18.24.38:292][  2]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501b019d00, Size=880, Default__PongEnemy_C Function /Game/Rooms/Pong_room/Pong_room/PongEnemy.PongEnemy_C:ExecuteUbergraph_PongEnemy
-[2018.11.16-18.24.38:699][  2]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002507aaf8100, Size=712
-[2018.11.16-18.24.38:707][  2]LogMetaData: Removing '/Game/Rooms/Pong_room/Pong_room/RedPongBall.RedPongBall_C' ref from Metadata '/Game/Rooms/Pong_room/Pong_room/Ball_Blue.PackageMetaData'
-[2018.11.16-18.24.38:707][  2]LogMetaData: Removing '/Game/Rooms/Pong_room/Pong_room/RedPongBall.SKEL_RedPongBall_C' ref from Metadata '/Game/Rooms/Pong_room/Pong_room/Ball_Blue.PackageMetaData'
-[2018.11.16-18.24.38:869][  2]LogSavePackage: Save=81.23ms
-[2018.11.16-18.24.38:869][  2]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/RedPongBallE58CE3BF4DBFE285CEB69882B825E050.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/RedPongBall.uasset'
-[2018.11.16-18.24.38:882][  2]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/RedPongBall.uasset
-[2018.11.16-18.24.39:066][  2]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501b26e780, Size=880
-[2018.11.16-18.24.39:428][  2]LogSavePackage: Save=118.54ms
-[2018.11.16-18.24.39:428][  2]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/PongEnemyC83602B443F87542187CEA800D6DC9D4.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset'
-[2018.11.16-18.24.39:441][  2]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset
-[2018.11.16-18.24.44:042][444]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002504d474600, Size=472
-[2018.11.16-18.24.44:042][444]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025037238600, Size=472, Default__BluePongBall_C Function /Engine/Transient.REINST_BluePongBall_C_89:ExecuteUbergraph_Ball_Red
-[2018.11.16-18.24.44:047][444]LogUObjectGlobals: Created PersistentFrame Addr=0x000002503723b200, Size=472, Default__BluePongBall_C Function /Game/Rooms/Pong_room/Pong_room/BluePongBall.BluePongBall_C:ExecuteUbergraph_BluePongBall
-[2018.11.16-18.24.44:322][444]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501b019d00, Size=880
-[2018.11.16-18.24.44:322][444]LogUObjectGlobals: Created PersistentFrame Addr=0x00000250501f9600, Size=880, Default__PongEnemy_C Function /Engine/Transient.REINST_PongEnemy_C_97:ExecuteUbergraph_PongEnemy
-[2018.11.16-18.24.44:336][444]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501b01a400, Size=880, Default__PongEnemy_C Function /Game/Rooms/Pong_room/Pong_room/PongEnemy.PongEnemy_C:ExecuteUbergraph_PongEnemy
-[2018.11.16-18.24.44:718][444]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025037238600, Size=472
-[2018.11.16-18.24.44:726][444]LogMetaData: Removing '/Game/Rooms/Pong_room/Pong_room/BluePongBall.BluePongBall_C' ref from Metadata '/Game/Rooms/Pong_room/Pong_room/Ball_Red.PackageMetaData'
-[2018.11.16-18.24.44:726][444]LogMetaData: Removing '/Game/Rooms/Pong_room/Pong_room/BluePongBall.BluePongBall:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Rooms/Pong_room/Pong_room/Ball_Red.PackageMetaData'
-[2018.11.16-18.24.44:726][444]LogMetaData: Removing '/Game/Rooms/Pong_room/Pong_room/BluePongBall.BluePongBall:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Rooms/Pong_room/Pong_room/Ball_Red.PackageMetaData'
-[2018.11.16-18.24.44:726][444]LogMetaData: Removing '/Game/Rooms/Pong_room/Pong_room/BluePongBall.SKEL_BluePongBall_C' ref from Metadata '/Game/Rooms/Pong_room/Pong_room/Ball_Red.PackageMetaData'
-[2018.11.16-18.24.44:863][444]LogSavePackage: Save=56.35ms
-[2018.11.16-18.24.44:863][444]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/BluePongBall46245ADF41E04096BB6054963500E93A.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/BluePongBall.uasset'
-[2018.11.16-18.24.44:875][444]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/BluePongBall.uasset
-[2018.11.16-18.24.45:047][444]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000250501f9600, Size=880
-[2018.11.16-18.24.45:393][444]LogSavePackage: Save=119.38ms
-[2018.11.16-18.24.45:393][444]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/PongEnemyD9F9EE9F46243DEC292F0A959E7F688C.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset'
-[2018.11.16-18.24.45:407][444]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset
-[2018.11.16-18.24.46:549][526]LogMaterial: Missing cached shader map for material blue, compiling. 
-[2018.11.16-18.24.46:663][526]LogShaderCompilers: Display: Shaders left to compile 22
-[2018.11.16-18.24.46:663][526]LogShaderCompilers: Display: Shaders left to compile 12
-[2018.11.16-18.24.46:663][526]LogShaderCompilers: Display: Shaders left to compile 2
-[2018.11.16-18.24.48:417][588]LogSlate: Took 0.013647 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2018.11.16-18.25.00:727][274]LogSavePackage: Save=57.88ms
-[2018.11.16-18.25.00:727][274]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/RedPongBall8E47C5EB46983E4AAA10F1990153480B.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/RedPongBall.uasset'
-[2018.11.16-18.25.00:741][274]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/RedPongBall.uasset
-[2018.11.16-18.25.12:333][906]LogSavePackage: Save=45.25ms
-[2018.11.16-18.25.12:333][906]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/RedPongBall7C8D39534CAA2C79F1F06C8270B95455.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/RedPongBall.uasset'
-[2018.11.16-18.25.12:350][906]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/RedPongBall.uasset
-[2018.11.16-18.25.21:464][422]LogSavePackage: Save=41.60ms
-[2018.11.16-18.25.21:465][422]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/BluePongBall7DEEE7CE44B564477736D09D1F3B406E.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/BluePongBall.uasset'
-[2018.11.16-18.25.21:478][422]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/BluePongBall.uasset
-[2018.11.16-18.25.23:445][537]LogSlate: Window 'RedPongBall' being destroyed
-[2018.11.16-18.25.23:455][537]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
-[2018.11.16-18.25.29:592][137]LogSavePackage: Save=34.61ms
-[2018.11.16-18.25.29:592][137]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/pong_RedMat2858407D44260110272678B8C8A13ECE.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/pong_RedMat.uasset'
-[2018.11.16-18.25.29:605][137]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/pong_RedMat.uasset
-[2018.11.16-18.25.30:045][137]LogSavePackage: Save=53.22ms
-[2018.11.16-18.25.30:046][137]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/RedPongBall941295E04B3A6312D46E88A2AC12F5CE.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/RedPongBall.uasset'
-[2018.11.16-18.25.30:059][137]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/RedPongBall.uasset
-[2018.11.16-18.25.34:653][565]LogSavePackage: Save=44.54ms
-[2018.11.16-18.25.34:653][565]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/pong_BlueMatA44E8C1C4A4467D520D689B9418010E1.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/pong_BlueMat.uasset'
-[2018.11.16-18.25.34:666][565]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/pong_BlueMat.uasset
-[2018.11.16-18.25.35:103][565]LogSavePackage: Save=48.83ms
-[2018.11.16-18.25.35:103][565]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/BluePongBall424652744072F9F315019AB89F63F657.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/BluePongBall.uasset'
-[2018.11.16-18.25.35:117][565]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/BluePongBall.uasset
-[2018.11.16-18.25.43:427][237]BlueprintLog: New page: Compile Pong-room
-[2018.11.16-18.25.43:447][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501b077880, Size=600
-[2018.11.16-18.25.43:447][237]LogUObjectGlobals: Created PersistentFrame Addr=0x00000250a403cb80, Size=600, Default__Pong-room_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
-[2018.11.16-18.25.43:448][237]LogUObjectGlobals: Created PersistentFrame Addr=0x00000250a403d300, Size=600, Default__Pong-room_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
-[2018.11.16-18.25.44:356][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/Pong-room" FILE="../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong-room.uasset" SILENT=true
-[2018.11.16-18.25.44:548][266]LogSavePackage: Save=59.05ms
-[2018.11.16-18.25.44:549][266]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/Pong-room8FCF94F64DC5B8E6E005E0835465C54B.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong-room.uasset'
-[2018.11.16-18.25.44:554][266]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong-room.uasset
-[2018.11.16-18.25.47:731][471]LogSlate: Window 'Pong-room' being destroyed
-[2018.11.16-18.25.52:293][764]BlueprintLog: New page: Compile PongEnemy
-[2018.11.16-18.25.52:366][764]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501b01a400, Size=880
-[2018.11.16-18.25.52:366][764]LogUObjectGlobals: Created PersistentFrame Addr=0x00000250a748b900, Size=880, Default__PongEnemy_C Function /Engine/Transient.REINST_PongEnemy_C_113:ExecuteUbergraph_PongEnemy
-[2018.11.16-18.25.52:380][764]LogUObjectGlobals: Created PersistentFrame Addr=0x00000250b26acb80, Size=880, Default__PongEnemy_C Function /Game/Rooms/Pong_room/Pong_room/PongEnemy.PongEnemy_C:ExecuteUbergraph_PongEnemy
-[2018.11.16-18.25.52:857][764]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000250a403cb80, Size=600
-[2018.11.16-18.25.52:867][764]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_PongEnemy_C_CHILDACTOR_32.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
-[2018.11.16-18.25.52:900][764]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_PongEnemy_C_CHILDACTOR_53.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
-[2018.11.16-18.25.56:196][923]LogSavePackage: Save=107.98ms
-[2018.11.16-18.25.56:196][923]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/PongEnemy9F3AED9640C322F1B2C2839F5A4B79DB.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset'
-[2018.11.16-18.25.56:209][923]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset
-[2018.11.16-18.25.59:469][100]LogSavePackage: Save=91.57ms
-[2018.11.16-18.25.59:469][100]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/PongEnemy37BAE2E64897331B1213F58EF1E10BB7.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset'
-[2018.11.16-18.25.59:476][100]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset
-[2018.11.16-18.26.35:554][ 26]LogSavePackage: Save=107.41ms
-[2018.11.16-18.26.35:554][ 26]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/PongEnemy9D39B3EB45E82FDD2B344EB03FFE8C1C.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset'
-[2018.11.16-18.26.35:561][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset
-[2018.11.16-18.26.51:788][ 83]LogSavePackage: Save=94.16ms
-[2018.11.16-18.26.51:788][ 83]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/PongEnemy2444C3AA43976316FEE739843F5B60A4.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset'
-[2018.11.16-18.26.51:795][ 83]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset
-[2018.11.16-18.26.52:698][125]LogSlate: Window 'PongEnemy' being destroyed
-[2018.11.16-18.26.54:557][291]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000250a748b900, Size=880
-[2018.11.16-18.26.55:883][431]LogTemp: Repeating last play command: Selected Viewport
-[2018.11.16-18.26.55:934][431]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
-[2018.11.16-18.26.55:935][431]BlueprintLog: New page: Pre-Play auto-recompile
-[2018.11.16-18.26.55:957][431]LogPlayLevel: [PlayLevel] Compiling RedPongBall before play...
-[2018.11.16-18.26.55:971][431]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002501b1f5f00, Size=712
-[2018.11.16-18.26.55:971][431]LogUObjectGlobals: Created PersistentFrame Addr=0x00000250b3071900, Size=712, Default__RedPongBall_C Function /Engine/Transient.REINST_RedPongBall_C_119:ExecuteUbergraph_RedPongBall
-[2018.11.16-18.26.55:976][431]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501b1f6800, Size=712, Default__RedPongBall_C Function /Game/Rooms/Pong_room/Pong_room/RedPongBall.RedPongBall_C:ExecuteUbergraph_RedPongBall
-[2018.11.16-18.26.56:263][431]LogPlayLevel: [PlayLevel] Compiling BluePongBall before play...
-[2018.11.16-18.26.56:272][431]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002503723b200, Size=472
-[2018.11.16-18.26.56:272][431]LogUObjectGlobals: Created PersistentFrame Addr=0x00000250369e9000, Size=472, Default__BluePongBall_C Function /Engine/Transient.REINST_BluePongBall_C_125:ExecuteUbergraph_BluePongBall
-[2018.11.16-18.26.56:276][431]LogUObjectGlobals: Created PersistentFrame Addr=0x000002501b1d3800, Size=472, Default__BluePongBall_C Function /Game/Rooms/Pong_room/Pong_room/BluePongBall.BluePongBall_C:ExecuteUbergraph_BluePongBall
-[2018.11.16-18.26.56:580][431]LogPlayLevel: PlayLevel: Blueprint regeneration took 645 ms (2 blueprints)
-[2018.11.16-18.26.56:581][431]PIE: New page: PIE session: TopDownExampleMap (16 Nov 2018 18:26:56)
-[2018.11.16-18.26.56:584][431]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
-[2018.11.16-18.26.56:670][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086087s)
-[2018.11.16-18.26.56:670][431]LogAIModule: Creating AISystem for world TopDownExampleMap
-[2018.11.16-18.26.56:671][431]LogPlayLevel: PIE: World Init took: (0.000911s)
-[2018.11.16-18.26.56:671][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.087244s)
-[2018.11.16-18.26.56:742][431]LogInit: XAudio2 using 'Headphones (3- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.11.16-18.26.56:808][431]LogInit: FAudioDevice initialized.
-[2018.11.16-18.26.56:860][431]LogLoad: Game class is 'TopDownGameMode_C'
-[2018.11.16-18.26.56:867][431]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.11.16-18.26.56
-[2018.11.16-18.26.56:868][431]LogWorld: Bringing up level for play took: 0.005957
-[2018.11.16-18.26.56:875][431]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
-[2018.11.16-18.26.56:880][431]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.946
-[2018.11.16-18.26.56:880][431]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
-[2018.11.16-18.26.57:356][477]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
-[2018.11.16-18.26.57:410][477]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
-[2018.11.16-18.27.05:301][992]BlueprintLog: New page: Compile TopDownGameMode
-[2018.11.16-18.27.05:325][992]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000250208152f0, Size=112
-[2018.11.16-18.27.05:325][992]LogUObjectGlobals: Created PersistentFrame Addr=0x000002502a2fa400, Size=112, Default__TopDownGameMode_C Function /Engine/Transient.REINST_TopDownGameMode_C_133:ExecuteUbergraph_TopDownGameMode
-[2018.11.16-18.27.05:328][992]LogUObjectGlobals: Created PersistentFrame Addr=0x00000250a3db7cf0, Size=112, Default__TopDownGameMode_C Function /Game/TopDownGameMode.TopDownGameMode_C:ExecuteUbergraph_TopDownGameMode
-[2018.11.16-18.27.06:056][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownGameMode" FILE="../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset" SILENT=true
-[2018.11.16-18.27.06:224][ 20]LogSavePackage: Save=21.53ms
-[2018.11.16-18.27.06:224][ 20]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownGameMode69D1473A464495FA6C24068F8CDA87E4.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset'
-[2018.11.16-18.27.06:238][ 20]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset
-[2018.11.16-18.27.07:927][128]LogTemp: Repeating last play command: Selected Viewport
-[2018.11.16-18.27.07:954][128]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
-[2018.11.16-18.27.07:954][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.11.16-18.27.07:955][128]PIE: New page: PIE session: TopDownExampleMap (16 Nov 2018 18:27:07)
-[2018.11.16-18.27.07:955][128]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
-[2018.11.16-18.27.07:959][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004142s)
-[2018.11.16-18.27.07:960][128]LogAIModule: Creating AISystem for world TopDownExampleMap
-[2018.11.16-18.27.07:960][128]LogPlayLevel: PIE: World Init took: (0.000775s)
-[2018.11.16-18.27.07:960][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.005095s)
-[2018.11.16-18.27.08:033][128]LogInit: XAudio2 using 'Headphones (3- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.11.16-18.27.08:099][128]LogInit: FAudioDevice initialized.
-[2018.11.16-18.27.08:133][128]LogLoad: Game class is 'TopDownGameMode_C'
-[2018.11.16-18.27.08:137][128]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.11.16-18.27.08
-[2018.11.16-18.27.08:137][128]LogWorld: Bringing up level for play took: 0.002915
-[2018.11.16-18.27.08:140][128]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.795
-[2018.11.16-18.27.08:140][128]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
-[2018.11.16-18.27.10:755][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.16-18.27.17:695][737]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] stun
-[2018.11.16-18.27.18:953][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
-[2018.11.16-18.27.18:991][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
-[2018.11.16-18.27.21:063][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.16-18.27.46:682][359]LogSavePackage: Save=50.83ms
-[2018.11.16-18.27.46:682][359]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/BluePongBallFBF24AA2404B68B984BB2C94351E6C61.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/BluePongBall.uasset'
-[2018.11.16-18.27.46:695][359]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/BluePongBall.uasset
-[2018.11.16-18.27.49:234][502]LogTemp: Repeating last play command: Selected Viewport
-[2018.11.16-18.27.49:265][502]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
-[2018.11.16-18.27.49:265][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.11.16-18.27.49:265][502]PIE: New page: PIE session: TopDownExampleMap (16 Nov 2018 18:27:49)
-[2018.11.16-18.27.49:266][502]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
-[2018.11.16-18.27.49:270][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004369s)
-[2018.11.16-18.27.49:270][502]LogAIModule: Creating AISystem for world TopDownExampleMap
-[2018.11.16-18.27.49:270][502]LogPlayLevel: PIE: World Init took: (0.000818s)
-[2018.11.16-18.27.49:270][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.005409s)
-[2018.11.16-18.27.49:347][502]LogInit: XAudio2 using 'Headphones (3- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.11.16-18.27.49:414][502]LogInit: FAudioDevice initialized.
-[2018.11.16-18.27.49:451][502]LogLoad: Game class is 'TopDownGameMode_C'
-[2018.11.16-18.27.49:455][502]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.11.16-18.27.49
-[2018.11.16-18.27.49:455][502]LogWorld: Bringing up level for play took: 0.002745
-[2018.11.16-18.27.49:457][502]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.523
-[2018.11.16-18.27.49:458][502]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
-[2018.11.16-18.27.52:124][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.16-18.27.56:526][914]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] stun
-[2018.11.16-18.27.57:366][963]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] Hit
-[2018.11.16-18.27.58:512][ 35]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] move
-[2018.11.16-18.28.01:974][238]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] Hit
-[2018.11.16-18.28.10:500][717]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] Hit
-[2018.11.16-18.28.14:293][932]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] Hit
-[2018.11.16-18.28.14:294][932]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] Winner
-[2018.11.16-18.28.15:908][ 28]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
-[2018.11.16-18.28.15:949][ 28]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
-[2018.11.16-18.28.18:120][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.16-18.29.02:219][402]BlueprintLog: New page: Compile PongEnemy
-[2018.11.16-18.29.02:315][402]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000250b26acb80, Size=880
-[2018.11.16-18.29.02:315][402]LogUObjectGlobals: Created PersistentFrame Addr=0x00000250d9f34480, Size=880, Default__PongEnemy_C Function /Engine/Transient.REINST_PongEnemy_C_141:ExecuteUbergraph_PongEnemy
-[2018.11.16-18.29.02:331][402]LogUObjectGlobals: Created PersistentFrame Addr=0x00000250b26acf00, Size=896, Default__PongEnemy_C Function /Game/Rooms/Pong_room/Pong_room/PongEnemy.PongEnemy_C:ExecuteUbergraph_PongEnemy
-[2018.11.16-18.29.02:863][402]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_PongEnemy_C_CHILDACTOR_80.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
-[2018.11.16-18.29.02:907][402]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_PongEnemy_C_CHILDACTOR_95.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
-[2018.11.16-18.29.03:230][402]LogSavePackage: Save=111.01ms
-[2018.11.16-18.29.03:230][402]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/PongEnemyB5DCED674DE53837E3F15ABB87136E99.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset'
-[2018.11.16-18.29.03:243][402]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset
-[2018.11.16-18.29.04:712][462]LogSavePackage: Save=106.09ms
-[2018.11.16-18.29.04:712][462]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/PongEnemyAB1270534FE022D551FCB0A1E108FA59.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset'
-[2018.11.16-18.29.04:718][462]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset
-[2018.11.16-18.29.05:523][507]LogTemp: Repeating last play command: Selected Viewport
-[2018.11.16-18.29.05:556][507]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
-[2018.11.16-18.29.05:557][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.11.16-18.29.05:557][507]PIE: New page: PIE session: TopDownExampleMap (16 Nov 2018 18:29:05)
-[2018.11.16-18.29.05:557][507]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
-[2018.11.16-18.29.05:561][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004293s)
-[2018.11.16-18.29.05:562][507]LogAIModule: Creating AISystem for world TopDownExampleMap
-[2018.11.16-18.29.05:562][507]LogPlayLevel: PIE: World Init took: (0.000911s)
-[2018.11.16-18.29.05:562][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.005402s)
-[2018.11.16-18.29.05:587][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000250d9f34480, Size=880
-[2018.11.16-18.29.05:643][507]LogInit: XAudio2 using 'Headphones (3- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.11.16-18.29.05:711][507]LogInit: FAudioDevice initialized.
-[2018.11.16-18.29.05:746][507]LogLoad: Game class is 'TopDownGameMode_C'
-[2018.11.16-18.29.05:750][507]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.11.16-18.29.05
-[2018.11.16-18.29.05:750][507]LogWorld: Bringing up level for play took: 0.002746
-[2018.11.16-18.29.05:752][507]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.818
-[2018.11.16-18.29.05:753][507]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
-[2018.11.16-18.29.08:156][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.16-18.29.10:724][808]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] Hit
-[2018.11.16-18.29.16:652][159]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] Hit
-[2018.11.16-18.29.23:519][559]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] Hit
-[2018.11.16-18.29.24:053][588]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] stun
-[2018.11.16-18.29.26:049][703]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] move
-[2018.11.16-18.29.35:337][252]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] Hit
-[2018.11.16-18.29.35:337][252]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] Winner
-[2018.11.16-18.29.37:323][365]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
-[2018.11.16-18.29.37:367][365]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
-[2018.11.16-18.29.38:055][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.16-18.29.40:512][547]LogSlate: Window 'PongEnemy' being destroyed
-[2018.11.16-18.29.40:518][547]LogSlate: Window 'PongEnemy' being destroyed
-[2018.11.16-18.29.40:608][547]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
-[2018.11.16-18.29.40:690][547]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
-[2018.11.16-18.29.40:774][547]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.21-15.22.00:118][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.21-15.22.00:118][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.21-15.22.00:180][  0]LogInit: Computer: DESKTOP-G9AEHUG
+[2018.11.21-15.22.00:180][  0]LogInit: User: natj1
+[2018.11.21-15.22.00:180][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.11.21-15.22.00:180][  0]LogInit: High frequency timer resolution =3.119140 MHz
+[2018.11.21-15.22.00:181][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.11.21-15.22.00:181][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.21-15.22.00:181][  0]LogMemory: Process Physical Memory: 274.69 MB used, 274.69 MB peak
+[2018.11.21-15.22.00:181][  0]LogMemory: Process Virtual Memory: 271.55 MB used, 271.55 MB peak
+[2018.11.21-15.22.00:181][  0]LogMemory: Physical Memory: 7076.95 MB used,  9258.46 MB free, 16335.41 MB total
+[2018.11.21-15.22.00:181][  0]LogMemory: Virtual Memory: 4815.95 MB used,  9258.46 MB free, 134217728.00 MB total
+[2018.11.21-15.22.00:529][  0]LogInit: Using OS detected language (en-US).
+[2018.11.21-15.22.00:529][  0]LogInit: Using OS detected locale (en-GB).
+[2018.11.21-15.22.00:831][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.21-15.22.01:886][  0]LogStreaming: Display: Took  1.356s to EndInitTextLocalization.
+[2018.11.21-15.22.01:886][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.21-15.22.02:048][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.21-15.22.02:048][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.21-15.22.08:370][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.21-15.22.08:787][  0]LogD3D11RHI:    0. 'Radeon RX 580 Series' (Feature Level 11_0)
+[2018.11.21-15.22.08:787][  0]LogD3D11RHI:       8137/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.11.21-15.22.08:792][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.21-15.22.08:792][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.21-15.22.08:792][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.21-15.22.08:810][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.21-15.22.08:810][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2018.11.21-15.22.08:810][  0]LogWindows: EnumDisplayDevices:
+[2018.11.21-15.22.08:811][  0]LogWindows:    0. 'Radeon RX 580 Series' (P:0 D:1)
+[2018.11.21-15.22.08:811][  0]LogWindows:    1. 'Radeon RX 580 Series' (P:1 D:1)
+[2018.11.21-15.22.08:811][  0]LogWindows:    2. 'Radeon RX 580 Series' (P:0 D:0)
+[2018.11.21-15.22.08:812][  0]LogWindows:    3. 'Radeon RX 580 Series' (P:0 D:0)
+[2018.11.21-15.22.08:812][  0]LogWindows:    4. 'Radeon RX 580 Series' (P:0 D:0)
+[2018.11.21-15.22.08:812][  0]LogWindows:    5. 'Radeon RX 580 Series' (P:0 D:0)
+[2018.11.21-15.22.08:813][  0]LogWindows:    6. 'Radeon RX 580 Series' (P:0 D:0)
+[2018.11.21-15.22.08:813][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.21-15.22.08:813][  0]LogD3D11RHI:     Adapter Name: Radeon RX 580 Series
+[2018.11.21-15.22.08:813][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.21-15.22.08:813][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.21-15.22.08:813][  0]LogRHI: Texture pool is 5695 MB (70% of 8137 MB)
+[2018.11.21-15.22.08:967][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.21-15.22.08:983][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2018.11.21-15.22.08:985][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/natj1/Documents/GitHub/MCompProject/Intermediate/Shaders/WorkingDirectory/15656/).
+[2018.11.21-15.22.08:985][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/natj1/AppData/Local/Temp/UnrealShaderWorkingDir/DF86DBAC438C6A5C3D1DD793F6BA70E2/'.
+[2018.11.21-15.22.10:102][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.21-15.22.10:125][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.21-15.22.10:145][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.21-15.22.10:182][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.21-15.22.10:254][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.21-15.22.10:298][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.21-15.22.10:335][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.21-15.22.10:356][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.21-15.22.10:366][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.21-15.22.10:415][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.11.21-15.22.10:438][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.11.21-15.22.10:455][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.11.21-15.22.10:471][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.11.21-15.22.10:490][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.11.21-15.22.10:510][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.11.21-15.22.10:562][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.11.21-15.22.10:563][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.11.21-15.22.10:665][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.21-15.22.10:666][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.21-15.22.10:827][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.21-15.22.10:846][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.21-15.22.10:866][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.21-15.22.10:884][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.21-15.22.10:933][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.21-15.22.10:982][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.21-15.22.10:982][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.21-15.22.11:695][  0]LogXGEController: Cleaning working directory: C:/Users/natj1/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.21-15.22.11:696][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.21-15.22.11:696][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.21-15.22.11:696][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.21-15.22.18:250][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.21-15.22.19:455][  0]LogDerivedDataCache: Loaded boot cache 1.20s 74MB C:/Users/natj1/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.21-15.22.19:455][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/natj1/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.11.21-15.22.19:456][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/natj1/Documents/GitHub/MCompProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.21-15.22.19:456][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.21-15.22.19:456][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/natj1/Documents/GitHub/MCompProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.21-15.22.19:456][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.21-15.22.19:553][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.21-15.22.19:567][  0]LogDerivedDataCache: Using Local data cache path C:/Users/natj1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.21-15.22.19:567][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.21-15.22.19:567][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.21-15.22.19:584][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.21-15.22.19:584][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.21-15.22.19:634][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.21-15.22.19:634][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.21-15.22.23:317][  0]LogAssetRegistry: FAssetRegistry took 0.0380 seconds to start up
+[2018.11.21-15.22.23:850][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.21-15.22.25:585][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.21-15.22.25:633][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.21-15.22.25:633][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.21-15.22.25:633][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.21-15.22.25:634][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.21-15.22.25:634][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.21-15.22.25:794][  0]LogNetVersion: MCompProject , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 693527995)
+[2018.11.21-15.22.33:619][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.127143 seconds
+[2018.11.21-15.22.33:629][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.11.21-15.22.33:629][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.11.21-15.22.33:629][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.21-15.24.03:442][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.21-15.24.03:579][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.21-15.24.09:645][  0]SourceControl: Source control is disabled
+[2018.11.21-15.24.09:645][  0]SourceControl: Source control is disabled
+[2018.11.21-15.24.09:696][  0]SourceControl: Source control is disabled
+[2018.11.21-15.24.09:742][  0]SourceControl: Source control is disabled
+[2018.11.21-15.24.11:934][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.21-15.24.14:723][  0]LogOcInput: OculusInput pre-init called
+[2018.11.21-15.24.15:396][  0]LogEngine: Initializing Engine...
+[2018.11.21-15.24.15:397][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.21-15.24.15:399][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.21-15.24.15:399][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.21-15.24.15:815][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.21-15.24.15:860][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.21-15.24.15:922][  0]LogInit: FAudioDevice initialized.
+[2018.11.21-15.24.19:295][  0]LogDerivedDataCache: Saved boot cache 3.37s 74MB C:/Users/natj1/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.21-15.24.19:330][  0]LogInit: Texture streaming: Enabled
+[2018.11.21-15.24.23:830][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.21-15.24.25:789][  0]LogInit: Transaction tracking system initialized
+[2018.11.21-15.24.27:088][  0]BlueprintLog: New page: Editor Load
+[2018.11.21-15.24.30:151][  0]LocalizationService: Localization service is disabled
+[2018.11.21-15.24.31:963][  0]LogConsoleResponse: Display: 
+[2018.11.21-15.24.38:287][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.21-15.24.38:287][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.21-15.24.38:288][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.21-15.24.38:288][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.21-15.24.38:288][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.21-15.24.40:035][  0]LogFileCache: Scanning file cache for directory 'C:/Users/natj1/Documents/GitHub/MCompProject/Content/' took 0.04s
+[2018.11.21-15.24.46:643][  0]SourceControl: Source control is disabled
+[2018.11.21-15.24.46:644][  0]Cmd: MAP LOAD FILE="../../../../../../Users/natj1/Documents/GitHub/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.21-15.24.46:644][  0]LightingResults: New page: Lighting Build
+[2018.11.21-15.24.46:678][  0]MapCheck: New page: Map Check
+[2018.11.21-15.24.46:679][  0]LightingResults: New page: Lighting Build
+[2018.11.21-15.24.46:838][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad33f99a80, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.11.21-15.24.46:850][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad33f99a80, Size=64
+[2018.11.21-15.24.46:850][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad33f99b00, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.11.21-15.24.46:859][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad1a6709a0, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.11.21-15.24.46:880][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad19ec0800, Size=1312, Default__TopDownCharacter_C Function /Game/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.11.21-15.24.46:881][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad19ebbaf8, Size=56, Default__MasterInteratable_C Function /Game/ell/MasterInteratable.MasterInteratable_C:ExecuteUbergraph_MasterInteratable
+[2018.11.21-15.24.47:042][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad19ddbd80, Size=600, Default__MasterRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.11.21-15.24.47:521][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad19dd8b80, Size=600, Default__Pong-room_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.11.21-15.24.47:523][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad19eb5fa0, Size=112, Default__TopDownGameMode_C Function /Game/TopDownGameMode.TopDownGameMode_C:ExecuteUbergraph_TopDownGameMode
+[2018.11.21-15.24.47:527][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad19e41600, Size=896, Default__PongEnemy_C Function /Game/Rooms/Pong_room/Pong_room/PongEnemy.PongEnemy_C:ExecuteUbergraph_PongEnemy
+[2018.11.21-15.24.47:546][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad19d6b000, Size=472, Default__BluePongBall_C Function /Game/Rooms/Pong_room/Pong_room/BluePongBall.BluePongBall_C:ExecuteUbergraph_BluePongBall
+[2018.11.21-15.24.47:555][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad19d90400, Size=712, Default__RedPongBall_C Function /Game/Rooms/Pong_room/Pong_room/RedPongBall.RedPongBall_C:ExecuteUbergraph_RedPongBall
+[2018.11.21-15.24.47:648][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad19ebb890, Size=56, Default__MainMenu_C Function /Game/MainMenu/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.11.21-15.24.47:668][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad1aae9400, Size=992, Default__TopDownController_C Function /Game/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController
+[2018.11.21-15.24.47:676][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad1ec0a700, Size=600, Default__Pong-room_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.11.21-15.24.47:723][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad19d6b000, Size=472
+[2018.11.21-15.24.47:723][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad1aa54c00, Size=472, Default__BluePongBall_C Function /Engine/Transient.REINST_BluePongBall_C_4:ExecuteUbergraph_BluePongBall
+[2018.11.21-15.24.47:724][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad19ebbaf8, Size=56
+[2018.11.21-15.24.47:724][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad19ebbaf8, Size=56, Default__MasterInteratable_C Function /Engine/Transient.REINST_MasterInteratable_C_5:ExecuteUbergraph_MasterInteratable
+[2018.11.21-15.24.47:725][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad19ddbd80, Size=600
+[2018.11.21-15.24.47:725][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad1e9efd80, Size=600, Default__MasterRoom_C Function /Engine/Transient.REINST_MasterRoom_C_6:ExecuteUbergraph_MasterRoom
+[2018.11.21-15.24.47:726][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad19e41600, Size=896
+[2018.11.21-15.24.47:726][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad1eb20f00, Size=896, Default__PongEnemy_C Function /Engine/Transient.REINST_PongEnemy_C_7:ExecuteUbergraph_PongEnemy
+[2018.11.21-15.24.47:726][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad19d90400, Size=712
+[2018.11.21-15.24.47:726][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad1e9f5900, Size=712, Default__RedPongBall_C Function /Engine/Transient.REINST_RedPongBall_C_8:ExecuteUbergraph_RedPongBall
+[2018.11.21-15.24.47:727][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad1ec0a700, Size=600
+[2018.11.21-15.24.47:727][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad1e9ef880, Size=600, Default__Pong-room_C Function /Engine/Transient.REINST_MasterRoom_C_6:ExecuteUbergraph_MasterRoom
+[2018.11.21-15.24.47:727][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad19ebb890, Size=56
+[2018.11.21-15.24.47:727][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad19ebb890, Size=56, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_0:ExecuteUbergraph_MainMenu
+[2018.11.21-15.24.47:728][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad19ec0800, Size=1312
+[2018.11.21-15.24.47:728][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad7a36f200, Size=1312, Default__TopDownCharacter_C Function /Engine/Transient.REINST_TopDownCharacter_C_10:ExecuteUbergraph_TopDownCharacter
+[2018.11.21-15.24.47:728][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad1aae9400, Size=992
+[2018.11.21-15.24.47:728][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad1eb25800, Size=992, Default__TopDownController_C Function /Engine/Transient.REINST_TopDownController_C_11:ExecuteUbergraph_TopDownController
+[2018.11.21-15.24.47:729][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad19eb5fa0, Size=112
+[2018.11.21-15.24.47:729][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad1eac97c0, Size=112, Default__TopDownGameMode_C Function /Engine/Transient.REINST_TopDownGameMode_C_12:ExecuteUbergraph_TopDownGameMode
+[2018.11.21-15.24.47:795][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad1e623200, Size=472, Default__BluePongBall_C Function /Game/Rooms/Pong_room/Pong_room/BluePongBall.BluePongBall_C:ExecuteUbergraph_BluePongBall
+[2018.11.21-15.24.47:796][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad1e7ba0b8, Size=56, Default__MasterInteratable_C Function /Game/ell/MasterInteratable.MasterInteratable_C:ExecuteUbergraph_MasterInteratable
+[2018.11.21-15.24.47:801][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad1e615080, Size=600, Default__MasterRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.11.21-15.24.47:805][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad1e7bc480, Size=896, Default__PongEnemy_C Function /Game/Rooms/Pong_room/Pong_room/PongEnemy.PongEnemy_C:ExecuteUbergraph_PongEnemy
+[2018.11.21-15.24.47:807][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad1ebf6200, Size=712, Default__RedPongBall_C Function /Game/Rooms/Pong_room/Pong_room/RedPongBall.RedPongBall_C:ExecuteUbergraph_RedPongBall
+[2018.11.21-15.24.47:808][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad1e614180, Size=600, Default__Pong-room_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.11.21-15.24.47:809][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad1e50f4d8, Size=56, Default__MainMenu_C Function /Game/MainMenu/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.11.21-15.24.47:813][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad1e4d3200, Size=1312, Default__TopDownCharacter_C Function /Game/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.11.21-15.24.47:817][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad1eb25000, Size=992, Default__TopDownController_C Function /Game/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController
+[2018.11.21-15.24.47:818][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad1e465c20, Size=112, Default__TopDownGameMode_C Function /Game/TopDownGameMode.TopDownGameMode_C:ExecuteUbergraph_TopDownGameMode
+[2018.11.21-15.24.49:181][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [102.307045ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.11.21-15.24.49:912][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.11.21-15.24.50:015][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.21-15.24.50:034][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad33f99b00, Size=64
+[2018.11.21-15.24.50:034][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad19ebbaf8, Size=56
+[2018.11.21-15.24.50:034][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad1e9efd80, Size=600
+[2018.11.21-15.24.50:034][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad1e9ef880, Size=600
+[2018.11.21-15.24.50:034][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad1eac97c0, Size=112
+[2018.11.21-15.24.50:034][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad1eb20f00, Size=896
+[2018.11.21-15.24.50:034][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad1aa54c00, Size=472
+[2018.11.21-15.24.50:034][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad1e9f5900, Size=712
+[2018.11.21-15.24.50:034][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad19ebb890, Size=56
+[2018.11.21-15.24.50:034][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad1eb25800, Size=992
+[2018.11.21-15.24.50:037][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad7a36f200, Size=1312
+[2018.11.21-15.24.50:039][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.21-15.24.50:115][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76.641ms to complete.
+[2018.11.21-15.24.50:116][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 3.472
+[2018.11.21-15.24.52:376][  0]LogCollectionManager: Loaded 0 collections in 0.003524 seconds
+[2018.11.21-15.24.52:525][  0]LogFileCache: Scanning file cache for directory 'C:/Users/natj1/Documents/GitHub/MCompProject/Saved/Collections/' took 0.01s
+[2018.11.21-15.24.52:525][  0]LogFileCache: Scanning file cache for directory 'C:/Users/natj1/Documents/GitHub/MCompProject/Content/Developers/natj1/Collections/' took 0.01s
+[2018.11.21-15.24.52:525][  0]LogFileCache: Scanning file cache for directory 'C:/Users/natj1/Documents/GitHub/MCompProject/Content/Collections/' took 0.01s
+[2018.11.21-15.24.52:525][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.21-15.24.52:552][  0]LogContentBrowser: Native class hierarchy populated in 0.0258 seconds. Added 2452 classes and 558 folders.
+[2018.11.21-15.24.52:663][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.11.21-15.25.02:855][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.11.21-15.25.02:907][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.11.21-15.25.03:983][  0]LogSlate: Took 0.020189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.21-15.25.04:021][  0]LogSlate: Took 0.033183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.21-15.25.04:124][  0]LogSlate: Took 0.084419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.21-15.25.04:865][  0]LogRenderer: Reallocating scene render targets to support 1096x576 Format 10 NumSamples 1 (Frame:1).
+[2018.11.21-15.25.05:002][  0]LogSlate: Took 0.075438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.21-15.25.05:267][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.11.21-15.25.05:267][  0]LogLoad: (Engine Initialization) Total time: 206.89 seconds
+[2018.11.21-15.25.05:267][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.21-15.25.05:341][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.21-15.25.08:718][212]LogAssetRegistry: Asset discovery search completed in 165.4246 seconds
+[2018.11.21-15.25.08:720][212]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.11.21-15.25.08:720][212]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2018.11.21-15.32.15:696][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.21-15.32.18:034][193]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.21-15.32.18:129][193]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.11.21-15.32.18:143][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.21-15.32.18:296][193]PIE: New page: PIE session: TopDownExampleMap (21 Nov 2018 15:32:18)
+[2018.11.21-15.32.18:296][193]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.11.21-15.32.18:372][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076058s)
+[2018.11.21-15.32.18:373][193]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.11.21-15.32.18:374][193]LogPlayLevel: PIE: World Init took: (0.001538s)
+[2018.11.21-15.32.18:374][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.077978s)
+[2018.11.21-15.32.18:452][193]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.21-15.32.18:486][193]LogInit: FAudioDevice initialized.
+[2018.11.21-15.32.18:558][193]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.11.21-15.32.18:584][193]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.11.21-15.32.18
+[2018.11.21-15.32.18:611][193]LogWorld: Bringing up level for play took: 0.040974
+[2018.11.21-15.32.18:756][193]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2018.11.21-15.32.18:811][193]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.095
+[2018.11.21-15.32.18:812][193]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.11.21-15.32.21:358][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.21-15.32.25:008][838]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] stun
+[2018.11.21-15.32.27:001][ 57]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] move
+[2018.11.21-15.32.30:500][446]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] Hit
+[2018.11.21-15.32.37:352][204]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] stun
+[2018.11.21-15.32.39:355][425]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] move
+[2018.11.21-15.32.42:005][715]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] Hit
+[2018.11.21-15.32.47:616][308]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] Hit
+[2018.11.21-15.32.47:616][308]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] Winner
+[2018.11.21-15.32.50:281][593]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.11.21-15.32.50:340][593]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.11.21-15.33.56:170][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.21-15.40.09:417][ 87]LogSlate: Took 0.000418 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.21-15.40.10:367][ 87]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 116 classes and 0 folders.
+[2018.11.21-15.40.11:131][ 87]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad847259f0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.11.21-15.40.11:132][ 87]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad847259e8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.11.21-15.40.12:945][ 87]LogSlate: Took 0.139162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.21-15.40.13:966][ 88]LogSlate: Took 0.015768 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.21-15.40.51:256][333]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.21-15.40.51:292][333]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.11.21-15.40.51:292][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.21-15.40.51:292][333]PIE: New page: PIE session: TopDownExampleMap (21 Nov 2018 15:40:51)
+[2018.11.21-15.40.51:292][333]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.11.21-15.40.51:296][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003441s)
+[2018.11.21-15.40.51:296][333]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.11.21-15.40.51:297][333]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2018.11.21-15.40.51:297][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.004437s)
+[2018.11.21-15.40.51:347][333]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.21-15.40.51:374][333]LogInit: FAudioDevice initialized.
+[2018.11.21-15.40.51:427][333]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.11.21-15.40.51:431][333]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.11.21-15.40.51
+[2018.11.21-15.40.51:432][333]LogWorld: Bringing up level for play took: 0.003948
+[2018.11.21-15.40.51:435][333]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.529
+[2018.11.21-15.40.51:436][333]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.11.21-15.40.54:955][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.21-15.41.07:894][158]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] stun
+[2018.11.21-15.41.09:891][376]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] move
+[2018.11.21-15.41.12:169][616]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] Hit
+[2018.11.21-15.41.17:809][259]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] Hit
+[2018.11.21-15.41.23:860][942]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] Hit
+[2018.11.21-15.41.23:860][942]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] Winner
+[2018.11.21-15.41.27:251][317]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.11.21-15.41.27:291][317]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.11.21-15.41.29:174][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.21-15.52.43:165][399]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad913fd700, Size=4, Default__SKEL_PongEnemy_C Function /Game/Rooms/Pong_room/Pong_room/PongEnemy.SKEL_PongEnemy_C:ExecuteUbergraph_PongEnemy
+[2018.11.21-15.52.49:269][764]BlueprintLog: New page: Compile PongEnemy
+[2018.11.21-15.52.49:316][764]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad913fd700, Size=4
+[2018.11.21-15.52.49:316][764]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad2a980fd0, Size=4, Default__SKEL_PongEnemy_C Function /Engine/Transient.REINST_SKEL_PongEnemy_C_38:ExecuteUbergraph_PongEnemy
+[2018.11.21-15.52.49:366][764]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad1e7bc480, Size=896
+[2018.11.21-15.52.49:366][764]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad8b8bd600, Size=896, Default__PongEnemy_C Function /Engine/Transient.REINST_PongEnemy_C_43:ExecuteUbergraph_PongEnemy
+[2018.11.21-15.52.49:377][764]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad1e7bf580, Size=896, Default__PongEnemy_C Function /Game/Rooms/Pong_room/Pong_room/PongEnemy.PongEnemy_C:ExecuteUbergraph_PongEnemy
+[2018.11.21-15.52.50:069][764]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad2a980fd0, Size=4
+[2018.11.21-15.53.34:760][734]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad8b8bd600, Size=896
+[2018.11.21-15.53.34:761][734]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.016
+[2018.11.21-15.53.34:835][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Rooms/Pong_room/Pong_room/PongEnemy] ([1] browsable assets)...
+[2018.11.21-15.53.34:872][734]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Rooms/Pong_room/Pong_room/PongEnemy.PongEnemy]
+[2018.11.21-15.53.34:873][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rooms/Pong_room/Pong_room/PongEnemy]
+[2018.11.21-15.53.35:128][734]LogSavePackage: Save=177.92ms
+[2018.11.21-15.53.35:128][734]LogSavePackage: Moving '../../../../../../Users/natj1/Documents/GitHub/MCompProject/Saved/PongEnemy_Auto185E143E74E88AA2DC263D694CA1FE914.tmp' to '../../../../../../Users/natj1/Documents/GitHub/MCompProject/Saved/Autosaves/Game/Rooms/Pong_room/Pong_room/PongEnemy_Auto1.uasset'
+[2018.11.21-15.53.35:146][734]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/natj1/Documents/GitHub/MCompProject/Saved/Autosaves/Game/Rooms/Pong_room/Pong_room/PongEnemy_Auto1.uasset
+[2018.11.21-15.53.35:146][734]LogFileHelpers: Auto-saving content packages took 0.385
+[2018.11.21-15.54.54:296][984]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad8ba54ab8, Size=4, Default__SKEL_PongEnemy_C Function /Game/Rooms/Pong_room/Pong_room/PongEnemy.SKEL_PongEnemy_C:ExecuteUbergraph_PongEnemy
+[2018.11.21-15.55.37:732][214]BlueprintLog: New page: Compile PongEnemy
+[2018.11.21-15.55.37:788][214]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad8ba54ab8, Size=4
+[2018.11.21-15.55.37:788][214]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad885db4b0, Size=4, Default__SKEL_PongEnemy_C Function /Engine/Transient.REINST_SKEL_PongEnemy_C_48:ExecuteUbergraph_PongEnemy
+[2018.11.21-15.55.37:834][214]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad1e7bf580, Size=896
+[2018.11.21-15.55.37:834][214]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad8dace780, Size=896, Default__PongEnemy_C Function /Engine/Transient.REINST_PongEnemy_C_53:ExecuteUbergraph_PongEnemy
+[2018.11.21-15.55.37:858][214]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad8dacd280, Size=896, Default__PongEnemy_C Function /Game/Rooms/Pong_room/Pong_room/PongEnemy.PongEnemy_C:ExecuteUbergraph_PongEnemy
+[2018.11.21-15.55.38:262][214]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad885db4b0, Size=4
+[2018.11.21-15.57.51:356][211]BlueprintLog: New page: Compile PongEnemy
+[2018.11.21-15.57.51:416][211]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad8dacd280, Size=896
+[2018.11.21-15.57.51:416][211]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad8dacd280, Size=896, PongEnemy_C_76 Function /Engine/Transient.REINST_PongEnemy_C_61:ExecuteUbergraph_PongEnemy
+[2018.11.21-15.57.51:428][211]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad1e7bc100, Size=896, Default__PongEnemy_C Function /Game/Rooms/Pong_room/Pong_room/PongEnemy.PongEnemy_C:ExecuteUbergraph_PongEnemy
+[2018.11.21-15.57.51:786][211]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad8dace780, Size=896
+[2018.11.21-15.59.07:589][928]BlueprintLog: New page: Compile PongEnemy
+[2018.11.21-15.59.07:648][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad1e7bc100, Size=896
+[2018.11.21-15.59.07:648][928]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad8ca97200, Size=896, Default__PongEnemy_C Function /Engine/Transient.REINST_PongEnemy_C_69:ExecuteUbergraph_PongEnemy
+[2018.11.21-15.59.07:665][928]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad8dacf900, Size=896, Default__PongEnemy_C Function /Game/Rooms/Pong_room/Pong_room/PongEnemy.PongEnemy_C:ExecuteUbergraph_PongEnemy
+[2018.11.21-15.59.07:997][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad8dacd280, Size=896
+[2018.11.21-15.59.13:686][327]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad8ca97200, Size=896
+[2018.11.21-15.59.15:033][327]LogSlate: Window 'Save Content' being destroyed
+[2018.11.21-15.59.15:141][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/Pong_room/Pong_room/PongEnemy" FILE="../../../../../../Users/natj1/Documents/GitHub/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset" SILENT=true
+[2018.11.21-15.59.15:301][327]LogSavePackage: Save=120.20ms
+[2018.11.21-15.59.15:301][327]LogSavePackage: Moving '../../../../../../Users/natj1/Documents/GitHub/MCompProject/Saved/PongEnemyC0F442CC45B0D93C8EC1D9A2EDA0FCAC.tmp' to '../../../../../../Users/natj1/Documents/GitHub/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset'
+[2018.11.21-15.59.15:307][327]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/natj1/Documents/GitHub/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset
+[2018.11.21-15.59.47:452][708]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad448e58f0, Size=36, Default__BP_MazeWallRotate_C Function /Game/Rooms/MazeRoomAssets/Blueprints/BP_MazeWallRotate.BP_MazeWallRotate_C:ExecuteUbergraph_BP_MazeWallRotate
+[2018.11.21-15.59.47:456][708]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad448e58f0, Size=36
+[2018.11.21-15.59.47:456][708]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad448e58f0, Size=36, Default__BP_MazeWallRotate_C Function /Engine/Transient.REINST_BP_MazeWallRotate_C_71:ExecuteUbergraph_BP_MazeWallRotate
+[2018.11.21-15.59.47:459][708]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad448e43d8, Size=36, Default__BP_MazeWallRotate_C Function /Game/Rooms/MazeRoomAssets/Blueprints/BP_MazeWallRotate.BP_MazeWallRotate_C:ExecuteUbergraph_BP_MazeWallRotate
+[2018.11.21-15.59.47:466][708]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad4abcb900, Size=796, Default__BP_Maze1_C Function /Game/Rooms/MazeRoomAssets/Maze1/BP_Maze1.BP_Maze1_C:ExecuteUbergraph_BP_Maze1
+[2018.11.21-15.59.47:471][708]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad8d1d2500, Size=680, Default__BP_Maze1Lever_C Function /Game/Rooms/MazeRoomAssets/Maze1/BP_Maze1Lever.BP_Maze1Lever_C:ExecuteUbergraph_BP_Maze1Lever
+[2018.11.21-15.59.47:489][708]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad1e7a4560, Size=224, Default__BP_Maze1Objective_C Function /Game/Rooms/MazeRoomAssets/Maze1/BP_Maze1Objective.BP_Maze1Objective_C:ExecuteUbergraph_BP_Maze1Objective
+[2018.11.21-15.59.47:525][708]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad4abcb900, Size=796
+[2018.11.21-15.59.47:525][708]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad2f6e3580, Size=796, Default__BP_Maze1_C Function /Engine/Transient.REINST_BP_Maze1_C_73:ExecuteUbergraph_BP_Maze1
+[2018.11.21-15.59.47:526][708]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad8d1d2500, Size=680
+[2018.11.21-15.59.47:526][708]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad4ac27100, Size=680, Default__BP_Maze1Lever_C Function /Engine/Transient.REINST_BP_Maze1Lever_C_74:ExecuteUbergraph_BP_Maze1Lever
+[2018.11.21-15.59.47:526][708]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad1e7a4560, Size=224
+[2018.11.21-15.59.47:526][708]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad91898d40, Size=224, Default__BP_Maze1Objective_C Function /Engine/Transient.REINST_BP_Maze1Objective_C_75:ExecuteUbergraph_BP_Maze1Objective
+[2018.11.21-15.59.47:586][708]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad2f6e3c80, Size=796, Default__BP_Maze1_C Function /Game/Rooms/MazeRoomAssets/Maze1/BP_Maze1.BP_Maze1_C:ExecuteUbergraph_BP_Maze1
+[2018.11.21-15.59.47:589][708]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad89cc7d00, Size=680, Default__BP_Maze1Lever_C Function /Game/Rooms/MazeRoomAssets/Maze1/BP_Maze1Lever.BP_Maze1Lever_C:ExecuteUbergraph_BP_Maze1Lever
+[2018.11.21-15.59.47:590][708]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad93774800, Size=224, Default__BP_Maze1Objective_C Function /Game/Rooms/MazeRoomAssets/Maze1/BP_Maze1Objective.BP_Maze1Objective_C:ExecuteUbergraph_BP_Maze1Objective
+[2018.11.21-15.59.47:607][708]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad86fc4600, Size=128, Default__BP_MazeSpawner_C Function /Game/Rooms/MazeRoomAssets/Blueprints/BP_MazeSpawner.BP_MazeSpawner_C:ExecuteUbergraph_BP_MazeSpawner
+[2018.11.21-15.59.47:609][708]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad86fc4600, Size=128
+[2018.11.21-15.59.47:609][708]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad86fc4600, Size=128, Default__BP_MazeSpawner_C Function /Engine/Transient.REINST_BP_MazeSpawner_C_79:ExecuteUbergraph_BP_MazeSpawner
+[2018.11.21-15.59.47:611][708]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad86fc6b00, Size=128, Default__BP_MazeSpawner_C Function /Game/Rooms/MazeRoomAssets/Blueprints/BP_MazeSpawner.BP_MazeSpawner_C:ExecuteUbergraph_BP_MazeSpawner
+[2018.11.21-15.59.47:613][708]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad91c71300, Size=600, Default__MazeRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.11.21-15.59.47:616][708]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad91c71300, Size=600
+[2018.11.21-15.59.47:616][708]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad91c71300, Size=600, Default__MazeRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.11.21-15.59.47:617][708]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad91c71a80, Size=600, Default__MazeRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.11.21-15.59.54:458][377]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad87c96400, Size=1516, Default__BP_Maze3_C Function /Game/Rooms/MazeRoomAssets/Maze3/BP_Maze3.BP_Maze3_C:ExecuteUbergraph_BP_Maze3
+[2018.11.21-15.59.54:464][377]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad98059000, Size=688, Default__BP_Maze3Lever_C Function /Game/Rooms/MazeRoomAssets/Maze3/BP_Maze3Lever.BP_Maze3Lever_C:ExecuteUbergraph_BP_Maze3Lever
+[2018.11.21-15.59.54:492][377]LogLinker: Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2018.11.21-15.59.54:492][377]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading ../../../../../../Users/natj1/Documents/GitHub/MCompProject/Content/Rooms/MazeRoomAssets/Maze3/BP_Maze3Objective.uasset.
+[2018.11.21-15.59.54:493][377]LoadErrors: Error: /Game/Rooms/MazeRoomAssets/Maze3/BP_Maze3Objective : Can't find file for asset. /Game/TopDownBP/Blueprints/TopDownCharacter
+[2018.11.21-15.59.54:494][377]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad9ee26800, Size=248, Default__BP_Maze3Objective_C Function /Game/Rooms/MazeRoomAssets/Maze3/BP_Maze3Objective.BP_Maze3Objective_C:ExecuteUbergraph_BP_Maze3Objective
+[2018.11.21-15.59.54:494][377]LogLinker: Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2018.11.21-15.59.54:494][377]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading ../../../../../../Users/natj1/Documents/GitHub/MCompProject/Content/Rooms/MazeRoomAssets/Maze3/BP_Maze3Objective.uasset.
+[2018.11.21-15.59.54:496][377]LogLinker: Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2018.11.21-15.59.54:496][377]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading ../../../../../../Users/natj1/Documents/GitHub/MCompProject/Content/Rooms/MazeRoomAssets/Maze3/BP_Maze3Objective.uasset.
+[2018.11.21-15.59.54:497][377]LogLinker: Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2018.11.21-15.59.54:497][377]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading ../../../../../../Users/natj1/Documents/GitHub/MCompProject/Content/Rooms/MazeRoomAssets/Maze3/BP_Maze3Objective.uasset.
+[2018.11.21-15.59.54:497][377]LogLinker: Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2018.11.21-15.59.54:498][377]LoadErrors: Failed to load /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C Referenced by K2Node_DynamicCast_1
+[2018.11.21-15.59.54:498][377]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading ../../../../../../Users/natj1/Documents/GitHub/MCompProject/Content/Rooms/MazeRoomAssets/Maze3/BP_Maze3Objective.uasset.
+[2018.11.21-15.59.54:498][377]LogLinker: Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2018.11.21-15.59.54:498][377]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading ../../../../../../Users/natj1/Documents/GitHub/MCompProject/Content/Rooms/MazeRoomAssets/Maze3/BP_Maze3Objective.uasset.
+[2018.11.21-15.59.54:499][377]LogLinker: Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2018.11.21-15.59.54:499][377]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading ../../../../../../Users/natj1/Documents/GitHub/MCompProject/Content/Rooms/MazeRoomAssets/Maze3/BP_Maze3Objective.uasset.
+[2018.11.21-15.59.54:500][377]LogLinker: Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2018.11.21-15.59.54:500][377]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading ../../../../../../Users/natj1/Documents/GitHub/MCompProject/Content/Rooms/MazeRoomAssets/Maze3/BP_Maze3Objective.uasset.
+[2018.11.21-15.59.54:501][377]LogLinker: Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2018.11.21-15.59.54:501][377]LoadErrors: Failed to load /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C Referenced by K2Node_DynamicCast_3
+[2018.11.21-15.59.54:501][377]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading ../../../../../../Users/natj1/Documents/GitHub/MCompProject/Content/Rooms/MazeRoomAssets/Maze3/BP_Maze3Objective.uasset.
+[2018.11.21-15.59.54:501][377]LogLinker: Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2018.11.21-15.59.54:501][377]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading ../../../../../../Users/natj1/Documents/GitHub/MCompProject/Content/Rooms/MazeRoomAssets/Maze3/BP_Maze3Objective.uasset.
+[2018.11.21-15.59.54:502][377]LogLinker: Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2018.11.21-15.59.54:502][377]LoadErrors: Failed to load /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C Referenced by K2Node_DynamicCast_4
+[2018.11.21-15.59.54:502][377]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading ../../../../../../Users/natj1/Documents/GitHub/MCompProject/Content/Rooms/MazeRoomAssets/Maze3/BP_Maze3Objective.uasset.
+[2018.11.21-15.59.54:502][377]LogLinker: Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2018.11.21-15.59.54:502][377]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading ../../../../../../Users/natj1/Documents/GitHub/MCompProject/Content/Rooms/MazeRoomAssets/Maze3/BP_Maze3Objective.uasset.
+[2018.11.21-15.59.54:504][377]LogLinker: Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2018.11.21-15.59.54:504][377]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading ../../../../../../Users/natj1/Documents/GitHub/MCompProject/Content/Rooms/MazeRoomAssets/Maze3/BP_Maze3Objective.uasset.
+[2018.11.21-15.59.54:506][377]LogLinker: Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2018.11.21-15.59.54:506][377]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading ../../../../../../Users/natj1/Documents/GitHub/MCompProject/Content/Rooms/MazeRoomAssets/Maze3/BP_Maze3Objective.uasset.
+[2018.11.21-15.59.54:524][377]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad87c96400, Size=1516
+[2018.11.21-15.59.54:524][377]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad913e0f00, Size=1516, Default__BP_Maze3_C Function /Engine/Transient.REINST_BP_Maze3_C_83:ExecuteUbergraph_BP_Maze3
+[2018.11.21-15.59.54:525][377]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad98059000, Size=688
+[2018.11.21-15.59.54:525][377]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad9ee32e00, Size=688, Default__BP_Maze3Lever_C Function /Engine/Transient.REINST_BP_Maze3Lever_C_84:ExecuteUbergraph_BP_Maze3Lever
+[2018.11.21-15.59.54:525][377]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ad9ee26800, Size=248
+[2018.11.21-15.59.54:525][377]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad9ee26800, Size=248, Default__BP_Maze3Objective_C Function /Engine/Transient.REINST_BP_Maze3Objective_C_85:ExecuteUbergraph_BP_Maze3Objective
+[2018.11.21-15.59.54:540][377]LogBlueprint: Error: [Compiler BP_Maze3Lever] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.11.21-15.59.54:541][377]LogBlueprint: Error: [Compiler BP_Maze3Lever] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.11.21-15.59.54:541][377]LogBlueprint: Error: [Compiler BP_Maze3Lever] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.11.21-15.59.54:541][377]LogBlueprint: Error: [Compiler BP_Maze3Lever] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.11.21-15.59.54:543][377]LogBlueprint: Error: [Compiler BP_Maze3Objective] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.11.21-15.59.54:543][377]LogBlueprint: Error: [Compiler BP_Maze3Objective] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.11.21-15.59.54:548][377]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad9ee42b00, Size=1516, Default__BP_Maze3_C Function /Game/Rooms/MazeRoomAssets/Maze3/BP_Maze3.BP_Maze3_C:ExecuteUbergraph_BP_Maze3
+[2018.11.21-15.59.54:551][377]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad9ef09f00, Size=672, Default__BP_Maze3Lever_C Function /Game/Rooms/MazeRoomAssets/Maze3/BP_Maze3Lever.BP_Maze3Lever_C:ExecuteUbergraph_BP_Maze3Lever
+[2018.11.21-15.59.54:551][377]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ad98069800, Size=240, Default__BP_Maze3Objective_C Function /Game/Rooms/MazeRoomAssets/Maze3/BP_Maze3Objective.BP_Maze3Objective_C:ExecuteUbergraph_BP_Maze3Objective
+[2018.11.21-15.59.54:557][377]LogBlueprint: Warning: [Compiler BP_Maze3Lever] [2296.18] Compile of BP_Maze3Lever failed. 4 Fatal Issue(s) 0 Warning(s) [in 42 ms] (/Game/Rooms/MazeRoomAssets/Maze3/BP_Maze3Lever.BP_Maze3Lever)
+[2018.11.21-15.59.54:557][377]LogBlueprint: Warning: [Compiler BP_Maze3Objective] [2296.18] Compile of BP_Maze3Objective failed. 2 Fatal Issue(s) 0 Warning(s) [in 42 ms] (/Game/Rooms/MazeRoomAssets/Maze3/BP_Maze3Objective.BP_Maze3Objective)
+[2018.11.21-15.59.54:558][377]LogLinker: Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2018.11.21-15.59.54:558][377]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading ../../../../../../Users/natj1/Documents/GitHub/MCompProject/Content/Rooms/MazeRoomAssets/Maze3/BP_Maze3Lever.uasset.
+[2018.11.21-15.59.54:558][377]LoadErrors: Error: /Game/Rooms/MazeRoomAssets/Maze3/BP_Maze3Lever : Can't find file for asset. /Game/TopDownBP/Blueprints/TopDownCharacter
+[2018.11.21-15.59.54:562][377]LogLinker: Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2018.11.21-15.59.54:562][377]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading ../../../../../../Users/natj1/Documents/GitHub/MCompProject/Content/Rooms/MazeRoomAssets/Maze3/BP_Maze3Lever.uasset.
+[2018.11.21-16.00.13:107][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.21-16.00.17:699][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
