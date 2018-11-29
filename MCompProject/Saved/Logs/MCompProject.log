@@ -2388,3 +2388,50 @@ Make sure 'BP_Ball_C' has been compiled for  Destroy Ball
 [2018.11.29-18.59.20:442][344]LogSavePackage: Save=142.06ms
 [2018.11.29-18.59.20:442][344]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownExampleMap08A864664DEC1C76785128AF2D2CC445.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
 [2018.11.29-18.59.20:455][344]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.11.29-19.01.12:967][136]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.29-19.01.13:518][172]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.29-19.01.35:895][587]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd13406520, Size=160
+[2018.11.29-19.01.35:897][587]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd9a0dc0e0, Size=160
+[2018.11.29-19.01.35:897][587]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd9b165300, Size=160
+[2018.11.29-19.01.36:544][587]LogSlate: Window 'Save Content' being destroyed
+[2018.11.29-19.01.36:592][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/Dodgeball" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Dodgeball.uasset" SILENT=true
+[2018.11.29-19.01.36:804][587]LogSavePackage: Save=88.44ms
+[2018.11.29-19.01.36:804][587]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/Dodgeball44646C534C8D3990C25353BDDCBD2B8A.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Dodgeball.uasset'
+[2018.11.29-19.01.36:813][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Dodgeball.uasset
+[2018.11.29-19.01.37:053][587]LogSavePackage: Save=114.05ms
+[2018.11.29-19.01.37:053][587]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/FootbombRoom40D6484849C3210DD2801AA95117FBF6.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/FootBombRoomAssets/FootbombRoom.uasset'
+[2018.11.29-19.01.37:060][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/FootBombRoomAssets/FootbombRoom.uasset
+[2018.11.29-19.01.37:558][587]LogSavePackage: Save=372.94ms
+[2018.11.29-19.01.37:558][587]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/MazeRoomB80AF9784D861F053F14648EABB79111.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/MazeRoomAssets/MazeRoom.uasset'
+[2018.11.29-19.01.37:567][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/MazeRoomAssets/MazeRoom.uasset
+[2018.11.29-19.02.04:209][421]LogSavePackage: Save=219.01ms
+[2018.11.29-19.02.04:209][421]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownExampleMapB3E2559546B7C8A59F667B9D41AF9DF4.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.11.29-19.02.04:224][421]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.11.29-19.02.45:165][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/Dodgeball" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Dodgeball.uasset" SILENT=true
+[2018.11.29-19.02.45:395][ 85]LogSavePackage: Save=113.94ms
+[2018.11.29-19.02.45:395][ 85]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/Dodgeball54035C284D4E03A3B5FB6FB299FAF449.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Dodgeball.uasset'
+[2018.11.29-19.02.45:411][ 85]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Dodgeball.uasset
+[2018.11.29-19.02.50:479][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/Dodgeball" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Dodgeball.uasset" SILENT=true
+[2018.11.29-19.02.50:689][412]LogSavePackage: Save=91.10ms
+[2018.11.29-19.02.50:689][412]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/Dodgeball7F2040BD4EEE003B25479194706EBB97.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Dodgeball.uasset'
+[2018.11.29-19.02.50:697][412]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Dodgeball.uasset
+[2018.11.29-19.03.02:253][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/Dodgeball" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Dodgeball.uasset" SILENT=true
+[2018.11.29-19.03.02:560][224]LogSavePackage: Save=176.03ms
+[2018.11.29-19.03.02:560][224]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/Dodgeball13C97D3B429D9CA6C095178587621777.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Dodgeball.uasset'
+[2018.11.29-19.03.02:566][224]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Dodgeball.uasset
+[2018.11.29-19.03.10:902][812]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd0dfe5930, Size=4, Default__SKEL_Dodgeball_C Function /Game/Rooms/Dodgeball.SKEL_Dodgeball_C:ExecuteUbergraph_Dodgeball
+[2018.11.29-19.03.19:857][423]BlueprintLog: New page: Compile Dodgeball
+[2018.11.29-19.03.19:875][423]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd0dfe5930, Size=4
+[2018.11.29-19.03.19:875][423]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd0dfe5930, Size=4, Default__SKEL_Dodgeball_C Function /Engine/Transient.REINST_SKEL_Dodgeball_C_434:ExecuteUbergraph_Dodgeball
+[2018.11.29-19.03.19:898][423]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd2d34b900, Size=784
+[2018.11.29-19.03.19:898][423]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd8c983380, Size=640
+[2018.11.29-19.03.19:898][423]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd8151a400, Size=784, Default__Dodgeball_C Function /Engine/Transient.REINST_Dodgeball_C_437:ExecuteUbergraph_Dodgeball
+[2018.11.29-19.03.19:898][423]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd8cddae80, Size=640, Default__Dodgeball_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.11.29-19.03.19:911][423]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd8601f900, Size=800, Default__Dodgeball_C Function /Game/Rooms/Dodgeball.Dodgeball_C:ExecuteUbergraph_Dodgeball
+[2018.11.29-19.03.19:911][423]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd14d2e200, Size=640, Default__Dodgeball_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.11.29-19.03.20:337][423]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd0dfe5930, Size=4
+[2018.11.29-19.03.20:468][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/Dodgeball" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Dodgeball.uasset" SILENT=true
+[2018.11.29-19.03.20:701][423]LogSavePackage: Save=110.18ms
+[2018.11.29-19.03.20:702][423]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/DodgeballDBF221E344CDA43CA849CD8557B9BFF6.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Dodgeball.uasset'
+[2018.11.29-19.03.20:714][423]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Dodgeball.uasset
+[2018.11.29-19.03.23:709][591]LogSlate: Window 'Dodgeball' being destroyed
