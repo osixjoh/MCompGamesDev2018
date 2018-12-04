@@ -2901,3 +2901,218 @@ LogInit: Object subsystem initialized
 [2018.12.04-23.06.35:987][657]LogSlate: Window 'IcyRoom_SouthDoor' being destroyed
 [2018.12.04-23.06.36:124][657]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2018.12.04-23.06.36:244][657]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.04-23.11.17:183][610]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-23.11.17:223][610]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.04-23.11.17:223][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-23.11.17:224][610]PIE: New page: PIE session: TopDownExampleMap (4 Dec 2018 23:11:17)
+[2018.12.04-23.11.17:224][610]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.12.04-23.11.17:228][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003916s)
+[2018.12.04-23.11.17:228][610]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.12.04-23.11.17:228][610]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2018.12.04-23.11.17:228][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.004800s)
+[2018.12.04-23.11.17:262][610]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.04-23.11.17:292][610]LogInit: FAudioDevice initialized.
+[2018.12.04-23.11.17:325][610]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.04-23.11.17:329][610]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.12.04-23.11.17
+[2018.12.04-23.11.17:330][610]LogWorld: Bringing up level for play took: 0.003928
+[2018.12.04-23.11.17:337][610]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.35
+[2018.12.04-23.11.17:338][610]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.04-23.11.19:511][823]Cmd: LevelEditor.ToggleImmersive
+[2018.12.04-23.11.19:728][827]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-23.11.20:402][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-23.11.23:293][254]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.04-23.11.23:369][254]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.04-23.13.59:104][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-23.13.59:105][958]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-23.13.59:138][958]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.04-23.13.59:138][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-23.13.59:139][958]PIE: New page: PIE session: TopDownExampleMap (4 Dec 2018 23:13:59)
+[2018.12.04-23.13.59:139][958]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.12.04-23.13.59:143][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004062s)
+[2018.12.04-23.13.59:144][958]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.12.04-23.13.59:144][958]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2018.12.04-23.13.59:144][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.005030s)
+[2018.12.04-23.13.59:166][958]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.04-23.13.59:197][958]LogInit: FAudioDevice initialized.
+[2018.12.04-23.13.59:231][958]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.04-23.13.59:234][958]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.12.04-23.13.59
+[2018.12.04-23.13.59:234][958]LogWorld: Bringing up level for play took: 0.002169
+[2018.12.04-23.13.59:238][958]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.447
+[2018.12.04-23.13.59:238][958]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.04-23.14.01:609][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-23.14.06:699][699]Cmd: LevelEditor.ToggleImmersive
+[2018.12.04-23.14.06:903][703]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-23.14.09:812][ 51]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.04-23.14.09:892][ 51]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.04-23.14.10:542][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-23.16.22:969][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-23.16.41:160][438]BlueprintLog: New page: Compile PlayerHUD
+[2018.12.04-23.16.41:194][438]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000206a1508a00, Size=752
+[2018.12.04-23.16.41:194][438]LogUObjectGlobals: Created PersistentFrame Addr=0x00000206bf8e0d00, Size=752, Default__PlayerHUD_C Function /Engine/Transient.REINST_PlayerHUD_C_24:ExecuteUbergraph_PlayerHUD
+[2018.12.04-23.16.41:199][438]LogUObjectGlobals: Created PersistentFrame Addr=0x00000206a150bd00, Size=752, Default__PlayerHUD_C Function /Game/MainMenu/PlayerHUD.PlayerHUD_C:ExecuteUbergraph_PlayerHUD
+[2018.12.04-23.16.41:852][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/PlayerHUD" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/PlayerHUD.uasset" SILENT=true
+[2018.12.04-23.16.42:017][478]LogSavePackage: Save=45.40ms
+[2018.12.04-23.16.42:017][478]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/PlayerHUDFB280D604528D599DD4C54B78C3E9324.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/PlayerHUD.uasset'
+[2018.12.04-23.16.42:029][478]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/PlayerHUD.uasset
+[2018.12.04-23.17.15:296][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x000002077726a600, Size=496, Default__RedBlueRoom_C Function /Game/Rooms/RedBlueRoom.RedBlueRoom_C:ExecuteUbergraph_RedBlueRoom
+[2018.12.04-23.17.15:296][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x00000207597ba500, Size=728, Default__RedBlueRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.04-23.17.15:299][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x00000206a2489200, Size=240, Default__entrance_boxes_C Function /Game/Rooms/RedBlueRoomAssets/entrance_boxes.entrance_boxes_C:ExecuteUbergraph_entrance_boxes
+[2018.12.04-23.17.15:309][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020785758ca0, Size=8, Default__RedBluePlatform_C Function /Game/Rooms/RedBlueRoomAssets/RedBluePlatform.RedBluePlatform_C:ExecuteUbergraph_RedBluePlatform
+[2018.12.04-23.17.15:314][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x000002078c59ee40, Size=12, Default__RedBluePlatform_Red_C Function /Game/Rooms/RedBlueRoomAssets/RedBluePlatform_Red.RedBluePlatform_Red_C:ExecuteUbergraph_RedBluePlatform_Red
+[2018.12.04-23.17.15:314][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x00000207857599b8, Size=8, Default__RedBluePlatform_Red_C Function /Game/Rooms/RedBlueRoomAssets/RedBluePlatform.RedBluePlatform_C:ExecuteUbergraph_RedBluePlatform
+[2018.12.04-23.17.15:322][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x000002078c59ebe0, Size=12, Default__RedBluePlatform_Blue_C Function /Game/Rooms/RedBlueRoomAssets/RedBluePlatform_Blue.RedBluePlatform_Blue_C:ExecuteUbergraph_RedBluePlatform_Blue
+[2018.12.04-23.17.15:322][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020785758310, Size=8, Default__RedBluePlatform_Blue_C Function /Game/Rooms/RedBlueRoomAssets/RedBluePlatform.RedBluePlatform_C:ExecuteUbergraph_RedBluePlatform
+[2018.12.04-23.17.15:331][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x000002074a59fb80, Size=368, Default__FloorDrop_C Function /Game/Rooms/RedBlueRoomAssets/FloorDrop.FloorDrop_C:ExecuteUbergraph_FloorDrop
+[2018.12.04-23.17.15:334][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020785758378, Size=4, Default__PlayerFeedback_C Function /Game/Rooms/RedBlueRoomAssets/PlayerFeedback.PlayerFeedback_C:ExecuteUbergraph_PlayerFeedback
+[2018.12.04-23.17.15:368][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000206a2489200, Size=240
+[2018.12.04-23.17.15:368][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020758ffb500, Size=240, Default__entrance_boxes_C Function /Engine/Transient.REINST_entrance_boxes_C_603:ExecuteUbergraph_entrance_boxes
+[2018.12.04-23.17.15:369][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002074a59fb80, Size=368
+[2018.12.04-23.17.15:369][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x000002072c42d900, Size=368, Default__FloorDrop_C Function /Engine/Transient.REINST_FloorDrop_C_604:ExecuteUbergraph_FloorDrop
+[2018.12.04-23.17.15:369][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020785758ca0, Size=8
+[2018.12.04-23.17.15:369][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020785758ca0, Size=8, Default__RedBluePlatform_C Function /Engine/Transient.REINST_RedBluePlatform_C_605:ExecuteUbergraph_RedBluePlatform
+[2018.12.04-23.17.15:369][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002078c59ebe0, Size=12
+[2018.12.04-23.17.15:369][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020785758310, Size=8
+[2018.12.04-23.17.15:369][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020749fcbf30, Size=12, Default__RedBluePlatform_Blue_C Function /Engine/Transient.REINST_RedBluePlatform_Blue_C_606:ExecuteUbergraph_RedBluePlatform_Blue
+[2018.12.04-23.17.15:369][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020785758310, Size=8, Default__RedBluePlatform_Blue_C Function /Engine/Transient.REINST_RedBluePlatform_C_605:ExecuteUbergraph_RedBluePlatform
+[2018.12.04-23.17.15:370][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002078c59ee40, Size=12
+[2018.12.04-23.17.15:370][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000207857599b8, Size=8
+[2018.12.04-23.17.15:370][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020749fcbdf0, Size=12, Default__RedBluePlatform_Red_C Function /Engine/Transient.REINST_RedBluePlatform_Red_C_607:ExecuteUbergraph_RedBluePlatform_Red
+[2018.12.04-23.17.15:370][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x00000207857599b8, Size=8, Default__RedBluePlatform_Red_C Function /Engine/Transient.REINST_RedBluePlatform_C_605:ExecuteUbergraph_RedBluePlatform
+[2018.12.04-23.17.15:371][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002077726a600, Size=496
+[2018.12.04-23.17.15:371][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000207597ba500, Size=728
+[2018.12.04-23.17.15:371][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x00000207ae5d9400, Size=496, Default__RedBlueRoom_C Function /Engine/Transient.REINST_RedBlueRoom_C_608:ExecuteUbergraph_RedBlueRoom
+[2018.12.04-23.17.15:371][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x000002076cb39c00, Size=728, Default__RedBlueRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.04-23.17.15:371][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020785758378, Size=4
+[2018.12.04-23.17.15:371][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020785758378, Size=4, Default__PlayerFeedback_C Function /Engine/Transient.REINST_PlayerFeedback_C_25:ExecuteUbergraph_PlayerFeedback
+[2018.12.04-23.17.15:386][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020729f10700, Size=240, Default__entrance_boxes_C Function /Game/Rooms/RedBlueRoomAssets/entrance_boxes.entrance_boxes_C:ExecuteUbergraph_entrance_boxes
+[2018.12.04-23.17.15:387][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x000002072c365600, Size=368, Default__FloorDrop_C Function /Game/Rooms/RedBlueRoomAssets/FloorDrop.FloorDrop_C:ExecuteUbergraph_FloorDrop
+[2018.12.04-23.17.15:387][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x000002078575b090, Size=8, Default__RedBluePlatform_C Function /Game/Rooms/RedBlueRoomAssets/RedBluePlatform.RedBluePlatform_C:ExecuteUbergraph_RedBluePlatform
+[2018.12.04-23.17.15:388][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020749fc8a10, Size=12, Default__RedBluePlatform_Blue_C Function /Game/Rooms/RedBlueRoomAssets/RedBluePlatform_Blue.RedBluePlatform_Blue_C:ExecuteUbergraph_RedBluePlatform_Blue
+[2018.12.04-23.17.15:388][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020785758598, Size=8, Default__RedBluePlatform_Blue_C Function /Game/Rooms/RedBlueRoomAssets/RedBluePlatform.RedBluePlatform_C:ExecuteUbergraph_RedBluePlatform
+[2018.12.04-23.17.15:388][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020749fc89d0, Size=12, Default__RedBluePlatform_Red_C Function /Game/Rooms/RedBlueRoomAssets/RedBluePlatform_Red.RedBluePlatform_Red_C:ExecuteUbergraph_RedBluePlatform_Red
+[2018.12.04-23.17.15:388][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020785758ed8, Size=8, Default__RedBluePlatform_Red_C Function /Game/Rooms/RedBlueRoomAssets/RedBluePlatform.RedBluePlatform_C:ExecuteUbergraph_RedBluePlatform
+[2018.12.04-23.17.15:391][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020796f14a00, Size=496, Default__RedBlueRoom_C Function /Game/Rooms/RedBlueRoom.RedBlueRoom_C:ExecuteUbergraph_RedBlueRoom
+[2018.12.04-23.17.15:391][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020797e0d300, Size=728, Default__RedBlueRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.04-23.17.15:393][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x00000207857580d8, Size=4, Default__PlayerFeedback_C Function /Game/Rooms/RedBlueRoomAssets/PlayerFeedback.PlayerFeedback_C:ExecuteUbergraph_PlayerFeedback
+[2018.12.04-23.17.15:474][  1]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.04-23.17.15:490][  1]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.04-23.17.15:491][  1]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.04-23.17.15:491][  1]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.04-23.17.15:491][  1]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.04-23.17.15:491][  1]LogMaterial: Missing cached shader map for material Pit, compiling. 
+[2018.12.04-23.17.15:521][  1]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.04-23.17.15:533][  1]LogMaterial: Missing cached shader map for material BlinkingLight, compiling. 
+[2018.12.04-23.17.15:725][ 17]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.12.04-23.17.15:725][ 17]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.12.04-23.17.15:725][ 17]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.12.04-23.17.15:725][ 17]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.12.04-23.17.17:227][187]BlueprintLog: New page: Compile TopDownGameMode
+[2018.12.04-23.17.17:732][187]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000206a2434360, Size=160
+[2018.12.04-23.17.17:732][187]LogUObjectGlobals: Created PersistentFrame Addr=0x000002073f232e80, Size=160, Default__TopDownGameMode_C Function /Engine/Transient.REINST_TopDownGameMode_C_628:ExecuteUbergraph_TopDownGameMode
+[2018.12.04-23.17.17:735][187]LogUObjectGlobals: Created PersistentFrame Addr=0x000002073f230ea0, Size=160, Default__TopDownGameMode_C Function /Game/TopDownGameMode.TopDownGameMode_C:ExecuteUbergraph_TopDownGameMode
+[2018.12.04-23.17.17:928][187]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020785758378, Size=4
+[2018.12.04-23.17.17:928][187]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002072c42d900, Size=368
+[2018.12.04-23.17.17:929][187]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020749fcbf30, Size=12
+[2018.12.04-23.17.17:929][187]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020785758310, Size=8
+[2018.12.04-23.17.17:929][187]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020749fcbdf0, Size=12
+[2018.12.04-23.17.17:929][187]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000207857599b8, Size=8
+[2018.12.04-23.17.17:929][187]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020785758ca0, Size=8
+[2018.12.04-23.17.17:929][187]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020758ffb500, Size=240
+[2018.12.04-23.17.17:929][187]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000207ae5d9400, Size=496
+[2018.12.04-23.17.17:929][187]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002076cb39c00, Size=728
+[2018.12.04-23.17.18:614][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownGameMode" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset" SILENT=true
+[2018.12.04-23.17.20:574][232]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.04-23.17.20:625][232]LogSavePackage: Save=50.75ms
+[2018.12.04-23.17.20:625][232]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownGameMode174D290243D515B341EBB2BB8D7DE2FC.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset'
+[2018.12.04-23.17.20:651][232]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset
+[2018.12.04-23.17.21:760][302]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.04-23.17.22:030][318]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-23.17.22:089][318]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.04-23.17.22:089][318]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-23.17.22:089][318]PIE: New page: PIE session: TopDownExampleMap (4 Dec 2018 23:17:22)
+[2018.12.04-23.17.22:090][318]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.12.04-23.17.22:096][318]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006849s)
+[2018.12.04-23.17.22:097][318]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.12.04-23.17.22:098][318]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2018.12.04-23.17.22:098][318]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.008121s)
+[2018.12.04-23.17.22:134][318]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.04-23.17.22:174][318]LogInit: FAudioDevice initialized.
+[2018.12.04-23.17.22:215][318]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.04-23.17.22:218][318]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.12.04-23.17.22
+[2018.12.04-23.17.22:219][318]LogWorld: Bringing up level for play took: 0.002803
+[2018.12.04-23.17.22:223][318]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.538
+[2018.12.04-23.17.22:223][318]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.04-23.17.22:517][330]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.04-23.17.22:576][334]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.04-23.17.23:353][378]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.04-23.17.30:526][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-23.17.31:830][188]LogBlueprintUserMessages: [RedBlueRoom_C_0] X=520.000 Y=0.000 Z=110.000
+[2018.12.04-23.17.37:469][749]Cmd: LevelEditor.ToggleImmersive
+[2018.12.04-23.17.37:658][753]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-23.17.38:917][903]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.04-23.17.38:991][903]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.04-23.17.39:820][960]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-23.18.07:823][ 83]LogSavePackage: Save=132.14ms
+[2018.12.04-23.18.07:823][ 83]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownExampleMap_Auto268BCD5EE45E32EC418A7FC806B5561F1.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2018.12.04-23.18.07:830][ 83]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap
+[2018.12.04-23.18.07:836][ 83]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.259
+[2018.12.04-23.18.07:836][ 83]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.259
+[2018.12.04-23.18.07:840][ 83]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Rooms/IcyFloorAssets/IcyRoom_EastDoor] ([1] browsable assets)...
+[2018.12.04-23.18.07:840][ 83]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rooms/IcyFloorAssets/IcyRoom_EastDoor]
+[2018.12.04-23.18.08:056][ 83]LogSavePackage: Save=117.17ms
+[2018.12.04-23.18.08:056][ 83]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/IcyRoom_EastDoor_Auto2A65087CF468171408B7A408E344A0DB9.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/Autosaves/Game/Rooms/IcyFloorAssets/IcyRoom_EastDoor_Auto2.uasset'
+[2018.12.04-23.18.08:060][ 83]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/Autosaves/Game/Rooms/IcyFloorAssets/IcyRoom_EastDoor_Auto2.uasset
+[2018.12.04-23.18.08:060][ 83]LogFileHelpers: Auto-saving content packages took 0.223
+[2018.12.04-23.18.40:758][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-23.18.40:774][183]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-23.18.40:811][183]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.04-23.18.40:811][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-23.18.40:811][183]PIE: New page: PIE session: TopDownExampleMap (4 Dec 2018 23:18:40)
+[2018.12.04-23.18.40:812][183]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.12.04-23.18.40:815][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003631s)
+[2018.12.04-23.18.40:816][183]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.12.04-23.18.40:816][183]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2018.12.04-23.18.40:816][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.004424s)
+[2018.12.04-23.18.40:843][183]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.04-23.18.40:874][183]LogInit: FAudioDevice initialized.
+[2018.12.04-23.18.40:905][183]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.04-23.18.40:907][183]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.12.04-23.18.40
+[2018.12.04-23.18.40:908][183]LogWorld: Bringing up level for play took: 0.002042
+[2018.12.04-23.18.40:911][183]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.773
+[2018.12.04-23.18.40:912][183]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.04-23.18.43:542][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-23.18.45:318][603]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.04-23.18.45:363][603]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.04-23.18.46:104][659]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-23.18.46:139][659]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.04-23.18.46:139][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-23.18.46:139][659]PIE: New page: PIE session: TopDownExampleMap (4 Dec 2018 23:18:46)
+[2018.12.04-23.18.46:139][659]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.12.04-23.18.46:143][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003491s)
+[2018.12.04-23.18.46:143][659]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.12.04-23.18.46:143][659]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2018.12.04-23.18.46:143][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.004259s)
+[2018.12.04-23.18.46:169][659]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.04-23.18.46:201][659]LogInit: FAudioDevice initialized.
+[2018.12.04-23.18.46:229][659]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.04-23.18.46:231][659]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.12.04-23.18.46
+[2018.12.04-23.18.46:232][659]LogWorld: Bringing up level for play took: 0.001931
+[2018.12.04-23.18.46:235][659]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.551
+[2018.12.04-23.18.46:235][659]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.04-23.18.48:477][870]Cmd: LevelEditor.ToggleImmersive
+[2018.12.04-23.18.48:708][874]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-23.18.49:717][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-23.18.54:828][602]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.04-23.18.54:912][602]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.04-23.18.55:811][668]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-23.24.42:913][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-23.24.43:293][753]LogSavePackage: Save=192.26ms
+[2018.12.04-23.24.43:294][753]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownExampleMap6C19B35742C61A8205EA10BA0A660BD7.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.12.04-23.24.43:321][753]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.12.04-23.24.57:271][288]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.04-23.24.59:201][507]BlueprintLog: New page: Compile TopDownGameMode
+[2018.12.04-23.24.59:259][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002073f230ea0, Size=160
+[2018.12.04-23.24.59:259][507]LogUObjectGlobals: Created PersistentFrame Addr=0x000002068bc70400, Size=160, TopDownGameMode_C_9 Function /Engine/Transient.REINST_TopDownGameMode_C_650:ExecuteUbergraph_TopDownGameMode
+[2018.12.04-23.24.59:263][507]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020752bb34c0, Size=160, Default__TopDownGameMode_C Function /Game/TopDownGameMode.TopDownGameMode_C:ExecuteUbergraph_TopDownGameMode
+[2018.12.04-23.24.59:493][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000206bf8e0d00, Size=752
+[2018.12.04-23.24.59:493][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002073f232e80, Size=160
