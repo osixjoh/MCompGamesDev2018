@@ -1274,3 +1274,118 @@ LogInit: Object subsystem initialized
 [2018.12.05-14.54.22:118][564]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
 [2018.12.05-14.54.24:493][838]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
 [2018.12.05-14.54.24:524][838]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-14.55.37:454][451]LogSlate: Window 'TopDownCharacter' being destroyed
+[2018.12.05-14.55.40:474][606]LogSlate: Window 'TopDownCharacter' being destroyed
+[2018.12.05-14.56.46:621][929]BlueprintLog: New page: Compile TopDownCharacter
+[2018.12.05-14.56.46:791][929]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c492262400, Size=1376
+[2018.12.05-14.56.46:791][929]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4e3563900, Size=1376, Default__TopDownCharacter_C Function /Engine/Transient.REINST_TopDownCharacter_C_370:ExecuteUbergraph_TopDownCharacter
+[2018.12.05-14.56.46:809][929]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c492262400, Size=1408, Default__TopDownCharacter_C Function /Game/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.12.05-14.56.47:352][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownCharacter" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownCharacter.uasset" SILENT=true
+[2018.12.05-14.56.47:671][929]LogSavePackage: Save=159.19ms
+[2018.12.05-14.56.47:671][929]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownCharacter5B669DBF4045FF8FDF26B69A7EC47ADC.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownCharacter.uasset'
+[2018.12.05-14.56.47:685][929]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownCharacter.uasset
+[2018.12.05-14.56.48:577][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownCharacter" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownCharacter.uasset" SILENT=true
+[2018.12.05-14.56.48:896][998]LogSavePackage: Save=173.83ms
+[2018.12.05-14.56.48:896][998]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownCharacterEC93AE7C4B1DA958AE69B69D731FFE6F.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownCharacter.uasset'
+[2018.12.05-14.56.48:900][998]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownCharacter.uasset
+[2018.12.05-14.56.52:678][313]LogSavePackage: Save=173.71ms
+[2018.12.05-14.56.52:679][313]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownExampleMap7AB5C56D410D89E650460EA99F201635.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.12.05-14.56.52:694][313]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.12.05-14.57.06:404][867]LogSavePackage: Save=13.18ms
+[2018.12.05-14.57.06:404][867]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/PlayerCharacter_SlippingCF83560C4B87822E1ADA7CBB9DDAEBDA.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Character/PlayerCharacter_Slipping.uasset'
+[2018.12.05-14.57.06:411][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Character/PlayerCharacter_Slipping.uasset
+[2018.12.05-14.57.22:378][436]BlueprintLog: New page: Compile TopDownCharacter
+[2018.12.05-14.57.22:543][436]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c492262400, Size=1408
+[2018.12.05-14.57.22:543][436]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c493d4e400, Size=1408, TopDownCharacter_C_51 Function /Engine/Transient.REINST_TopDownCharacter_C_406:ExecuteUbergraph_TopDownCharacter
+[2018.12.05-14.57.22:555][436]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4c1bac800, Size=1408, Default__TopDownCharacter_C Function /Game/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.12.05-14.57.23:017][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownCharacter" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownCharacter.uasset" SILENT=true
+[2018.12.05-14.57.23:413][436]LogSavePackage: Save=140.60ms
+[2018.12.05-14.57.23:413][436]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownCharacterD94DA74C4915DA08300A86A3E44EFEFB.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownCharacter.uasset'
+[2018.12.05-14.57.23:427][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownCharacter.uasset
+[2018.12.05-14.57.31:843][288]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.05-14.57.33:383][463]BlueprintLog: New page: Compile TopDownGameMode
+[2018.12.05-14.57.33:426][463]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4d7bae020, Size=160
+[2018.12.05-14.57.33:426][463]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c492a9dd00, Size=160, Default__TopDownGameMode_C Function /Engine/Transient.REINST_TopDownGameMode_C_423:ExecuteUbergraph_TopDownGameMode
+[2018.12.05-14.57.33:429][463]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4b24d44a0, Size=160, Default__TopDownGameMode_C Function /Game/TopDownGameMode.TopDownGameMode_C:ExecuteUbergraph_TopDownGameMode
+[2018.12.05-14.57.33:637][463]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c493d4e400, Size=1408
+[2018.12.05-14.57.33:638][463]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4e3563900, Size=1376
+[2018.12.05-14.57.33:707][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownGameMode" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset" SILENT=true
+[2018.12.05-14.57.33:982][463]LogSavePackage: Save=92.73ms
+[2018.12.05-14.57.33:982][463]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownGameMode26ABE39046AC279EAA0290B66D706833.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset'
+[2018.12.05-14.57.34:004][463]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset
+[2018.12.05-14.57.34:147][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownGameMode" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset" SILENT=true
+[2018.12.05-14.57.34:340][464]LogSavePackage: Save=59.80ms
+[2018.12.05-14.57.34:340][464]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownGameMode9EA9434C4F393254FC07488FE3B081AE.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset'
+[2018.12.05-14.57.34:350][464]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset
+[2018.12.05-14.57.34:483][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownGameMode" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset" SILENT=true
+[2018.12.05-14.57.34:653][472]LogSavePackage: Save=35.98ms
+[2018.12.05-14.57.34:653][472]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownGameModeCDF4AB664CB88FF732F124A84FC1BEE2.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset'
+[2018.12.05-14.57.34:658][472]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset
+[2018.12.05-14.57.35:503][552]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.05-14.57.35:538][552]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-14.57.35:539][552]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-14.57.35:539][552]PIE: New page: PIE session: TopDownExampleMap (5 Dec 2018 14:57:35)
+[2018.12.05-14.57.35:539][552]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.12.05-14.57.35:543][552]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003849s)
+[2018.12.05-14.57.35:543][552]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.12.05-14.57.35:543][552]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2018.12.05-14.57.35:543][552]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.004637s)
+[2018.12.05-14.57.35:599][552]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.05-14.57.35:651][552]LogInit: FAudioDevice initialized.
+[2018.12.05-14.57.35:689][552]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.05-14.57.35:694][552]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.12.05-14.57.35
+[2018.12.05-14.57.35:694][552]LogWorld: Bringing up level for play took: 0.004088
+[2018.12.05-14.57.35:702][552]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.109
+[2018.12.05-14.57.35:702][552]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-14.57.36:962][690]Cmd: LevelEditor.ToggleImmersive
+[2018.12.05-14.57.37:055][691]LogSlate: Took 0.014613 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.05-14.57.37:078][691]LogSlate: Took 0.014038 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.05-14.57.37:105][691]LogSlate: Took 0.015616 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.05-14.57.37:125][691]LogSlate: Took 0.014889 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.05-14.57.37:272][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.05-14.57.39:255][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-14.57.53:830][422]Cmd: LevelEditor.ToggleImmersive
+[2018.12.05-14.57.54:072][428]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.05-14.57.54:443][471]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-14.57.54:484][471]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-14.57.56:065][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-14.57.56:209][664]LogSlate: Took 0.005412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.05-14.57.56:559][664]LogSavePackage: Save=182.54ms
+[2018.12.05-14.57.56:559][664]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownExampleMapC17B59FB4AE561F74A8A129D7E2A41B8.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.12.05-14.57.56:578][664]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.12.05-14.57.59:732][925]LogSlate: Took 0.015837 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.05-14.58.00:054][926]LogSlate: Took 0.008783 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.05-14.58.04:397][262]BlueprintLog: New page: Compile TopDownCharacter
+[2018.12.05-14.58.04:606][262]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4c1bac800, Size=1408
+[2018.12.05-14.58.04:607][262]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c48c22c100, Size=1408, Default__TopDownCharacter_C Function /Engine/Transient.REINST_TopDownCharacter_C_459:ExecuteUbergraph_TopDownCharacter
+[2018.12.05-14.58.04:619][262]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4e515dd00, Size=1408, Default__TopDownCharacter_C Function /Game/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2018.12.05-14.58.05:045][262]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c492a9dd00, Size=160
+[2018.12.05-14.58.05:221][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownCharacter" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownCharacter.uasset" SILENT=true
+[2018.12.05-14.58.05:512][262]LogSavePackage: Save=153.37ms
+[2018.12.05-14.58.05:512][262]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownCharacter98DD1B714EE9D54B823B54A0B84F592D.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownCharacter.uasset'
+[2018.12.05-14.58.05:524][262]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownCharacter.uasset
+[2018.12.05-14.58.07:785][440]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.05-14.58.07:849][440]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-14.58.07:849][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-14.58.07:849][440]PIE: New page: PIE session: TopDownExampleMap (5 Dec 2018 14:58:07)
+[2018.12.05-14.58.07:849][440]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.12.05-14.58.07:853][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003752s)
+[2018.12.05-14.58.07:854][440]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.12.05-14.58.07:854][440]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2018.12.05-14.58.07:854][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.004492s)
+[2018.12.05-14.58.07:912][440]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.05-14.58.07:957][440]LogInit: FAudioDevice initialized.
+[2018.12.05-14.58.07:994][440]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.05-14.58.07:998][440]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.12.05-14.58.07
+[2018.12.05-14.58.07:999][440]LogWorld: Bringing up level for play took: 0.003203
+[2018.12.05-14.58.08:006][440]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.587
+[2018.12.05-14.58.08:006][440]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-14.58.10:463][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-14.58.42:657][514]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-14.58.42:722][514]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-14.58.43:149][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-14.58.43:566][563]LogSavePackage: Save=152.17ms
+[2018.12.05-14.58.43:566][563]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownExampleMap348276164870F26314DC5C8B9E9265BA.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.12.05-14.58.43:576][563]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.12.05-14.58.56:476][690]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c48c22c100, Size=1408
+[2018.12.05-14.58.57:408][690]LogSlate: Window 'Delete Assets' being destroyed
