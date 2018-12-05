@@ -2729,3 +2729,231 @@ LogInit: Object subsystem initialized
 [2018.12.05-15.07.47:758][727]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2018.12.05-15.07.48:313][727]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2018.12.05-15.07.48:558][734]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5d26aac00, Size=960
+[2018.12.05-15.08.59:543][248]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.05-15.08.59:669][248]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.05-15.08.59:817][248]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.05-15.08.59:943][248]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.05-15.09.00:066][248]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.05-15.09.00:241][248]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.05-15.09.08:278][449]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.05-15.09.08:314][449]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.09.08:314][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-15.09.08:315][449]PIE: New page: PIE session: TopDownExampleMap (5 Dec 2018 15:09:08)
+[2018.12.05-15.09.08:315][449]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.12.05-15.09.08:319][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003759s)
+[2018.12.05-15.09.08:319][449]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.12.05-15.09.08:319][449]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2018.12.05-15.09.08:319][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.004513s)
+[2018.12.05-15.09.08:396][449]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.05-15.09.08:438][449]LogInit: FAudioDevice initialized.
+[2018.12.05-15.09.08:472][449]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.05-15.09.08:476][449]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.12.05-15.09.08
+[2018.12.05-15.09.08:476][449]LogWorld: Bringing up level for play took: 0.002936
+[2018.12.05-15.09.08:483][449]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.102
+[2018.12.05-15.09.08:483][449]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.09.11:016][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.09.13:381][ 17]Cmd: LevelEditor.ToggleImmersive
+[2018.12.05-15.09.13:605][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.05-15.10.03:629][188]LogScript: Warning: Attempted to access ChasingBall via property ChasingBall, but ChasingBall is pending kill
+	Dodgeball_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Dodgeball_C_0
+	Function /Game/Rooms/Dodgeball.Dodgeball_C:ExecuteUbergraph_Dodgeball:1570
+[2018.12.05-15.10.03:629][188]PIE: Error: Blueprint Runtime Error: Attempted to access ChasingBall via property ChasingBall, but ChasingBall is pending kill from function: 'ExecuteUbergraph_Dodgeball' from node: Set Child Actor Class in graph: EventGraph in object: Dodgeball with description: Attempted to access ChasingBall via property ChasingBall, but ChasingBall is pending kill
+[2018.12.05-15.10.09:074][757]LogBlueprintUserMessages: [Pong-room_C_0] EnteredRoom
+[2018.12.05-15.10.12:858][155]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsRed_Pong_Ball
+	Pong-room_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Pong-room_C_0
+	Function /Game/Rooms/Pong-room.Pong-room_C:ExecuteUbergraph_Pong-room:008D
+[2018.12.05-15.10.12:858][155]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsRed_Pong_Ball from function: 'ExecuteUbergraph_Pong-room' from node: DestroyActor in graph: EventGraph in object: Pong-room with description: Accessed None trying to read property K2Node_DynamicCast_AsRed_Pong_Ball
+[2018.12.05-15.10.12:858][155]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsRed_Pong_Ball
+	Pong-room_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Pong-room_C_0
+	Function /Game/Rooms/Pong-room.Pong-room_C:ExecuteUbergraph_Pong-room:008D
+[2018.12.05-15.10.12:858][155]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsRed_Pong_Ball from function: 'ExecuteUbergraph_Pong-room' from node: DestroyActor in graph: EventGraph in object: Pong-room with description: Accessed None trying to read property K2Node_DynamicCast_AsRed_Pong_Ball
+[2018.12.05-15.10.14:268][307]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsRed_Pong_Ball
+	Pong-room_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Pong-room_C_0
+	Function /Game/Rooms/Pong-room.Pong-room_C:ExecuteUbergraph_Pong-room:008D
+[2018.12.05-15.10.14:269][307]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsRed_Pong_Ball from function: 'ExecuteUbergraph_Pong-room' from node: DestroyActor in graph: EventGraph in object: Pong-room with description: Accessed None trying to read property K2Node_DynamicCast_AsRed_Pong_Ball
+[2018.12.05-15.10.14:269][307]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsRed_Pong_Ball
+	Pong-room_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Pong-room_C_0
+	Function /Game/Rooms/Pong-room.Pong-room_C:ExecuteUbergraph_Pong-room:008D
+[2018.12.05-15.10.14:269][307]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsRed_Pong_Ball from function: 'ExecuteUbergraph_Pong-room' from node: DestroyActor in graph: EventGraph in object: Pong-room with description: Accessed None trying to read property K2Node_DynamicCast_AsRed_Pong_Ball
+[2018.12.05-15.10.16:455][537]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsRed_Pong_Ball
+	Pong-room_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Pong-room_C_0
+	Function /Game/Rooms/Pong-room.Pong-room_C:ExecuteUbergraph_Pong-room:008D
+[2018.12.05-15.10.16:455][537]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsRed_Pong_Ball from function: 'ExecuteUbergraph_Pong-room' from node: DestroyActor in graph: EventGraph in object: Pong-room with description: Accessed None trying to read property K2Node_DynamicCast_AsRed_Pong_Ball
+[2018.12.05-15.10.16:456][537]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsRed_Pong_Ball
+	Pong-room_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Pong-room_C_0
+	Function /Game/Rooms/Pong-room.Pong-room_C:ExecuteUbergraph_Pong-room:008D
+[2018.12.05-15.10.16:456][537]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsRed_Pong_Ball from function: 'ExecuteUbergraph_Pong-room' from node: DestroyActor in graph: EventGraph in object: Pong-room with description: Accessed None trying to read property K2Node_DynamicCast_AsRed_Pong_Ball
+[2018.12.05-15.10.17:627][664]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBlue_Pong_Ball
+	Pong-room_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Pong-room_C_0
+	Function /Game/Rooms/Pong-room.Pong-room_C:ExecuteUbergraph_Pong-room:0069
+[2018.12.05-15.10.17:627][664]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsBlue_Pong_Ball from function: 'ExecuteUbergraph_Pong-room' from node: DestroyActor in graph: EventGraph in object: Pong-room with description: Accessed None trying to read property K2Node_DynamicCast_AsBlue_Pong_Ball
+[2018.12.05-15.10.17:627][664]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBlue_Pong_Ball
+	Pong-room_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Pong-room_C_0
+	Function /Game/Rooms/Pong-room.Pong-room_C:ExecuteUbergraph_Pong-room:0069
+[2018.12.05-15.10.17:627][664]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsBlue_Pong_Ball from function: 'ExecuteUbergraph_Pong-room' from node: DestroyActor in graph: EventGraph in object: Pong-room with description: Accessed None trying to read property K2Node_DynamicCast_AsBlue_Pong_Ball
+[2018.12.05-15.10.17:627][664]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] Hit
+[2018.12.05-15.10.22:703][204]LogScript: Warning: Attempted to access RedPongBall_C_0 via property K2Node_DynamicCast_AsRed_Pong_Ball, but RedPongBall_C_0 is pending kill
+	Pong-room_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Pong-room_C_0
+	Function /Game/Rooms/Pong-room.Pong-room_C:ExecuteUbergraph_Pong-room:008D
+[2018.12.05-15.10.22:703][204]PIE: Error: Blueprint Runtime Error: Attempted to access RedPongBall_C_0 via property K2Node_DynamicCast_AsRed_Pong_Ball, but RedPongBall_C_0 is pending kill from function: 'ExecuteUbergraph_Pong-room' from node: DestroyActor in graph: EventGraph in object: Pong-room with description: Attempted to access RedPongBall_C_0 via property K2Node_DynamicCast_AsRed_Pong_Ball, but RedPongBall_C_0 is pending kill
+[2018.12.05-15.10.22:703][204]LogScript: Warning: Attempted to access RedPongBall_C_0 via property K2Node_DynamicCast_AsRed_Pong_Ball, but RedPongBall_C_0 is pending kill
+	Pong-room_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Pong-room_C_0
+	Function /Game/Rooms/Pong-room.Pong-room_C:ExecuteUbergraph_Pong-room:008D
+[2018.12.05-15.10.22:703][204]PIE: Error: Blueprint Runtime Error: Attempted to access RedPongBall_C_0 via property K2Node_DynamicCast_AsRed_Pong_Ball, but RedPongBall_C_0 is pending kill from function: 'ExecuteUbergraph_Pong-room' from node: DestroyActor in graph: EventGraph in object: Pong-room with description: Attempted to access RedPongBall_C_0 via property K2Node_DynamicCast_AsRed_Pong_Ball, but RedPongBall_C_0 is pending kill
+[2018.12.05-15.10.23:066][242]LogScript: Warning: Attempted to access RedPongBall_C_0 via property K2Node_DynamicCast_AsRed_Pong_Ball, but RedPongBall_C_0 is pending kill
+	Pong-room_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Pong-room_C_0
+	Function /Game/Rooms/Pong-room.Pong-room_C:ExecuteUbergraph_Pong-room:008D
+[2018.12.05-15.10.23:066][242]PIE: Error: Blueprint Runtime Error: Attempted to access RedPongBall_C_0 via property K2Node_DynamicCast_AsRed_Pong_Ball, but RedPongBall_C_0 is pending kill from function: 'ExecuteUbergraph_Pong-room' from node: DestroyActor in graph: EventGraph in object: Pong-room with description: Attempted to access RedPongBall_C_0 via property K2Node_DynamicCast_AsRed_Pong_Ball, but RedPongBall_C_0 is pending kill
+[2018.12.05-15.10.23:066][242]LogScript: Warning: Attempted to access RedPongBall_C_0 via property K2Node_DynamicCast_AsRed_Pong_Ball, but RedPongBall_C_0 is pending kill
+	Pong-room_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Pong-room_C_0
+	Function /Game/Rooms/Pong-room.Pong-room_C:ExecuteUbergraph_Pong-room:008D
+[2018.12.05-15.10.23:066][242]PIE: Error: Blueprint Runtime Error: Attempted to access RedPongBall_C_0 via property K2Node_DynamicCast_AsRed_Pong_Ball, but RedPongBall_C_0 is pending kill from function: 'ExecuteUbergraph_Pong-room' from node: DestroyActor in graph: EventGraph in object: Pong-room with description: Attempted to access RedPongBall_C_0 via property K2Node_DynamicCast_AsRed_Pong_Ball, but RedPongBall_C_0 is pending kill
+[2018.12.05-15.10.24:727][415]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBlue_Pong_Ball
+	Pong-room_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Pong-room_C_0
+	Function /Game/Rooms/Pong-room.Pong-room_C:ExecuteUbergraph_Pong-room:0069
+[2018.12.05-15.10.24:727][415]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsBlue_Pong_Ball from function: 'ExecuteUbergraph_Pong-room' from node: DestroyActor in graph: EventGraph in object: Pong-room with description: Accessed None trying to read property K2Node_DynamicCast_AsBlue_Pong_Ball
+[2018.12.05-15.10.24:727][415]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBlue_Pong_Ball
+	Pong-room_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Pong-room_C_0
+	Function /Game/Rooms/Pong-room.Pong-room_C:ExecuteUbergraph_Pong-room:0069
+[2018.12.05-15.10.24:727][415]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsBlue_Pong_Ball from function: 'ExecuteUbergraph_Pong-room' from node: DestroyActor in graph: EventGraph in object: Pong-room with description: Accessed None trying to read property K2Node_DynamicCast_AsBlue_Pong_Ball
+[2018.12.05-15.10.24:727][415]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] Hit
+[2018.12.05-15.10.28:252][789]LogScript: Warning: Attempted to access RedPongBall_C_1 via property K2Node_DynamicCast_AsRed_Pong_Ball, but RedPongBall_C_1 is pending kill
+	Pong-room_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Pong-room_C_0
+	Function /Game/Rooms/Pong-room.Pong-room_C:ExecuteUbergraph_Pong-room:008D
+[2018.12.05-15.10.28:253][789]PIE: Error: Blueprint Runtime Error: Attempted to access RedPongBall_C_1 via property K2Node_DynamicCast_AsRed_Pong_Ball, but RedPongBall_C_1 is pending kill from function: 'ExecuteUbergraph_Pong-room' from node: DestroyActor in graph: EventGraph in object: Pong-room with description: Attempted to access RedPongBall_C_1 via property K2Node_DynamicCast_AsRed_Pong_Ball, but RedPongBall_C_1 is pending kill
+[2018.12.05-15.10.28:253][789]LogScript: Warning: Attempted to access RedPongBall_C_1 via property K2Node_DynamicCast_AsRed_Pong_Ball, but RedPongBall_C_1 is pending kill
+	Pong-room_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Pong-room_C_0
+	Function /Game/Rooms/Pong-room.Pong-room_C:ExecuteUbergraph_Pong-room:008D
+[2018.12.05-15.10.28:253][789]PIE: Error: Blueprint Runtime Error: Attempted to access RedPongBall_C_1 via property K2Node_DynamicCast_AsRed_Pong_Ball, but RedPongBall_C_1 is pending kill from function: 'ExecuteUbergraph_Pong-room' from node: DestroyActor in graph: EventGraph in object: Pong-room with description: Attempted to access RedPongBall_C_1 via property K2Node_DynamicCast_AsRed_Pong_Ball, but RedPongBall_C_1 is pending kill
+[2018.12.05-15.10.31:242][103]LogScript: Warning: Attempted to access RedPongBall_C_1 via property K2Node_DynamicCast_AsRed_Pong_Ball, but RedPongBall_C_1 is pending kill
+	Pong-room_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Pong-room_C_0
+	Function /Game/Rooms/Pong-room.Pong-room_C:ExecuteUbergraph_Pong-room:008D
+[2018.12.05-15.10.31:242][103]PIE: Error: Blueprint Runtime Error: Attempted to access RedPongBall_C_1 via property K2Node_DynamicCast_AsRed_Pong_Ball, but RedPongBall_C_1 is pending kill from function: 'ExecuteUbergraph_Pong-room' from node: DestroyActor in graph: EventGraph in object: Pong-room with description: Attempted to access RedPongBall_C_1 via property K2Node_DynamicCast_AsRed_Pong_Ball, but RedPongBall_C_1 is pending kill
+[2018.12.05-15.10.31:242][103]PIE: Error: Blueprint Runtime Error: Attempted to access RedPongBall_C_1 via property K2Node_DynamicCast_AsRed_Pong_Ball, but RedPongBall_C_1 is pending kill from function: 'ExecuteUbergraph_Pong-room' from node: DestroyActor in graph: EventGraph in object: Pong-room with description: Attempted to access RedPongBall_C_1 via property K2Node_DynamicCast_AsRed_Pong_Ball, but RedPongBall_C_1 is pending kill
+[2018.12.05-15.10.32:645][250]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsBlue_Pong_Ball from function: 'ExecuteUbergraph_Pong-room' from node: DestroyActor in graph: EventGraph in object: Pong-room with description: Accessed None trying to read property K2Node_DynamicCast_AsBlue_Pong_Ball
+[2018.12.05-15.10.32:645][250]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsBlue_Pong_Ball from function: 'ExecuteUbergraph_Pong-room' from node: DestroyActor in graph: EventGraph in object: Pong-room with description: Accessed None trying to read property K2Node_DynamicCast_AsBlue_Pong_Ball
+[2018.12.05-15.10.32:645][250]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] Hit
+[2018.12.05-15.10.32:645][250]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_Enemy_C_CAT_0] Winner
+[2018.12.05-15.12.12:160][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.12.49:936][497]LogBlueprintUserMessages: [LightsOutRoomNew_C_1] shuffle
+[2018.12.05-15.12.49:936][497]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.12.49:936][497]LogScriptCore: Warning: Script Msg: Attempted to access index -3 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.12.49:936][497]LogScriptCore: Warning: Script Msg: Attempted to access index -2 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.12.49:936][497]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.12.49:937][497]LogScriptCore: Warning: Script Msg: Attempted to access index 9 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.12.49:937][497]LogScriptCore: Warning: Script Msg: Attempted to access index 10 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.12.49:937][497]LogScriptCore: Warning: Script Msg: Attempted to access index 11 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.12.49:937][497]LogScriptCore: Warning: Script Msg: Attempted to access index 9 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.12.54:562][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.12.58:175][307]LogBlueprintUserMessages: [LightsOutRoomNew_C_1] shuffle
+[2018.12.05-15.12.58:175][307]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.12.58:175][307]LogScriptCore: Warning: Script Msg: Attempted to access index -3 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.12.58:175][307]LogScriptCore: Warning: Script Msg: Attempted to access index -2 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.12.58:175][307]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.12.58:175][307]LogScriptCore: Warning: Script Msg: Attempted to access index 9 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.12.58:175][307]LogScriptCore: Warning: Script Msg: Attempted to access index 10 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.12.58:175][307]LogScriptCore: Warning: Script Msg: Attempted to access index 11 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.12.58:175][307]LogScriptCore: Warning: Script Msg: Attempted to access index 9 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.13.56:570][283]LogBlueprintUserMessages: [LightsOutRoomNew_C_0] shuffle
+[2018.12.05-15.13.56:570][283]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.13.56:571][283]LogScriptCore: Warning: Script Msg: Attempted to access index -3 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.13.56:571][283]LogScriptCore: Warning: Script Msg: Attempted to access index -2 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.13.56:571][283]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.13.56:571][283]LogScriptCore: Warning: Script Msg: Attempted to access index 9 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.13.56:571][283]LogScriptCore: Warning: Script Msg: Attempted to access index 10 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.13.56:571][283]LogScriptCore: Warning: Script Msg: Attempted to access index 11 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.13.56:571][283]LogScriptCore: Warning: Script Msg: Attempted to access index 9 from array 'Tiles' of length 9 in '/Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C'!
+[2018.12.05-15.14.27:027][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.14.28:931][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.14.31:077][595]Cmd: LevelEditor.ToggleImmersive
+[2018.12.05-15.14.31:171][597]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.14.31:264][597]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.14.32:891][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.14.37:096][180]LogSlate: Window 'Message Log' being destroyed
+[2018.12.05-15.14.58:133][727]LogSlate: Window 'PlayerFeedback' being destroyed
+[2018.12.05-15.15.08:793][654]LogEditorTransaction: Undo Break Pin Links
+[2018.12.05-15.15.08:825][654]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5b311b5b0, Size=4, Default__SKEL_RedBlueRoom_C Function /Game/Rooms/RedBlueRoom.SKEL_RedBlueRoom_C:ExecuteUbergraph_RedBlueRoom
+[2018.12.05-15.15.34:440][272]BlueprintLog: New page: Compile RedBlueRoom
+[2018.12.05-15.15.34:478][272]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5b311b5b0, Size=4
+[2018.12.05-15.15.34:478][272]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c48a3a2138, Size=4, Default__SKEL_RedBlueRoom_C Function /Engine/Transient.REINST_SKEL_RedBlueRoom_C_704:ExecuteUbergraph_RedBlueRoom
+[2018.12.05-15.15.34:527][272]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4b2391980, Size=424
+[2018.12.05-15.15.34:527][272]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4ef80a200, Size=728
+[2018.12.05-15.15.34:527][272]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c507b39280, Size=424, Default__RedBlueRoom_C Function /Engine/Transient.REINST_RedBlueRoom_C_708:ExecuteUbergraph_RedBlueRoom
+[2018.12.05-15.15.34:527][272]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c50a621600, Size=728, Default__RedBlueRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.15.34:538][272]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c431bedd00, Size=432, Default__RedBlueRoom_C Function /Game/Rooms/RedBlueRoom.RedBlueRoom_C:ExecuteUbergraph_RedBlueRoom
+[2018.12.05-15.15.34:538][272]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c51818d600, Size=728, Default__RedBlueRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.15.34:996][272]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c48a3a2138, Size=4
+[2018.12.05-15.15.35:456][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RedBlueRoom" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/RedBlueRoom.uasset" SILENT=true
+[2018.12.05-15.15.35:833][273]LogSavePackage: Save=202.63ms
+[2018.12.05-15.15.35:835][273]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/RedBlueRoom0B92E78949E6A247509810976CB7D761.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/RedBlueRoom.uasset'
+[2018.12.05-15.15.35:855][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/RedBlueRoom.uasset
+[2018.12.05-15.15.36:229][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RedBlueRoom" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/RedBlueRoom.uasset" SILENT=true
+[2018.12.05-15.15.36:609][299]LogSavePackage: Save=226.61ms
+[2018.12.05-15.15.36:609][299]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/RedBlueRoom30D453844252E1077CBD2B88D27F38B2.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/RedBlueRoom.uasset'
+[2018.12.05-15.15.36:618][299]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/RedBlueRoom.uasset
+[2018.12.05-15.15.37:654][380]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.05-15.15.37:690][380]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.15.37:690][380]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-15.15.37:690][380]PIE: New page: PIE session: TopDownExampleMap (5 Dec 2018 15:15:37)
+[2018.12.05-15.15.37:690][380]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.12.05-15.15.37:694][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003706s)
+[2018.12.05-15.15.37:695][380]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.12.05-15.15.37:695][380]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2018.12.05-15.15.37:695][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.004448s)
+[2018.12.05-15.15.37:761][380]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.05-15.15.37:803][380]LogInit: FAudioDevice initialized.
+[2018.12.05-15.15.37:838][380]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.05-15.15.37:841][380]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.12.05-15.15.37
+[2018.12.05-15.15.37:842][380]LogWorld: Bringing up level for play took: 0.002908
+[2018.12.05-15.15.37:850][380]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.733
+[2018.12.05-15.15.37:850][380]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.15.40:427][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.15.46:536][402]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.15.46:572][402]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.15.47:763][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.15.48:304][545]LogSavePackage: Save=232.05ms
+[2018.12.05-15.15.48:304][545]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownExampleMapAF1DAE3343F85E64BCFAC3BDDA13F126.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.12.05-15.15.48:313][545]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.12.05-15.17.45:216][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/MusicHandler" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Sounds/MusicHandler.uasset" SILENT=true
+[2018.12.05-15.17.45:372][655]LogSavePackage: Save=12.07ms
+[2018.12.05-15.17.45:372][655]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/MusicHandlerA0A68C3A437CAF79BF2626B823B7DB6C.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Sounds/MusicHandler.uasset'
+[2018.12.05-15.17.45:388][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Sounds/MusicHandler.uasset
+[2018.12.05-15.17.53:532][213]LogSlate: Window 'MusicHandler' being destroyed
+[2018.12.05-15.18.34:881][669]BlueprintLog: New page: Compile TopDownGameMode
+[2018.12.05-15.18.34:942][669]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4166b9b20, Size=160
+[2018.12.05-15.18.34:942][669]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4a2246700, Size=160, Default__TopDownGameMode_C Function /Engine/Transient.REINST_TopDownGameMode_C_778:ExecuteUbergraph_TopDownGameMode
+[2018.12.05-15.18.34:946][669]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c43b64e660, Size=160, Default__TopDownGameMode_C Function /Game/TopDownGameMode.TopDownGameMode_C:ExecuteUbergraph_TopDownGameMode
+[2018.12.05-15.18.35:269][669]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c507b39280, Size=424
+[2018.12.05-15.18.35:269][669]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c50a621600, Size=728
+[2018.12.05-15.18.35:430][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownGameMode" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset" SILENT=true
+[2018.12.05-15.18.35:694][669]LogSavePackage: Save=47.16ms
+[2018.12.05-15.18.35:694][669]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownGameModeBCF51A384A36523BA0D164B48B66C67F.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset'
+[2018.12.05-15.18.35:704][669]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset
+[2018.12.05-15.18.36:108][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownGameMode" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset" SILENT=true
+[2018.12.05-15.18.36:399][706]LogSavePackage: Save=78.77ms
+[2018.12.05-15.18.36:400][706]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownGameModeA31CD2C74F6CA33278C515A9797D851F.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset'
+[2018.12.05-15.18.36:409][706]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset
+[2018.12.05-15.18.37:934][859]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.05-15.18.37:962][859]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.18.37:963][859]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-15.18.37:963][859]PIE: New page: PIE session: TopDownExampleMap (5 Dec 2018 15:18:37)
+[2018.12.05-15.18.37:963][859]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.12.05-15.18.37:967][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003802s)
+[2018.12.05-15.18.37:967][859]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.12.05-15.18.37:967][859]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2018.12.05-15.18.37:967][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.004641s)
+[2018.12.05-15.18.37:993][859]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4a2246700, Size=160
+[2018.12.05-15.18.38:038][859]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.05-15.18.38:081][859]LogInit: FAudioDevice initialized.
+[2018.12.05-15.18.38:117][859]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.05-15.18.38:122][859]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.12.05-15.18.38
+[2018.12.05-15.18.38:122][859]LogWorld: Bringing up level for play took: 0.003706
+[2018.12.05-15.18.38:130][859]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.452
+[2018.12.05-15.18.38:130][859]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.18.56:073][978]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.12.05-15.19.09:180][509]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.19.09:224][509]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.19.10:309][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.19.10:764][639]LogSavePackage: Save=158.33ms
+[2018.12.05-15.19.10:764][639]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownExampleMap3DF53D2341E64AE1F221608690F03E79.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.12.05-15.19.10:772][639]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap
