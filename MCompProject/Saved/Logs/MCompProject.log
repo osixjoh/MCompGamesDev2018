@@ -1389,3 +1389,1343 @@ LogInit: Object subsystem initialized
 [2018.12.05-14.58.43:576][563]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap
 [2018.12.05-14.58.56:476][690]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c48c22c100, Size=1408
 [2018.12.05-14.58.57:408][690]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.05-14.59.46:262][889]LogSavePackage: Save=149.33ms
+[2018.12.05-14.59.46:263][889]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownExampleMap965F27E7479D098282482DB59B7FA946.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.12.05-14.59.46:280][889]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.12.05-14.59.55:913][965]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.05-14.59.55:947][965]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-14.59.55:948][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-14.59.55:948][965]PIE: New page: PIE session: TopDownExampleMap (5 Dec 2018 14:59:55)
+[2018.12.05-14.59.55:948][965]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.12.05-14.59.55:951][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003504s)
+[2018.12.05-14.59.55:952][965]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.12.05-14.59.55:952][965]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2018.12.05-14.59.55:952][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.004349s)
+[2018.12.05-14.59.56:004][965]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.05-14.59.56:037][965]LogInit: FAudioDevice initialized.
+[2018.12.05-14.59.56:072][965]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.05-14.59.56:076][965]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.12.05-14.59.56
+[2018.12.05-14.59.56:076][965]LogWorld: Bringing up level for play took: 0.003053
+[2018.12.05-14.59.56:083][965]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.509
+[2018.12.05-14.59.56:083][965]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-14.59.59:654][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.00.00:530][484]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.00.00:567][484]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.00.01:716][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.00.05:704][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c48166e500, Size=688, Default__simon_C Function /Game/Rooms/simon.simon_C:ExecuteUbergraph_simon
+[2018.12.05-15.00.05:704][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c493e0e800, Size=728, Default__simon_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.00.05:705][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4c27b4f40, Size=160, Default__plate1_C Function /Game/Rooms/simonassets/plate1.plate1_C:ExecuteUbergraph_plate1
+[2018.12.05-15.00.05:705][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4c27b40e0, Size=144, Default__plate1_C Function /Game/ell/MasterInteratable.MasterInteratable_C:ExecuteUbergraph_MasterInteratable
+[2018.12.05-15.00.05:744][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4b27a0f40, Size=64, Default__Tutorial_Simon_C Function /Game/RoomTutorials/Tutorial_Simon.Tutorial_Simon_C:ExecuteUbergraph_Tutorial_Simon
+[2018.12.05-15.00.05:744][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4c27b7c40, Size=160, Default__Tutorial_Simon_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.00.05:760][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4c27b4f40, Size=160
+[2018.12.05-15.00.05:760][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4c27b40e0, Size=144
+[2018.12.05-15.00.05:760][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4b59300e0, Size=160, Default__plate1_C Function /Engine/Transient.REINST_plate1_C_469:ExecuteUbergraph_plate1
+[2018.12.05-15.00.05:760][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4b59313a0, Size=144, Default__plate1_C Function /Game/ell/MasterInteratable.MasterInteratable_C:ExecuteUbergraph_MasterInteratable
+[2018.12.05-15.00.05:761][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c48166e500, Size=688
+[2018.12.05-15.00.05:761][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c493e0e800, Size=728
+[2018.12.05-15.00.05:761][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c40ff10700, Size=688, Default__simon_C Function /Engine/Transient.REINST_simon_C_470:ExecuteUbergraph_simon
+[2018.12.05-15.00.05:761][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c40ff10d00, Size=728, Default__simon_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.00.05:761][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4b27a0f40, Size=64
+[2018.12.05-15.00.05:761][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4c27b7c40, Size=160
+[2018.12.05-15.00.05:761][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4b27a0900, Size=64, Default__Tutorial_Simon_C Function /Engine/Transient.REINST_Tutorial_Simon_C_71:ExecuteUbergraph_Tutorial_Simon
+[2018.12.05-15.00.05:761][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4a826dda0, Size=160, Default__Tutorial_Simon_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.00.05:775][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4ac055c60, Size=160, Default__plate1_C Function /Game/Rooms/simonassets/plate1.plate1_C:ExecuteUbergraph_plate1
+[2018.12.05-15.00.05:775][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4ac054860, Size=144, Default__plate1_C Function /Game/ell/MasterInteratable.MasterInteratable_C:ExecuteUbergraph_MasterInteratable
+[2018.12.05-15.00.05:779][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4dc6eb400, Size=688, Default__simon_C Function /Game/Rooms/simon.simon_C:ExecuteUbergraph_simon
+[2018.12.05-15.00.05:779][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4dc6e9300, Size=728, Default__simon_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.00.05:780][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c484e85680, Size=64, Default__Tutorial_Simon_C Function /Game/RoomTutorials/Tutorial_Simon.Tutorial_Simon_C:ExecuteUbergraph_Tutorial_Simon
+[2018.12.05-15.00.05:780][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4882349a0, Size=160, Default__Tutorial_Simon_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.00.05:877][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47f30e980, Size=608, Default__beeptest_C Function /Game/Rooms/beeptest.beeptest_C:ExecuteUbergraph_beeptest
+[2018.12.05-15.00.05:877][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4c27c2500, Size=728, Default__beeptest_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.00.05:898][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4b5cf5d80, Size=120, Default__electricfloor_C Function /Game/Rooms/beeproomassets/electricfloor.electricfloor_C:ExecuteUbergraph_electricfloor
+[2018.12.05-15.00.05:903][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47f2ee020, Size=96, Default__beepcheckpoint_C Function /Game/Rooms/beeproomassets/beepcheckpoint.beepcheckpoint_C:ExecuteUbergraph_beepcheckpoint
+[2018.12.05-15.00.05:903][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4911eafc0, Size=144, Default__beepcheckpoint_C Function /Game/ell/MasterInteratable.MasterInteratable_C:ExecuteUbergraph_MasterInteratable
+[2018.12.05-15.00.06:026][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c484e3aa80, Size=64, Default__Tutorial_Zap_C Function /Game/RoomTutorials/Tutorial_Zap.Tutorial_Zap_C:ExecuteUbergraph_Tutorial_Zap
+[2018.12.05-15.00.06:026][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4a807a340, Size=160, Default__Tutorial_Zap_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.00.06:045][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4b5cf5d80, Size=120
+[2018.12.05-15.00.06:045][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c476362880, Size=120, Default__electricfloor_C Function /Engine/Transient.REINST_electricfloor_C_478:ExecuteUbergraph_electricfloor
+[2018.12.05-15.00.06:048][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c47f2ee020, Size=96
+[2018.12.05-15.00.06:048][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4911eafc0, Size=144
+[2018.12.05-15.00.06:048][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47f2ee020, Size=96, Default__beepcheckpoint_C Function /Engine/Transient.REINST_beepcheckpoint_C_485:ExecuteUbergraph_beepcheckpoint
+[2018.12.05-15.00.06:048][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4921d89a0, Size=144, Default__beepcheckpoint_C Function /Game/ell/MasterInteratable.MasterInteratable_C:ExecuteUbergraph_MasterInteratable
+[2018.12.05-15.00.06:048][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c47f30e980, Size=608
+[2018.12.05-15.00.06:048][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4c27c2500, Size=728
+[2018.12.05-15.00.06:048][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4828bce00, Size=608, Default__beeptest_C Function /Engine/Transient.REINST_beeptest_C_486:ExecuteUbergraph_beeptest
+[2018.12.05-15.00.06:048][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4a20ceb00, Size=728, Default__beeptest_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.00.06:049][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c484e3aa80, Size=64
+[2018.12.05-15.00.06:049][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4a807a340, Size=160
+[2018.12.05-15.00.06:049][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c485220b40, Size=64, Default__Tutorial_Zap_C Function /Engine/Transient.REINST_Tutorial_Zap_C_72:ExecuteUbergraph_Tutorial_Zap
+[2018.12.05-15.00.06:049][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4b295cae0, Size=160, Default__Tutorial_Zap_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.00.06:066][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c410b2f100, Size=120, Default__electricfloor_C Function /Game/Rooms/beeproomassets/electricfloor.electricfloor_C:ExecuteUbergraph_electricfloor
+[2018.12.05-15.00.06:067][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47f29df60, Size=96, Default__beepcheckpoint_C Function /Game/Rooms/beeproomassets/beepcheckpoint.beepcheckpoint_C:ExecuteUbergraph_beepcheckpoint
+[2018.12.05-15.00.06:068][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c487a2e3e0, Size=144, Default__beepcheckpoint_C Function /Game/ell/MasterInteratable.MasterInteratable_C:ExecuteUbergraph_MasterInteratable
+[2018.12.05-15.00.06:070][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c493141080, Size=608, Default__beeptest_C Function /Game/Rooms/beeptest.beeptest_C:ExecuteUbergraph_beeptest
+[2018.12.05-15.00.06:070][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4e3164400, Size=728, Default__beeptest_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.00.06:071][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c417c76e80, Size=64, Default__Tutorial_Zap_C Function /Game/RoomTutorials/Tutorial_Zap.Tutorial_Zap_C:ExecuteUbergraph_Tutorial_Zap
+[2018.12.05-15.00.06:071][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4e2c40400, Size=160, Default__Tutorial_Zap_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.00.06:144][863]LogAudioDerivedData: Display: Building compressed audio format OGG wave wav_beep1...
+[2018.12.05-15.00.06:178][863]LogTexture: Display: Building textures: zap (BGRA8, 1200X1920)
+[2018.12.05-15.00.06:178][863]LogMaterial: Missing cached shader map for material electricfloormat, compiling. 
+[2018.12.05-15.00.06:209][863]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.00.06:209][863]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.00.06:209][863]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.05-15.00.06:209][863]LogMaterial: Missing cached shader map for material beepcheckmat1, compiling. 
+[2018.12.05-15.00.06:264][863]LogMaterial: Missing cached shader map for material zapmat, compiling. 
+[2018.12.05-15.00.06:305][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4ab42fd00, Size=704, Default__brickbreaker_C Function /Game/Rooms/brickbreaker.brickbreaker_C:ExecuteUbergraph_brickbreaker
+[2018.12.05-15.00.06:305][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4ab42fa00, Size=728, Default__brickbreaker_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.00.06:307][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c43b638680, Size=544, Default__bbball_C Function /Game/Rooms/brickroomassets/bbball.bbball_C:ExecuteUbergraph_bbball
+[2018.12.05-15.00.06:315][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c42ed97880, Size=288, Default__paddle_C Function /Game/Rooms/brickroomassets/paddle.paddle_C:ExecuteUbergraph_paddle
+[2018.12.05-15.00.06:315][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4833b4cc0, Size=144, Default__paddle_C Function /Game/ell/MasterInteratable.MasterInteratable_C:ExecuteUbergraph_MasterInteratable
+[2018.12.05-15.00.06:365][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c485105050, Size=112, Default__bbbrick_C Function /Game/Rooms/brickroomassets/bbbrick.bbbrick_C:ExecuteUbergraph_bbbrick
+[2018.12.05-15.00.06:397][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4803a3a80, Size=64, Default__Tutorial_BrickBreaker_C Function /Game/RoomTutorials/Tutorial_BrickBreaker.Tutorial_BrickBreaker_C:ExecuteUbergraph_Tutorial_BrickBreaker
+[2018.12.05-15.00.06:398][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c48c976c00, Size=160, Default__Tutorial_BrickBreaker_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.00.06:416][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c43b638680, Size=544
+[2018.12.05-15.00.06:416][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c492ee1300, Size=544, Default__bbball_C Function /Engine/Transient.REINST_bbball_C_501:ExecuteUbergraph_bbball
+[2018.12.05-15.00.06:416][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c485105050, Size=112
+[2018.12.05-15.00.06:416][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c482b330b0, Size=112, Default__bbbrick_C Function /Engine/Transient.REINST_bbbrick_C_502:ExecuteUbergraph_bbbrick
+[2018.12.05-15.00.06:418][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4ab42fd00, Size=704
+[2018.12.05-15.00.06:418][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4ab42fa00, Size=728
+[2018.12.05-15.00.06:418][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4b6ded900, Size=704, Default__brickbreaker_C Function /Engine/Transient.REINST_brickbreaker_C_507:ExecuteUbergraph_brickbreaker
+[2018.12.05-15.00.06:418][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4b6dee200, Size=728, Default__brickbreaker_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.00.06:418][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c42ed97880, Size=288
+[2018.12.05-15.00.06:418][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4833b4cc0, Size=144
+[2018.12.05-15.00.06:418][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c489503b00, Size=288, Default__paddle_C Function /Engine/Transient.REINST_paddle_C_508:ExecuteUbergraph_paddle
+[2018.12.05-15.00.06:419][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4a42d9580, Size=144, Default__paddle_C Function /Game/ell/MasterInteratable.MasterInteratable_C:ExecuteUbergraph_MasterInteratable
+[2018.12.05-15.00.06:419][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4803a3a80, Size=64
+[2018.12.05-15.00.06:419][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c48c976c00, Size=160
+[2018.12.05-15.00.06:419][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4800ff5c0, Size=64, Default__Tutorial_BrickBreaker_C Function /Engine/Transient.REINST_Tutorial_BrickBreaker_C_73:ExecuteUbergraph_Tutorial_BrickBreaker
+[2018.12.05-15.00.06:419][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4c44ceca0, Size=160, Default__Tutorial_BrickBreaker_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.00.06:440][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47a9f3380, Size=544, Default__bbball_C Function /Game/Rooms/brickroomassets/bbball.bbball_C:ExecuteUbergraph_bbball
+[2018.12.05-15.00.06:441][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c484c5f6d0, Size=112, Default__bbbrick_C Function /Game/Rooms/brickroomassets/bbbrick.bbbrick_C:ExecuteUbergraph_bbbrick
+[2018.12.05-15.00.06:444][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4b61d1300, Size=704, Default__brickbreaker_C Function /Game/Rooms/brickbreaker.brickbreaker_C:ExecuteUbergraph_brickbreaker
+[2018.12.05-15.00.06:444][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4b61d3a00, Size=728, Default__brickbreaker_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.00.06:446][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c489500680, Size=288, Default__paddle_C Function /Game/Rooms/brickroomassets/paddle.paddle_C:ExecuteUbergraph_paddle
+[2018.12.05-15.00.06:446][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c492434ae0, Size=144, Default__paddle_C Function /Game/ell/MasterInteratable.MasterInteratable_C:ExecuteUbergraph_MasterInteratable
+[2018.12.05-15.00.06:446][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4800eac80, Size=64, Default__Tutorial_BrickBreaker_C Function /Game/RoomTutorials/Tutorial_BrickBreaker.Tutorial_BrickBreaker_C:ExecuteUbergraph_Tutorial_BrickBreaker
+[2018.12.05-15.00.06:446][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c492434360, Size=160, Default__Tutorial_BrickBreaker_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.00.06:503][863]LogTexture: Display: Building textures: balltex (AutoDXT, 120X120)
+[2018.12.05-15.00.06:503][863]LogTexture: Display: Building textures: paddletex (BGRA8, 200X40)
+[2018.12.05-15.00.06:503][863]LogTexture: Display: Building textures: bricktex (AutoDXT, 120X60)
+[2018.12.05-15.00.06:503][863]LogMaterial: Missing cached shader map for material bbbrickmathp2, compiling. 
+[2018.12.05-15.00.06:512][863]LogMaterial: Missing cached shader map for material bbbrickmathp3, compiling. 
+[2018.12.05-15.00.06:522][863]LogMaterial: Missing cached shader map for material ballmat, compiling. 
+[2018.12.05-15.00.06:574][863]LogMaterial: Missing cached shader map for material paddlemat, compiling. 
+[2018.12.05-15.00.06:583][863]LogMaterial: Missing cached shader map for material bbbrickmathp1, compiling. 
+[2018.12.05-15.00.06:608][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c494cfe780, Size=800, Default__Dodgeball_C Function /Game/Rooms/Dodgeball.Dodgeball_C:ExecuteUbergraph_Dodgeball
+[2018.12.05-15.00.06:609][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4af2aca00, Size=728, Default__Dodgeball_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.00.06:611][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4aa7e3740, Size=208, Default__Ball_C Function /Game/Rooms/DodgeballAssets/Ball.Ball_C:ExecuteUbergraph_Ball
+[2018.12.05-15.00.06:648][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4ddf4b000, Size=480, Default__ChasingBall_C Function /Game/Rooms/DodgeballAssets/ChasingBall.ChasingBall_C:ExecuteUbergraph_ChasingBall
+[2018.12.05-15.00.06:661][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c48039dc10, Size=4, Default__PlayerFeedback_C Function /Game/Rooms/RedBlueRoomAssets/PlayerFeedback.PlayerFeedback_C:ExecuteUbergraph_PlayerFeedback
+[2018.12.05-15.00.06:677][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c48035ed00, Size=64, Default__Tutorial_Dodgeball_C Function /Game/RoomTutorials/Tutorial_Dodgeball.Tutorial_Dodgeball_C:ExecuteUbergraph_Tutorial_Dodgeball
+[2018.12.05-15.00.06:677][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4a8160540, Size=160, Default__Tutorial_Dodgeball_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.00.06:695][863]LogShaderCompilers: Display: Shaders left to compile 148
+[2018.12.05-15.00.06:695][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4aa7e3740, Size=208
+[2018.12.05-15.00.06:695][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4a4812940, Size=208, Default__Ball_C Function /Engine/Transient.REINST_Ball_C_518:ExecuteUbergraph_Ball
+[2018.12.05-15.00.06:696][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4ddf4b000, Size=480
+[2018.12.05-15.00.06:696][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c41591a800, Size=480, Default__ChasingBall_C Function /Engine/Transient.REINST_ChasingBall_C_519:ExecuteUbergraph_ChasingBall
+[2018.12.05-15.00.06:698][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c494cfe780, Size=800
+[2018.12.05-15.00.06:698][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4af2aca00, Size=728
+[2018.12.05-15.00.06:698][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c495927200, Size=800, Default__Dodgeball_C Function /Engine/Transient.REINST_Dodgeball_C_520:ExecuteUbergraph_Dodgeball
+[2018.12.05-15.00.06:698][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c48b8d4400, Size=728, Default__Dodgeball_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.00.06:699][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c48039dc10, Size=4
+[2018.12.05-15.00.06:699][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c48039dc10, Size=4, Default__PlayerFeedback_C Function /Engine/Transient.REINST_PlayerFeedback_C_74:ExecuteUbergraph_PlayerFeedback
+[2018.12.05-15.00.06:699][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c48035ed00, Size=64
+[2018.12.05-15.00.06:699][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4a8160540, Size=160
+[2018.12.05-15.00.06:699][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47feaeac0, Size=64, Default__Tutorial_Dodgeball_C Function /Engine/Transient.REINST_Tutorial_Dodgeball_C_75:ExecuteUbergraph_Tutorial_Dodgeball
+[2018.12.05-15.00.06:699][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4ad186020, Size=160, Default__Tutorial_Dodgeball_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.00.06:725][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c48b813c80, Size=208, Default__Ball_C Function /Game/Rooms/DodgeballAssets/Ball.Ball_C:ExecuteUbergraph_Ball
+[2018.12.05-15.00.06:727][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4b2ae3e00, Size=480, Default__ChasingBall_C Function /Game/Rooms/DodgeballAssets/ChasingBall.ChasingBall_C:ExecuteUbergraph_ChasingBall
+[2018.12.05-15.00.06:733][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c495925d00, Size=800, Default__Dodgeball_C Function /Game/Rooms/Dodgeball.Dodgeball_C:ExecuteUbergraph_Dodgeball
+[2018.12.05-15.00.06:733][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c493025f00, Size=728, Default__Dodgeball_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.00.06:737][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c48039d478, Size=4, Default__PlayerFeedback_C Function /Game/Rooms/RedBlueRoomAssets/PlayerFeedback.PlayerFeedback_C:ExecuteUbergraph_PlayerFeedback
+[2018.12.05-15.00.06:738][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47ff53880, Size=64, Default__Tutorial_Dodgeball_C Function /Game/RoomTutorials/Tutorial_Dodgeball.Tutorial_Dodgeball_C:ExecuteUbergraph_Tutorial_Dodgeball
+[2018.12.05-15.00.06:738][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4a47685e0, Size=160, Default__Tutorial_Dodgeball_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.00.06:877][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c410b58a00, Size=360, Default__LightsOutRoomNew_C Function /Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C:ExecuteUbergraph_LightsOutRoomNew
+[2018.12.05-15.00.06:877][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4a4e09900, Size=728, Default__LightsOutRoomNew_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.00.06:878][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47fd66c80, Size=360, Default__LightsOut_Tile_C Function /Game/Rooms/LightsOutRoomAssets/LightsOut_Tile.LightsOut_Tile_C:ExecuteUbergraph_LightsOut_Tile
+[2018.12.05-15.00.06:912][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c48950c080, Size=64, Default__Tutorial_LightsOut_C Function /Game/RoomTutorials/Tutorial_LightsOut.Tutorial_LightsOut_C:ExecuteUbergraph_Tutorial_LightsOut
+[2018.12.05-15.00.06:912][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4ac5444a0, Size=160, Default__Tutorial_LightsOut_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.00.06:936][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c47fd66c80, Size=360
+[2018.12.05-15.00.06:936][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47dd6d300, Size=360, Default__LightsOut_Tile_C Function /Engine/Transient.REINST_LightsOut_Tile_C_527:ExecuteUbergraph_LightsOut_Tile
+[2018.12.05-15.00.06:937][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c410b58a00, Size=360
+[2018.12.05-15.00.06:937][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4a4e09900, Size=728
+[2018.12.05-15.00.06:937][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c43dccb400, Size=360, Default__LightsOutRoomNew_C Function /Engine/Transient.REINST_LightsOutRoomNew_C_528:ExecuteUbergraph_LightsOutRoomNew
+[2018.12.05-15.00.06:937][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4c277ab00, Size=728, Default__LightsOutRoomNew_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.00.06:937][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c48950c080, Size=64
+[2018.12.05-15.00.06:937][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4ac5444a0, Size=160
+[2018.12.05-15.00.06:937][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c48950f200, Size=64, Default__Tutorial_LightsOut_C Function /Engine/Transient.REINST_Tutorial_LightsOut_C_76:ExecuteUbergraph_Tutorial_LightsOut
+[2018.12.05-15.00.06:937][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4aabfb1a0, Size=160, Default__Tutorial_LightsOut_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.00.06:976][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c494752680, Size=360, Default__LightsOut_Tile_C Function /Game/Rooms/LightsOutRoomAssets/LightsOut_Tile.LightsOut_Tile_C:ExecuteUbergraph_LightsOut_Tile
+[2018.12.05-15.00.06:981][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c494751300, Size=360, Default__LightsOutRoomNew_C Function /Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C:ExecuteUbergraph_LightsOutRoomNew
+[2018.12.05-15.00.06:981][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4c2778100, Size=728, Default__LightsOutRoomNew_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.00.06:983][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4c1c70880, Size=64, Default__Tutorial_LightsOut_C Function /Game/RoomTutorials/Tutorial_LightsOut.Tutorial_LightsOut_C:ExecuteUbergraph_Tutorial_LightsOut
+[2018.12.05-15.00.06:983][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c415001f80, Size=160, Default__Tutorial_LightsOut_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.00.07:093][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47f3739a0, Size=96, Default__Pong-room_C Function /Game/Rooms/Pong-room.Pong-room_C:ExecuteUbergraph_Pong-room
+[2018.12.05-15.00.07:093][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4e19af100, Size=728, Default__Pong-room_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.00.07:094][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4dc6fe5c0, Size=448, Default__BluePongBall_C Function /Game/Rooms/Pong_room/Pong_room/BluePongBall.BluePongBall_C:ExecuteUbergraph_BluePongBall
+[2018.12.05-15.00.07:101][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4dc928800, Size=960, Default__PongEnemy_C Function /Game/Rooms/Pong_room/Pong_room/PongEnemy.PongEnemy_C:ExecuteUbergraph_PongEnemy
+[2018.12.05-15.00.07:145][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4e1a2b100, Size=712, Default__RedPongBall_C Function /Game/Rooms/Pong_room/Pong_room/RedPongBall.RedPongBall_C:ExecuteUbergraph_RedPongBall
+[2018.12.05-15.00.07:175][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c492f1e100, Size=64, Default__Tutorial_Pong_C Function /Game/RoomTutorials/Tutorial_Pong.Tutorial_Pong_C:ExecuteUbergraph_Tutorial_Pong
+[2018.12.05-15.00.07:175][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4a32a1120, Size=160, Default__Tutorial_Pong_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.00.07:192][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4dc6fe5c0, Size=448
+[2018.12.05-15.00.07:192][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4e5931d00, Size=448, Default__BluePongBall_C Function /Engine/Transient.REINST_BluePongBall_C_533:ExecuteUbergraph_BluePongBall
+[2018.12.05-15.00.07:194][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4dc928800, Size=960
+[2018.12.05-15.00.07:194][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4dc928800, Size=960, Default__PongEnemy_C Function /Engine/Transient.REINST_PongEnemy_C_534:ExecuteUbergraph_PongEnemy
+[2018.12.05-15.00.07:195][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4e1a2b100, Size=712
+[2018.12.05-15.00.07:195][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4952dae00, Size=712, Default__RedPongBall_C Function /Engine/Transient.REINST_RedPongBall_C_535:ExecuteUbergraph_RedPongBall
+[2018.12.05-15.00.07:195][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c47f3739a0, Size=96
+[2018.12.05-15.00.07:195][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4e19af100, Size=728
+[2018.12.05-15.00.07:195][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c48487c400, Size=96, Default__Pong-room_C Function /Engine/Transient.REINST_Pong-room_C_536:ExecuteUbergraph_Pong-room
+[2018.12.05-15.00.07:196][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4952da200, Size=728, Default__Pong-room_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.00.07:196][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c492f1e100, Size=64
+[2018.12.05-15.00.07:196][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4a32a1120, Size=160
+[2018.12.05-15.00.07:196][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4d721ec00, Size=64, Default__Tutorial_Pong_C Function /Engine/Transient.REINST_Tutorial_Pong_C_77:ExecuteUbergraph_Tutorial_Pong
+[2018.12.05-15.00.07:196][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4952d4540, Size=160, Default__Tutorial_Pong_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.00.07:221][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c48a69cb80, Size=448, Default__BluePongBall_C Function /Game/Rooms/Pong_room/Pong_room/BluePongBall.BluePongBall_C:ExecuteUbergraph_BluePongBall
+[2018.12.05-15.00.07:223][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4c4106400, Size=960, Default__PongEnemy_C Function /Game/Rooms/Pong_room/Pong_room/PongEnemy.PongEnemy_C:ExecuteUbergraph_PongEnemy
+[2018.12.05-15.00.07:226][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c416392800, Size=712, Default__RedPongBall_C Function /Game/Rooms/Pong_room/Pong_room/RedPongBall.RedPongBall_C:ExecuteUbergraph_RedPongBall
+[2018.12.05-15.00.07:227][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47f505000, Size=96, Default__Pong-room_C Function /Game/Rooms/Pong-room.Pong-room_C:ExecuteUbergraph_Pong-room
+[2018.12.05-15.00.07:227][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c416393700, Size=728, Default__Pong-room_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.00.07:229][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4af53b080, Size=64, Default__Tutorial_Pong_C Function /Game/RoomTutorials/Tutorial_Pong.Tutorial_Pong_C:ExecuteUbergraph_Tutorial_Pong
+[2018.12.05-15.00.07:229][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4001972e0, Size=160, Default__Tutorial_Pong_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.00.07:375][863]LogTexture: Display: Building textures: t-shirt_asset (BGRA8, 459X443)
+[2018.12.05-15.00.07:375][863]LogTexture: Display: Building textures: Enemy_open_mouth_1 (BGRA8, 567X540)
+[2018.12.05-15.00.07:375][863]LogTexture: Display: Building textures: Enemy_open_mouth_3 (BGRA8, 567X540)
+[2018.12.05-15.00.07:375][863]LogTexture: Display: Building textures: Enemy_open_mouth_4 (BGRA8, 567X540)
+[2018.12.05-15.00.07:375][863]LogTexture: Display: Building textures: Enemy_open_mouth_5 (BGRA8, 567X540)
+[2018.12.05-15.00.07:375][863]LogTexture: Display: Building textures: Enemy_open_mouth_2 (BGRA8, 567X540)
+[2018.12.05-15.00.07:375][863]LogTexture: Display: Building textures: Sock (BGRA8, 447X383)
+[2018.12.05-15.00.07:375][863]LogMaterial: Missing cached shader map for material t-shirt_asset_Mat, compiling. 
+[2018.12.05-15.00.07:414][863]LogMaterial: Missing cached shader map for material Sock_Mat, compiling. 
+[2018.12.05-15.00.07:464][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4b404c600, Size=488, Default__RedBlueRoom_C Function /Game/Rooms/RedBlueRoom.RedBlueRoom_C:ExecuteUbergraph_RedBlueRoom
+[2018.12.05-15.00.07:464][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4a3631f00, Size=728, Default__RedBlueRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.00.07:465][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4949c7a00, Size=240, Default__entrance_boxes_C Function /Game/Rooms/RedBlueRoomAssets/entrance_boxes.entrance_boxes_C:ExecuteUbergraph_entrance_boxes
+[2018.12.05-15.00.07:471][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47e96ce78, Size=8, Default__RedBluePlatform_C Function /Game/Rooms/RedBlueRoomAssets/RedBluePlatform.RedBluePlatform_C:ExecuteUbergraph_RedBluePlatform
+[2018.12.05-15.00.07:476][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4aa8984c0, Size=12, Default__RedBluePlatform_Red_C Function /Game/Rooms/RedBlueRoomAssets/RedBluePlatform_Red.RedBluePlatform_Red_C:ExecuteUbergraph_RedBluePlatform_Red
+[2018.12.05-15.00.07:476][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47e96d208, Size=8, Default__RedBluePlatform_Red_C Function /Game/Rooms/RedBlueRoomAssets/RedBluePlatform.RedBluePlatform_C:ExecuteUbergraph_RedBluePlatform
+[2018.12.05-15.00.07:487][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4aa898bb0, Size=12, Default__RedBluePlatform_Blue_C Function /Game/Rooms/RedBlueRoomAssets/RedBluePlatform_Blue.RedBluePlatform_Blue_C:ExecuteUbergraph_RedBluePlatform_Blue
+[2018.12.05-15.00.07:487][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47e96d028, Size=8, Default__RedBluePlatform_Blue_C Function /Game/Rooms/RedBlueRoomAssets/RedBluePlatform.RedBluePlatform_C:ExecuteUbergraph_RedBluePlatform
+[2018.12.05-15.00.07:502][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4a3b15d80, Size=368, Default__FloorDrop_C Function /Game/Rooms/RedBlueRoomAssets/FloorDrop.FloorDrop_C:ExecuteUbergraph_FloorDrop
+[2018.12.05-15.00.07:531][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4949c7a00, Size=240
+[2018.12.05-15.00.07:531][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4ace10100, Size=240, Default__entrance_boxes_C Function /Engine/Transient.REINST_entrance_boxes_C_542:ExecuteUbergraph_entrance_boxes
+[2018.12.05-15.00.07:532][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4a3b15d80, Size=368
+[2018.12.05-15.00.07:532][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4aac1b100, Size=368, Default__FloorDrop_C Function /Engine/Transient.REINST_FloorDrop_C_543:ExecuteUbergraph_FloorDrop
+[2018.12.05-15.00.07:532][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c47e96ce78, Size=8
+[2018.12.05-15.00.07:532][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47e96ce78, Size=8, Default__RedBluePlatform_C Function /Engine/Transient.REINST_RedBluePlatform_C_544:ExecuteUbergraph_RedBluePlatform
+[2018.12.05-15.00.07:532][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4aa898bb0, Size=12
+[2018.12.05-15.00.07:532][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c47e96d028, Size=8
+[2018.12.05-15.00.07:532][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4aa898bb0, Size=12, Default__RedBluePlatform_Blue_C Function /Engine/Transient.REINST_RedBluePlatform_Blue_C_545:ExecuteUbergraph_RedBluePlatform_Blue
+[2018.12.05-15.00.07:532][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47e96d028, Size=8, Default__RedBluePlatform_Blue_C Function /Engine/Transient.REINST_RedBluePlatform_C_544:ExecuteUbergraph_RedBluePlatform
+[2018.12.05-15.00.07:533][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4aa8984c0, Size=12
+[2018.12.05-15.00.07:533][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c47e96d208, Size=8
+[2018.12.05-15.00.07:533][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4aa8984c0, Size=12, Default__RedBluePlatform_Red_C Function /Engine/Transient.REINST_RedBluePlatform_Red_C_546:ExecuteUbergraph_RedBluePlatform_Red
+[2018.12.05-15.00.07:533][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47e96d208, Size=8, Default__RedBluePlatform_Red_C Function /Engine/Transient.REINST_RedBluePlatform_C_544:ExecuteUbergraph_RedBluePlatform
+[2018.12.05-15.00.07:535][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4b404c600, Size=488
+[2018.12.05-15.00.07:535][863]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4a3631f00, Size=728
+[2018.12.05-15.00.07:535][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4b2a64800, Size=488, Default__RedBlueRoom_C Function /Engine/Transient.REINST_RedBlueRoom_C_547:ExecuteUbergraph_RedBlueRoom
+[2018.12.05-15.00.07:535][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4aac13700, Size=728, Default__RedBlueRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.00.07:550][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c480c0ee00, Size=240, Default__entrance_boxes_C Function /Game/Rooms/RedBlueRoomAssets/entrance_boxes.entrance_boxes_C:ExecuteUbergraph_entrance_boxes
+[2018.12.05-15.00.07:551][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4a3576500, Size=368, Default__FloorDrop_C Function /Game/Rooms/RedBlueRoomAssets/FloorDrop.FloorDrop_C:ExecuteUbergraph_FloorDrop
+[2018.12.05-15.00.07:551][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47e96c278, Size=8, Default__RedBluePlatform_C Function /Game/Rooms/RedBlueRoomAssets/RedBluePlatform.RedBluePlatform_C:ExecuteUbergraph_RedBluePlatform
+[2018.12.05-15.00.07:552][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c48003f870, Size=12, Default__RedBluePlatform_Blue_C Function /Game/Rooms/RedBlueRoomAssets/RedBluePlatform_Blue.RedBluePlatform_Blue_C:ExecuteUbergraph_RedBluePlatform_Blue
+[2018.12.05-15.00.07:552][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47e96c1d8, Size=8, Default__RedBluePlatform_Blue_C Function /Game/Rooms/RedBlueRoomAssets/RedBluePlatform.RedBluePlatform_C:ExecuteUbergraph_RedBluePlatform
+[2018.12.05-15.00.07:552][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c48003de50, Size=12, Default__RedBluePlatform_Red_C Function /Game/Rooms/RedBlueRoomAssets/RedBluePlatform_Red.RedBluePlatform_Red_C:ExecuteUbergraph_RedBluePlatform_Red
+[2018.12.05-15.00.07:552][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47e96c0d8, Size=8, Default__RedBluePlatform_Red_C Function /Game/Rooms/RedBlueRoomAssets/RedBluePlatform.RedBluePlatform_C:ExecuteUbergraph_RedBluePlatform
+[2018.12.05-15.00.07:555][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4b2390480, Size=424, Default__RedBlueRoom_C Function /Game/Rooms/RedBlueRoom.RedBlueRoom_C:ExecuteUbergraph_RedBlueRoom
+[2018.12.05-15.00.07:555][863]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c40fb33a00, Size=728, Default__RedBlueRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.00.08:846][863]LogShaderCompilers: Display: Shaders left to compile 228
+[2018.12.05-15.00.11:040][863]LogShaderCompilers: Display: Shaders left to compile 218
+[2018.12.05-15.00.11:557][863]LogShaderCompilers: Display: Shaders left to compile 208
+[2018.12.05-15.00.12:080][863]LogShaderCompilers: Display: Shaders left to compile 198
+[2018.12.05-15.00.12:771][863]LogShaderCompilers: Display: Shaders left to compile 188
+[2018.12.05-15.00.12:787][863]LogShaderCompilers: Display: Shaders left to compile 178
+[2018.12.05-15.00.14:044][872]LogShaderCompilers: Display: Shaders left to compile 168
+[2018.12.05-15.00.14:478][889]LogShaderCompilers: Display: Shaders left to compile 158
+[2018.12.05-15.00.14:964][908]LogShaderCompilers: Display: Shaders left to compile 148
+[2018.12.05-15.00.16:057][951]LogShaderCompilers: Display: Shaders left to compile 138
+[2018.12.05-15.00.16:303][955]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.05-15.00.16:428][955]LogShaderCompilers: Display: Shaders left to compile 128
+[2018.12.05-15.00.16:428][955]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.05-15.00.16:544][955]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.05-15.00.17:402][988]LogSlate: Window 'Pong-room' being destroyed
+[2018.12.05-15.00.17:408][988]LogSlate: Window 'Pong-room' being destroyed
+[2018.12.05-15.00.17:410][988]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.05-15.00.17:487][988]LogShaderCompilers: Display: Shaders left to compile 118
+[2018.12.05-15.00.17:521][988]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.05-15.00.17:626][988]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.05-15.00.17:753][988]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.05-15.00.17:863][988]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.05-15.00.18:257][  5]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.12.05-15.00.18:297][  7]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.12.05-15.00.19:615][ 71]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.12.05-15.00.20:194][ 99]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.12.05-15.00.21:184][153]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.12.05-15.00.21:336][161]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.12.05-15.00.21:727][181]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.05-15.00.22:471][217]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.05-15.00.23:765][279]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.05-15.00.24:092][288]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.00.24:571][314]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.05-15.02.18:265][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47ed58de0, Size=32, Default__BP_BallExplosion_C Function /Game/Rooms/FootBombRoomAssets/BP_BallExplosion.BP_BallExplosion_C:ExecuteUbergraph_BP_BallExplosion
+[2018.12.05-15.02.18:268][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c47ed58de0, Size=32
+[2018.12.05-15.02.18:268][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47ed58de0, Size=32, Default__BP_BallExplosion_C Function /Engine/Transient.REINST_BP_BallExplosion_C_554:ExecuteUbergraph_BP_BallExplosion
+[2018.12.05-15.02.18:269][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47ed59e80, Size=32, Default__BP_BallExplosion_C Function /Game/Rooms/FootBombRoomAssets/BP_BallExplosion.BP_BallExplosion_C:ExecuteUbergraph_BP_BallExplosion
+[2018.12.05-15.02.18:312][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4e50fe200, Size=736, Default__BP_Ball_C Function /Game/Rooms/FootBombRoomAssets/BP_Ball.BP_Ball_C:ExecuteUbergraph_BP_Ball
+[2018.12.05-15.02.18:319][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4e50fe200, Size=736
+[2018.12.05-15.02.18:319][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4e50fe200, Size=736, Default__BP_Ball_C Function /Engine/Transient.REINST_BP_Ball_C_556:ExecuteUbergraph_BP_Ball
+[2018.12.05-15.02.18:324][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c50dd83100, Size=736, Default__BP_Ball_C Function /Game/Rooms/FootBombRoomAssets/BP_Ball.BP_Ball_C:ExecuteUbergraph_BP_Ball
+[2018.12.05-15.02.18:328][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4aa5fab60, Size=80, Default__BP_BallSpawner_C Function /Game/Rooms/FootBombRoomAssets/BP_BallSpawner.BP_BallSpawner_C:ExecuteUbergraph_BP_BallSpawner
+[2018.12.05-15.02.18:330][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4aa5fab60, Size=80
+[2018.12.05-15.02.18:330][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4aa5f9b20, Size=80, Default__BP_BallSpawner_C Function /Engine/Transient.REINST_BP_BallSpawner_C_558:ExecuteUbergraph_BP_BallSpawner
+[2018.12.05-15.02.18:332][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c43ae86de0, Size=80, Default__BP_BallSpawner_C Function /Game/Rooms/FootBombRoomAssets/BP_BallSpawner.BP_BallSpawner_C:ExecuteUbergraph_BP_BallSpawner
+[2018.12.05-15.02.18:340][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c497c085e0, Size=80, Default__FootbombRoom_C Function /Game/Rooms/FootBombRoomAssets/FootbombRoom.FootbombRoom_C:ExecuteUbergraph_FootbombRoom
+[2018.12.05-15.02.18:340][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c50e9a3a00, Size=728, Default__FootbombRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.02.18:342][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4ee43d500, Size=248, Default__BP_Goal_C Function /Game/Rooms/FootBombRoomAssets/BP_Goal.BP_Goal_C:ExecuteUbergraph_BP_Goal
+[2018.12.05-15.02.18:388][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4c16c4f40, Size=64, Default__Tutorial_BombBall_C Function /Game/RoomTutorials/Tutorial_BombBall.Tutorial_BombBall_C:ExecuteUbergraph_Tutorial_BombBall
+[2018.12.05-15.02.18:388][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4e0694360, Size=160, Default__Tutorial_BombBall_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.02.18:400][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4ee43d500, Size=248
+[2018.12.05-15.02.18:400][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4ee43d500, Size=248, Default__BP_Goal_C Function /Engine/Transient.REINST_BP_Goal_C_562:ExecuteUbergraph_BP_Goal
+[2018.12.05-15.02.18:401][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c497c085e0, Size=80
+[2018.12.05-15.02.18:401][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c50e9a3a00, Size=728
+[2018.12.05-15.02.18:401][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47dd5ae80, Size=80, Default__FootbombRoom_C Function /Engine/Transient.REINST_FootbombRoom_C_564:ExecuteUbergraph_FootbombRoom
+[2018.12.05-15.02.18:401][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c435791000, Size=728, Default__FootbombRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.02.18:401][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4c16c4f40, Size=64
+[2018.12.05-15.02.18:401][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4e0694360, Size=160
+[2018.12.05-15.02.18:401][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47ffa7240, Size=64, Default__Tutorial_BombBall_C Function /Engine/Transient.REINST_Tutorial_BombBall_C_78:ExecuteUbergraph_Tutorial_BombBall
+[2018.12.05-15.02.18:401][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c50244ccc0, Size=160, Default__Tutorial_BombBall_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.02.18:411][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4f17ba800, Size=248, Default__BP_Goal_C Function /Game/Rooms/FootBombRoomAssets/BP_Goal.BP_Goal_C:ExecuteUbergraph_BP_Goal
+[2018.12.05-15.02.18:413][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4c20389f0, Size=80, Default__FootbombRoom_C Function /Game/Rooms/FootBombRoomAssets/FootbombRoom.FootbombRoom_C:ExecuteUbergraph_FootbombRoom
+[2018.12.05-15.02.18:413][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c516b25c00, Size=728, Default__FootbombRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.02.18:414][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4802be440, Size=64, Default__Tutorial_BombBall_C Function /Game/RoomTutorials/Tutorial_BombBall.Tutorial_BombBall_C:ExecuteUbergraph_Tutorial_BombBall
+[2018.12.05-15.02.18:414][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4dcdd36a0, Size=160, Default__Tutorial_BombBall_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.02.18:456][  3]LogAudioDerivedData: Display: Building compressed audio format OGG wave ScoredGoal...
+[2018.12.05-15.02.26:730][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c48052cc80, Size=64, Default__TravelatorWalls_C Function /Game/Rooms/RoadRoomAssets/TravelatorWalls.TravelatorWalls_C:ExecuteUbergraph_TravelatorWalls
+[2018.12.05-15.02.26:733][364]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c48052cc80, Size=64
+[2018.12.05-15.02.26:733][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c48052d980, Size=64, Default__TravelatorWalls_C Function /Engine/Transient.REINST_TravelatorWalls_C_569:ExecuteUbergraph_TravelatorWalls
+[2018.12.05-15.02.26:735][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4dd1f5e40, Size=64, Default__TravelatorWalls_C Function /Game/Rooms/RoadRoomAssets/TravelatorWalls.TravelatorWalls_C:ExecuteUbergraph_TravelatorWalls
+[2018.12.05-15.02.26:737][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4a383f9e0, Size=200, Default__DestroyWalls_C Function /Game/Rooms/RoadRoomAssets/DestroyWalls.DestroyWalls_C:ExecuteUbergraph_DestroyWalls
+[2018.12.05-15.02.26:740][364]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4a383f9e0, Size=200
+[2018.12.05-15.02.26:740][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4a383f9e0, Size=200, Default__DestroyWalls_C Function /Engine/Transient.REINST_DestroyWalls_C_571:ExecuteUbergraph_DestroyWalls
+[2018.12.05-15.02.26:741][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4a383ef60, Size=200, Default__DestroyWalls_C Function /Game/Rooms/RoadRoomAssets/DestroyWalls.DestroyWalls_C:ExecuteUbergraph_DestroyWalls
+[2018.12.05-15.02.26:748][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c518474100, Size=832, Default__RoadRoom_C Function /Game/Rooms/RoadRoomAssets/RoadRoom.RoadRoom_C:ExecuteUbergraph_RoadRoom
+[2018.12.05-15.02.26:748][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4b0e51f00, Size=728, Default__RoadRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.02.26:750][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4b0ada200, Size=488, Default__RoadTarget2_C Function /Game/Rooms/RoadRoomAssets/RoadTarget2.RoadTarget2_C:ExecuteUbergraph_RoadTarget2
+[2018.12.05-15.02.26:750][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4b0a8ff60, Size=144, Default__RoadTarget2_C Function /Game/ell/MasterInteratable.MasterInteratable_C:ExecuteUbergraph_MasterInteratable
+[2018.12.05-15.02.26:813][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5129f4d00, Size=752, Default__Travelator_C Function /Game/Rooms/RoadRoomAssets/Travelator.Travelator_C:ExecuteUbergraph_Travelator
+[2018.12.05-15.02.26:868][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4804f7a00, Size=64, Default__Tutorial_Road_C Function /Game/RoomTutorials/Tutorial_Road.Tutorial_Road_C:ExecuteUbergraph_Tutorial_Road
+[2018.12.05-15.02.26:868][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c502c1a3e0, Size=160, Default__Tutorial_Road_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.02.26:885][364]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5129f4d00, Size=752
+[2018.12.05-15.02.26:885][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5175cee00, Size=752, Default__Travelator_C Function /Engine/Transient.REINST_Travelator_C_573:ExecuteUbergraph_Travelator
+[2018.12.05-15.02.26:887][364]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c518474100, Size=832
+[2018.12.05-15.02.26:887][364]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4b0e51f00, Size=728
+[2018.12.05-15.02.26:887][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c50947ab00, Size=832, Default__RoadRoom_C Function /Engine/Transient.REINST_RoadRoom_C_574:ExecuteUbergraph_RoadRoom
+[2018.12.05-15.02.26:887][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5175cdf00, Size=728, Default__RoadRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.02.26:887][364]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4b0ada200, Size=488
+[2018.12.05-15.02.26:887][364]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4b0a8ff60, Size=144
+[2018.12.05-15.02.26:887][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c502f49200, Size=488, Default__RoadTarget2_C Function /Engine/Transient.REINST_RoadTarget2_C_575:ExecuteUbergraph_RoadTarget2
+[2018.12.05-15.02.26:887][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5175c4900, Size=144, Default__RoadTarget2_C Function /Game/ell/MasterInteratable.MasterInteratable_C:ExecuteUbergraph_MasterInteratable
+[2018.12.05-15.02.26:888][364]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4804f7a00, Size=64
+[2018.12.05-15.02.26:888][364]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c502c1a3e0, Size=160
+[2018.12.05-15.02.26:888][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4804f52c0, Size=64, Default__Tutorial_Road_C Function /Engine/Transient.REINST_Tutorial_Road_C_79:ExecuteUbergraph_Tutorial_Road
+[2018.12.05-15.02.26:888][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5175c4220, Size=160, Default__Tutorial_Road_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.02.26:918][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c517416200, Size=752, Default__Travelator_C Function /Game/Rooms/RoadRoomAssets/Travelator.Travelator_C:ExecuteUbergraph_Travelator
+[2018.12.05-15.02.26:922][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c509478480, Size=832, Default__RoadRoom_C Function /Game/Rooms/RoadRoomAssets/RoadRoom.RoadRoom_C:ExecuteUbergraph_RoadRoom
+[2018.12.05-15.02.26:922][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c517415600, Size=728, Default__RoadRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.02.26:925][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4fcff3000, Size=488, Default__RoadTarget2_C Function /Game/Rooms/RoadRoomAssets/RoadTarget2.RoadTarget2_C:ExecuteUbergraph_RoadTarget2
+[2018.12.05-15.02.26:925][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4fcfe5e40, Size=144, Default__RoadTarget2_C Function /Game/ell/MasterInteratable.MasterInteratable_C:ExecuteUbergraph_MasterInteratable
+[2018.12.05-15.02.26:926][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4804b3c00, Size=64, Default__Tutorial_Road_C Function /Game/RoomTutorials/Tutorial_Road.Tutorial_Road_C:ExecuteUbergraph_Tutorial_Road
+[2018.12.05-15.02.26:926][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4fcfe53a0, Size=160, Default__Tutorial_Road_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.02.27:114][364]LogTexture: Display: Building textures: Fairy3 (AutoDXT, 500X500)
+[2018.12.05-15.02.27:115][364]LogTexture: Display: Building textures: Fairy2 (AutoDXT, 500X500)
+[2018.12.05-15.02.27:115][364]LogTexture: Display: Building textures: Fairy1 (AutoDXT, 500X500)
+[2018.12.05-15.02.27:115][364]LogMaterial: Missing cached shader map for material Fairy3_Mat, compiling. 
+[2018.12.05-15.02.27:135][364]LogMaterial: Missing cached shader map for material Fairy2_Mat, compiling. 
+[2018.12.05-15.02.27:148][364]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.05-15.02.27:148][364]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.05-15.02.27:148][364]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.05-15.02.27:148][364]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.02.27:201][364]LogMaterial: Missing cached shader map for material Fairy1_Mat, compiling. 
+[2018.12.05-15.02.28:944][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4f1581a00, Size=472, Default__Snooker_Cue_C Function /Game/Rooms/SnookerRoomAssets121212/Snooker_Cue.Snooker_Cue_C:ExecuteUbergraph_Snooker_Cue
+[2018.12.05-15.02.28:964][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4f1581a00, Size=472
+[2018.12.05-15.02.28:964][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4f7337800, Size=472, Default__Snooker_Cue_C Function /Engine/Transient.REINST_Snooker_Cue_C_580:ExecuteUbergraph_Snooker_Cue
+[2018.12.05-15.02.28:976][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4f7336000, Size=472, Default__Snooker_Cue_C Function /Game/Rooms/SnookerRoomAssets121212/Snooker_Cue.Snooker_Cue_C:ExecuteUbergraph_Snooker_Cue
+[2018.12.05-15.02.28:988][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4f7294f00, Size=1552, Default__SnookerRoom_C Function /Game/Rooms/SnookerRoomAssets121212/SnookerRoom.SnookerRoom_C:ExecuteUbergraph_SnookerRoom
+[2018.12.05-15.02.28:988][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c517fe1300, Size=728, Default__SnookerRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.02.28:991][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4f72b5780, Size=336, Default__Snooker_Manager_C Function /Game/Rooms/SnookerRoomAssets121212/Snooker_Manager.Snooker_Manager_C:ExecuteUbergraph_Snooker_Manager
+[2018.12.05-15.02.29:036][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c50826a400, Size=1392, Default__Snooker_PhysicsBall_C Function /Game/Rooms/SnookerRoomAssets121212/Snooker_PhysicsBall.Snooker_PhysicsBall_C:ExecuteUbergraph_Snooker_PhysicsBall
+[2018.12.05-15.02.29:067][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4f734e980, Size=296, Default__Snooker_PotHole_C Function /Game/Rooms/SnookerRoomAssets121212/Snooker_PotHole.Snooker_PotHole_C:ExecuteUbergraph_Snooker_PotHole
+[2018.12.05-15.02.29:086][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4f7272040, Size=64, Default__Tutorial_Snooker_C Function /Game/RoomTutorials/Tutorial_Snooker.Tutorial_Snooker_C:ExecuteUbergraph_Tutorial_Snooker
+[2018.12.05-15.02.29:086][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c507f3af20, Size=160, Default__Tutorial_Snooker_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.02.29:117][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4f72b5780, Size=336
+[2018.12.05-15.02.29:117][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c507e3b400, Size=336, Default__Snooker_Manager_C Function /Engine/Transient.REINST_Snooker_Manager_C_582:ExecuteUbergraph_Snooker_Manager
+[2018.12.05-15.02.29:120][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c50826a400, Size=1392
+[2018.12.05-15.02.29:120][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c507e1eb00, Size=1392, Default__Snooker_PhysicsBall_C Function /Engine/Transient.REINST_Snooker_PhysicsBall_C_583:ExecuteUbergraph_Snooker_PhysicsBall
+[2018.12.05-15.02.29:121][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4f734e980, Size=296
+[2018.12.05-15.02.29:121][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4f734e980, Size=296, Default__Snooker_PotHole_C Function /Engine/Transient.REINST_Snooker_PotHole_C_584:ExecuteUbergraph_Snooker_PotHole
+[2018.12.05-15.02.29:123][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4f7294f00, Size=1552
+[2018.12.05-15.02.29:123][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c517fe1300, Size=728
+[2018.12.05-15.02.29:123][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c507e1c100, Size=1552, Default__SnookerRoom_C Function /Engine/Transient.REINST_SnookerRoom_C_585:ExecuteUbergraph_SnookerRoom
+[2018.12.05-15.02.29:123][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c507e0fd00, Size=728, Default__SnookerRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.02.29:124][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4f7272040, Size=64
+[2018.12.05-15.02.29:124][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c507f3af20, Size=160
+[2018.12.05-15.02.29:124][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c507e32380, Size=64, Default__Tutorial_Snooker_C Function /Engine/Transient.REINST_Tutorial_Snooker_C_80:ExecuteUbergraph_Tutorial_Snooker
+[2018.12.05-15.02.29:124][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c507e0ba60, Size=160, Default__Tutorial_Snooker_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.02.29:174][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4ee2ece80, Size=336, Default__Snooker_Manager_C Function /Game/Rooms/SnookerRoomAssets121212/Snooker_Manager.Snooker_Manager_C:ExecuteUbergraph_Snooker_Manager
+[2018.12.05-15.02.29:180][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c507daeb00, Size=1392, Default__Snooker_PhysicsBall_C Function /Game/Rooms/SnookerRoomAssets121212/Snooker_PhysicsBall.Snooker_PhysicsBall_C:ExecuteUbergraph_Snooker_PhysicsBall
+[2018.12.05-15.02.29:184][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c507db96c0, Size=296, Default__Snooker_PotHole_C Function /Game/Rooms/SnookerRoomAssets121212/Snooker_PotHole.Snooker_PotHole_C:ExecuteUbergraph_Snooker_PotHole
+[2018.12.05-15.02.29:190][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4ee261d00, Size=1552, Default__SnookerRoom_C Function /Game/Rooms/SnookerRoomAssets121212/SnookerRoom.SnookerRoom_C:ExecuteUbergraph_SnookerRoom
+[2018.12.05-15.02.29:190][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c47f61b700, Size=728, Default__SnookerRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.02.29:193][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4ee258ec0, Size=64, Default__Tutorial_Snooker_C Function /Game/RoomTutorials/Tutorial_Snooker.Tutorial_Snooker_C:ExecuteUbergraph_Tutorial_Snooker
+[2018.12.05-15.02.29:193][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4ee239e40, Size=160, Default__Tutorial_Snooker_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.02.30:756][387]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.12.05-15.02.30:805][389]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.12.05-15.02.30:960][395]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.12.05-15.02.32:227][442]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.12.05-15.02.32:726][460]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.12.05-15.02.33:018][471]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.05-15.02.33:170][476]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.05-15.02.34:843][536]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.05-15.02.34:870][537]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.02.35:288][553]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.05-15.02.44:353][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d1ca6cc0, Size=56, Default__MazeRoom_C Function /Game/Rooms/MazeRoomAssets/MazeRoom.MazeRoom_C:ExecuteUbergraph_MazeRoom
+[2018.12.05-15.02.44:353][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4ecb7cd00, Size=728, Default__MazeRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.02.44:355][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d42e56c0, Size=296, Default__BP_MazeLever1_C Function /Game/Rooms/MazeRoomAssets/BP_MazeLever1.BP_MazeLever1_C:ExecuteUbergraph_BP_MazeLever1
+[2018.12.05-15.02.44:404][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d41db240, Size=296, Default__BP_MazeLever2_C Function /Game/Rooms/MazeRoomAssets/BP_MazeLever2.BP_MazeLever2_C:ExecuteUbergraph_BP_MazeLever2
+[2018.12.05-15.02.44:417][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d41dae80, Size=296, Default__BP_MazeLever3_C Function /Game/Rooms/MazeRoomAssets/BP_MazeLever3.BP_MazeLever3_C:ExecuteUbergraph_BP_MazeLever3
+[2018.12.05-15.02.44:430][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d41daac0, Size=296, Default__BP_MazeLever4_C Function /Game/Rooms/MazeRoomAssets/BP_MazeLever4.BP_MazeLever4_C:ExecuteUbergraph_BP_MazeLever4
+[2018.12.05-15.02.44:443][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d4175d00, Size=224, Default__BP_MazeObjective_C Function /Game/Rooms/MazeRoomAssets/BP_MazeObjective.BP_MazeObjective_C:ExecuteUbergraph_BP_MazeObjective
+[2018.12.05-15.02.44:494][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c481adf9e0, Size=200, Default__BP_ParalyseTrigger_C Function /Game/Rooms/MazeRoomAssets/BP_ParalyseTrigger.BP_ParalyseTrigger_C:ExecuteUbergraph_BP_ParalyseTrigger
+[2018.12.05-15.02.44:511][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d41d87c0, Size=296, Default__BP_ResetLever_C Function /Game/Rooms/MazeRoomAssets/BP_ResetLever.BP_ResetLever_C:ExecuteUbergraph_BP_ResetLever
+[2018.12.05-15.02.44:523][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d3dcacc0, Size=64, Default__Tutorial_Maze_C Function /Game/RoomTutorials/Tutorial_Maze.Tutorial_Maze_C:ExecuteUbergraph_Tutorial_Maze
+[2018.12.05-15.02.44:523][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c481ac7240, Size=160, Default__Tutorial_Maze_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.02.44:571][830]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5d42e56c0, Size=296
+[2018.12.05-15.02.44:572][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d3c2bd80, Size=296, Default__BP_MazeLever1_C Function /Engine/Transient.REINST_BP_MazeLever1_C_591:ExecuteUbergraph_BP_MazeLever1
+[2018.12.05-15.02.44:574][830]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5d41db240, Size=296
+[2018.12.05-15.02.44:574][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d3c2bc40, Size=296, Default__BP_MazeLever2_C Function /Engine/Transient.REINST_BP_MazeLever2_C_592:ExecuteUbergraph_BP_MazeLever2
+[2018.12.05-15.02.44:575][830]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5d41dae80, Size=296
+[2018.12.05-15.02.44:575][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d3c2bb00, Size=296, Default__BP_MazeLever3_C Function /Engine/Transient.REINST_BP_MazeLever3_C_593:ExecuteUbergraph_BP_MazeLever3
+[2018.12.05-15.02.44:575][830]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5d41daac0, Size=296
+[2018.12.05-15.02.44:575][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d3c2b9c0, Size=296, Default__BP_MazeLever4_C Function /Engine/Transient.REINST_BP_MazeLever4_C_594:ExecuteUbergraph_BP_MazeLever4
+[2018.12.05-15.02.44:576][830]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5d4175d00, Size=224
+[2018.12.05-15.02.44:576][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d3b4b900, Size=224, Default__BP_MazeObjective_C Function /Engine/Transient.REINST_BP_MazeObjective_C_595:ExecuteUbergraph_BP_MazeObjective
+[2018.12.05-15.02.44:577][830]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c481adf9e0, Size=200
+[2018.12.05-15.02.44:577][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d3b4b4a0, Size=200, Default__BP_ParalyseTrigger_C Function /Engine/Transient.REINST_BP_ParalyseTrigger_C_596:ExecuteUbergraph_BP_ParalyseTrigger
+[2018.12.05-15.02.44:577][830]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5d41d87c0, Size=296
+[2018.12.05-15.02.44:577][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d3c2b880, Size=296, Default__BP_ResetLever_C Function /Engine/Transient.REINST_BP_ResetLever_C_597:ExecuteUbergraph_BP_ResetLever
+[2018.12.05-15.02.44:587][830]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5d1ca6cc0, Size=56
+[2018.12.05-15.02.44:587][830]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4ecb7cd00, Size=728
+[2018.12.05-15.02.44:587][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d3c32fd0, Size=56, Default__MazeRoom_C Function /Engine/Transient.REINST_MazeRoom_C_598:ExecuteUbergraph_MazeRoom
+[2018.12.05-15.02.44:587][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d3b46200, Size=728, Default__MazeRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.02.44:588][830]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5d3dcacc0, Size=64
+[2018.12.05-15.02.44:588][830]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c481ac7240, Size=160
+[2018.12.05-15.02.44:588][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d3b2a140, Size=64, Default__Tutorial_Maze_C Function /Engine/Transient.REINST_Tutorial_Maze_C_81:ExecuteUbergraph_Tutorial_Maze
+[2018.12.05-15.02.44:588][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d3b21800, Size=160, Default__Tutorial_Maze_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.02.44:663][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d3c29f80, Size=296, Default__BP_MazeLever1_C Function /Game/Rooms/MazeRoomAssets/BP_MazeLever1.BP_MazeLever1_C:ExecuteUbergraph_BP_MazeLever1
+[2018.12.05-15.02.44:665][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d3c29d00, Size=296, Default__BP_MazeLever2_C Function /Game/Rooms/MazeRoomAssets/BP_MazeLever2.BP_MazeLever2_C:ExecuteUbergraph_BP_MazeLever2
+[2018.12.05-15.02.44:666][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d3c29a80, Size=296, Default__BP_MazeLever3_C Function /Game/Rooms/MazeRoomAssets/BP_MazeLever3.BP_MazeLever3_C:ExecuteUbergraph_BP_MazeLever3
+[2018.12.05-15.02.44:667][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d3c29800, Size=296, Default__BP_MazeLever4_C Function /Game/Rooms/MazeRoomAssets/BP_MazeLever4.BP_MazeLever4_C:ExecuteUbergraph_BP_MazeLever4
+[2018.12.05-15.02.44:667][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c428dcdfa0, Size=224, Default__BP_MazeObjective_C Function /Game/Rooms/MazeRoomAssets/BP_MazeObjective.BP_MazeObjective_C:ExecuteUbergraph_BP_MazeObjective
+[2018.12.05-15.02.44:668][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c428dcdec0, Size=200, Default__BP_ParalyseTrigger_C Function /Game/Rooms/MazeRoomAssets/BP_ParalyseTrigger.BP_ParalyseTrigger_C:ExecuteUbergraph_BP_ParalyseTrigger
+[2018.12.05-15.02.44:669][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d3c29080, Size=296, Default__BP_ResetLever_C Function /Game/Rooms/MazeRoomAssets/BP_ResetLever.BP_ResetLever_C:ExecuteUbergraph_BP_ResetLever
+[2018.12.05-15.02.44:677][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c428c52400, Size=56, Default__MazeRoom_C Function /Game/Rooms/MazeRoomAssets/MazeRoom.MazeRoom_C:ExecuteUbergraph_MazeRoom
+[2018.12.05-15.02.44:677][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c428d05f00, Size=728, Default__MazeRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.02.44:681][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c428c41400, Size=64, Default__Tutorial_Maze_C Function /Game/RoomTutorials/Tutorial_Maze.Tutorial_Maze_C:ExecuteUbergraph_Tutorial_Maze
+[2018.12.05-15.02.44:681][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c428c26d40, Size=160, Default__Tutorial_Maze_C Function /Game/RoomTutorials/RoomTutorialMaster.RoomTutorialMaster_C:ExecuteUbergraph_RoomTutorialMaster
+[2018.12.05-15.02.44:716][830]LogAudioDerivedData: Display: Building compressed audio format OGG wave ButtonPress2...
+[2018.12.05-15.02.49:657][965]LogSlate: Window 'Class Viewer' being destroyed
+[2018.12.05-15.02.49:663][965]LogSlate: Window 'Class Viewer' being destroyed
+[2018.12.05-15.03.28:354][237]BlueprintLog: New page: Compile TopDownGameMode
+[2018.12.05-15.03.28:423][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4b24d44a0, Size=160
+[2018.12.05-15.03.28:424][237]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5a6064d60, Size=160, Default__TopDownGameMode_C Function /Engine/Transient.REINST_TopDownGameMode_C_672:ExecuteUbergraph_TopDownGameMode
+[2018.12.05-15.03.28:427][237]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4166b9b20, Size=160, Default__TopDownGameMode_C Function /Game/TopDownGameMode.TopDownGameMode_C:ExecuteUbergraph_TopDownGameMode
+[2018.12.05-15.03.28:880][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c485220b40, Size=64
+[2018.12.05-15.03.28:880][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4b295cae0, Size=160
+[2018.12.05-15.03.28:880][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c47f2ee020, Size=96
+[2018.12.05-15.03.28:880][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4921d89a0, Size=144
+[2018.12.05-15.03.28:880][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c476362880, Size=120
+[2018.12.05-15.03.28:880][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4828bce00, Size=608
+[2018.12.05-15.03.28:880][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4a20ceb00, Size=728
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4b27a0900, Size=64
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4a826dda0, Size=160
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4b59300e0, Size=160
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4b59313a0, Size=144
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c40ff10700, Size=688
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c40ff10d00, Size=728
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4b6ded900, Size=704
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4b6dee200, Size=728
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c492ee1300, Size=544
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c489503b00, Size=288
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4a42d9580, Size=144
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c482b330b0, Size=112
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4800ff5c0, Size=64
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4c44ceca0, Size=160
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c495927200, Size=800
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c48b8d4400, Size=728
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4a4812940, Size=208
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c41591a800, Size=480
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c48039dc10, Size=4
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c47feaeac0, Size=64
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4ad186020, Size=160
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c43dccb400, Size=360
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4c277ab00, Size=728
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c47dd6d300, Size=360
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c48950f200, Size=64
+[2018.12.05-15.03.28:881][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4aabfb1a0, Size=160
+[2018.12.05-15.03.28:882][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c48487c400, Size=96
+[2018.12.05-15.03.28:882][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4952da200, Size=728
+[2018.12.05-15.03.28:882][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4e5931d00, Size=448
+[2018.12.05-15.03.28:882][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4dc928800, Size=960
+[2018.12.05-15.03.28:882][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4952dae00, Size=712
+[2018.12.05-15.03.28:882][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4d721ec00, Size=64
+[2018.12.05-15.03.28:882][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4952d4540, Size=160
+[2018.12.05-15.03.28:882][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4b2a64800, Size=488
+[2018.12.05-15.03.28:882][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4aac13700, Size=728
+[2018.12.05-15.03.28:882][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4ace10100, Size=240
+[2018.12.05-15.03.28:882][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c47e96ce78, Size=8
+[2018.12.05-15.03.28:882][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4aa8984c0, Size=12
+[2018.12.05-15.03.28:882][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c47e96d208, Size=8
+[2018.12.05-15.03.28:882][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4aa898bb0, Size=12
+[2018.12.05-15.03.28:882][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c47e96d028, Size=8
+[2018.12.05-15.03.28:882][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4aac1b100, Size=368
+[2018.12.05-15.03.28:894][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c47ed58de0, Size=32
+[2018.12.05-15.03.28:894][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4e50fe200, Size=736
+[2018.12.05-15.03.28:894][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4aa5f9b20, Size=80
+[2018.12.05-15.03.28:894][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c47dd5ae80, Size=80
+[2018.12.05-15.03.28:894][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c435791000, Size=728
+[2018.12.05-15.03.28:894][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4ee43d500, Size=248
+[2018.12.05-15.03.28:894][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c47ffa7240, Size=64
+[2018.12.05-15.03.28:894][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c50244ccc0, Size=160
+[2018.12.05-15.03.28:894][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c48052d980, Size=64
+[2018.12.05-15.03.28:894][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4a383f9e0, Size=200
+[2018.12.05-15.03.28:894][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c50947ab00, Size=832
+[2018.12.05-15.03.28:894][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5175cdf00, Size=728
+[2018.12.05-15.03.28:894][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c502f49200, Size=488
+[2018.12.05-15.03.28:894][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5175c4900, Size=144
+[2018.12.05-15.03.28:894][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5175cee00, Size=752
+[2018.12.05-15.03.28:894][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4804f52c0, Size=64
+[2018.12.05-15.03.28:894][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5175c4220, Size=160
+[2018.12.05-15.03.28:894][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4f7337800, Size=472
+[2018.12.05-15.03.28:894][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c507e1c100, Size=1552
+[2018.12.05-15.03.28:895][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c507e0fd00, Size=728
+[2018.12.05-15.03.28:895][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c507e3b400, Size=336
+[2018.12.05-15.03.28:895][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c507e1eb00, Size=1392
+[2018.12.05-15.03.28:895][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4f734e980, Size=296
+[2018.12.05-15.03.28:895][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c507e32380, Size=64
+[2018.12.05-15.03.28:895][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c507e0ba60, Size=160
+[2018.12.05-15.03.28:895][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5d3c32fd0, Size=56
+[2018.12.05-15.03.28:895][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5d3b46200, Size=728
+[2018.12.05-15.03.28:895][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5d3c2bd80, Size=296
+[2018.12.05-15.03.28:895][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5d3c2bc40, Size=296
+[2018.12.05-15.03.28:895][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5d3c2bb00, Size=296
+[2018.12.05-15.03.28:895][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5d3c2b9c0, Size=296
+[2018.12.05-15.03.28:895][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5d3b4b900, Size=224
+[2018.12.05-15.03.28:895][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5d3b4b4a0, Size=200
+[2018.12.05-15.03.28:895][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5d3c2b880, Size=296
+[2018.12.05-15.03.28:895][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5d3b2a140, Size=64
+[2018.12.05-15.03.28:895][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5d3b21800, Size=160
+[2018.12.05-15.03.29:641][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownGameMode" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset" SILENT=true
+[2018.12.05-15.03.29:949][247]LogSavePackage: Save=53.90ms
+[2018.12.05-15.03.29:949][247]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownGameMode6EBE4A934EDFD8765EC7CEA85D7D6E08.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset'
+[2018.12.05-15.03.29:967][247]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownGameMode.uasset
+[2018.12.05-15.03.32:061][345]LogSavePackage: Save=184.74ms
+[2018.12.05-15.03.32:061][345]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownExampleMapF8C194F64B3B4467EEC8BE9599F2213A.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.12.05-15.03.32:078][345]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.12.05-15.03.34:283][466]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.05-15.03.34:354][466]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.03.34:354][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-15.03.34:355][466]PIE: New page: PIE session: TopDownExampleMap (5 Dec 2018 15:03:34)
+[2018.12.05-15.03.34:355][466]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.12.05-15.03.34:358][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003754s)
+[2018.12.05-15.03.34:359][466]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.12.05-15.03.34:359][466]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2018.12.05-15.03.34:359][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.004652s)
+[2018.12.05-15.03.34:391][466]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5a6064d60, Size=160
+[2018.12.05-15.03.34:428][466]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.05-15.03.34:471][466]LogInit: FAudioDevice initialized.
+[2018.12.05-15.03.34:506][466]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.05-15.03.34:511][466]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.12.05-15.03.34
+[2018.12.05-15.03.34:512][466]LogWorld: Bringing up level for play took: 0.003759
+[2018.12.05-15.03.34:519][466]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.07
+[2018.12.05-15.03.34:519][466]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.03.35:783][544]Cmd: LevelEditor.ToggleImmersive
+[2018.12.05-15.03.36:010][548]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.05-15.03.37:946][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.04.47:243][ 31]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.04.47:310][ 31]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.04.48:000][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.05-15.04.50:823][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.05.04:384][887]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.05.04:898][887]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.05.04:907][887]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.05.04:933][887]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.05.04:933][887]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.05.04:933][887]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.05.04:933][887]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.05.04:946][887]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.12.05-15.05.05:656][909]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.05.05:782][909]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.05.05:804][909]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.05.05:850][909]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.12.05-15.05.06:674][946]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.05-15.05.06:735][949]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.05-15.05.06:735][949]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.05-15.05.06:751][950]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.05-15.05.06:931][959]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.05-15.05.07:017][963]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.05-15.05.07:017][963]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.05-15.05.07:318][978]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.05-15.05.07:334][979]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.05-15.05.07:485][987]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.05-15.05.07:521][989]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.05.07:628][995]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.05.07:800][  4]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.05.07:887][  9]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.05.07:903][ 10]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.05.07:938][ 12]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.05.07:961][ 13]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.12.05-15.05.07:961][ 13]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.12.05-15.05.07:961][ 13]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.12.05-15.05.07:961][ 13]MaterialEditorStats: Texture samplers: 2/16
+[2018.12.05-15.05.08:132][ 22]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.05.08:171][ 24]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.05.08:189][ 25]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.05.08:226][ 27]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.05.08:381][ 35]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.05.08:397][ 36]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.05-15.05.08:422][ 37]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.05-15.05.08:440][ 38]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.05-15.05.08:610][ 47]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.05-15.05.08:704][ 52]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.05-15.05.08:818][ 58]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.05-15.05.08:839][ 59]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.05-15.05.09:049][ 70]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.05-15.05.09:049][ 70]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.05-15.05.09:133][ 75]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.05-15.05.09:228][ 80]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.05-15.05.09:415][ 89]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.12.05-15.05.09:415][ 89]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.12.05-15.05.09:415][ 89]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.12.05-15.05.09:415][ 89]MaterialEditorStats: Texture samplers: 2/16
+[2018.12.05-15.05.14:614][516]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.05.14:647][516]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.05.14:647][516]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.05.14:647][516]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.05.14:647][516]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.05.14:949][530]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.05.14:968][531]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.05-15.05.14:983][532]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.05-15.05.14:983][532]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.05-15.05.15:218][545]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.05-15.05.15:218][545]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.05-15.05.15:218][545]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.05-15.05.15:470][558]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.05-15.05.15:490][559]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.05-15.05.15:635][567]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.05-15.05.15:693][570]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.05-15.05.15:718][571]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.05.15:749][571]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.05.15:759][571]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.05.15:762][571]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.05.15:924][578]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.05.15:944][579]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.05.16:000][582]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.05.16:059][585]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.05.16:100][587]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.05.16:125][588]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.05.16:226][594]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.05.16:345][600]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.05.16:381][600]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.05.16:581][610]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.05.16:602][611]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.05.16:617][612]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.05.16:751][619]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.05.16:807][622]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.05.16:832][623]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.05.16:883][625]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.05.16:908][625]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.05.16:924][625]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.05.16:943][625]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.05.17:100][632]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.05.17:115][633]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.05.17:177][636]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.05.17:271][641]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.05.17:329][644]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.05.17:382][647]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.05.17:453][651]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.05.17:625][659]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.05.17:742][665]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.05.17:895][673]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.05.18:055][681]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.05-15.05.18:101][683]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.05-15.05.18:142][685]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.05-15.05.18:356][696]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.05-15.05.18:453][701]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.05-15.05.18:497][703]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.05.18:541][703]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.05.18:566][704]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.05.18:736][712]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.05.18:933][722]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.05.19:008][726]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.05.19:024][727]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.05.19:308][742]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.05.19:321][742]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.05.19:335][742]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.05.19:348][742]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.05.19:421][745]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.05.19:513][749]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.05.19:513][749]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.05.19:540][750]MaterialEditorStats: Base pass shader: 64 instructions
+[2018.12.05-15.05.19:540][750]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 85 instructions
+[2018.12.05-15.05.19:540][750]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.12.05-15.05.19:540][750]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.05-15.05.19:558][751]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.05.19:595][753]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.05.19:707][759]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.05.19:726][760]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.05.19:940][771]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.05.19:998][774]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.05.20:014][775]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.05.20:339][790]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.05-15.05.20:401][793]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.05-15.05.20:428][794]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.05-15.05.20:669][804]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.05-15.05.20:722][806]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.05-15.05.20:814][811]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.05-15.05.20:848][813]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.05-15.05.21:018][821]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.05-15.05.21:217][830]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.05-15.05.21:256][832]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.05-15.05.21:308][835]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.05-15.05.21:704][857]MaterialEditorStats: Base pass shader: 64 instructions
+[2018.12.05-15.05.21:704][857]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 85 instructions
+[2018.12.05-15.05.21:704][857]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.12.05-15.05.21:704][857]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.05-15.05.31:629][652]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.05.31:639][652]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.05.31:639][652]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.05.31:639][652]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.05.31:639][652]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.05.31:639][652]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_0, compiling. 
+[2018.12.05-15.05.31:922][666]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.05.31:941][667]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.05.31:959][668]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.05.31:959][668]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.05.32:268][684]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.05.32:324][687]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.05.32:360][689]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.05.32:643][704]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.05-15.05.32:659][705]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.05-15.05.32:744][710]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.05-15.05.33:028][726]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.05-15.05.33:045][727]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.05-15.05.33:126][732]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.05-15.05.33:162][734]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.05-15.05.33:345][744]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.05-15.05.33:529][753]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.05-15.05.33:580][756]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.05-15.05.33:681][762]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.05-15.05.34:073][785]MaterialEditorStats: Base pass shader: 64 instructions
+[2018.12.05-15.05.34:073][785]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 85 instructions
+[2018.12.05-15.05.34:073][785]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.12.05-15.05.34:073][785]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.05-15.05.36:731][992]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.05.36:747][992]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.05.36:747][992]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.05.36:747][992]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.05.36:747][992]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.05.36:747][992]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_0, compiling. 
+[2018.12.05-15.05.36:774][992]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.05.37:049][  4]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.05.37:069][  5]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.05.37:092][  6]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.05.37:092][  6]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.05.37:239][ 13]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.05.37:278][ 15]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.05.37:298][ 16]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.05.37:337][ 18]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.05.37:655][ 32]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.05.37:698][ 34]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.05.37:716][ 35]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.05.38:053][ 51]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.05-15.05.38:071][ 52]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.05-15.05.38:177][ 57]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.05-15.05.38:470][ 71]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.05.38:498][ 71]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_0, compiling. 
+[2018.12.05-15.05.38:534][ 71]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.05.38:576][ 72]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.05-15.05.38:601][ 73]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.05-15.05.38:748][ 79]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.05.38:768][ 80]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.05.38:917][ 85]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.05.38:992][ 88]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.05.39:015][ 89]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.05.39:015][ 89]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.05.39:190][ 97]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.05.39:303][102]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.05.39:442][109]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.05.39:482][111]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.05.39:690][122]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.05.39:854][131]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.05-15.05.39:894][133]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.05-15.05.39:933][135]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.05-15.05.40:151][145]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.05-15.05.40:246][150]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.05-15.05.40:312][153]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.05-15.05.40:397][157]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.05-15.05.40:510][162]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.05-15.05.40:720][172]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.05-15.05.40:796][176]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.05-15.05.40:831][178]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.05-15.05.41:270][202]MaterialEditorStats: Base pass shader: 64 instructions
+[2018.12.05-15.05.41:270][202]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 85 instructions
+[2018.12.05-15.05.41:270][202]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.12.05-15.05.41:270][202]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.05-15.05.42:222][277]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.05.42:232][277]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_0, compiling. 
+[2018.12.05-15.05.42:259][278]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.05-15.05.42:259][278]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.05-15.05.42:259][278]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.05.42:259][278]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.05.42:491][290]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.05.42:507][291]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.05.42:541][293]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.05.42:541][293]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.05.42:827][307]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.05.42:896][310]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.05.42:933][312]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.05.43:211][326]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.05.43:225][327]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.05.43:300][331]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.05-15.05.43:552][344]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.05-15.05.43:631][348]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.05-15.05.43:670][350]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.05-15.05.43:782][356]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.05-15.05.43:961][365]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.05-15.05.44:097][372]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.05-15.05.44:205][378]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.05-15.05.44:356][386]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.05-15.05.44:375][387]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.05-15.05.44:610][399]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.05-15.05.44:795][409]MaterialEditorStats: Base pass shader: 64 instructions
+[2018.12.05-15.05.44:795][409]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 85 instructions
+[2018.12.05-15.05.44:795][409]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.12.05-15.05.44:795][409]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.05-15.05.53:603][143]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.05.53:616][143]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.05.53:616][143]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.05.53:616][143]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.05.53:616][143]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.05.53:644][143]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_0, compiling. 
+[2018.12.05-15.05.53:653][143]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.05.53:694][143]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_0, compiling. 
+[2018.12.05-15.05.53:900][153]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.05-15.05.53:916][154]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.05-15.05.53:936][155]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.05.53:955][156]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.05.54:085][162]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.05.54:100][163]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.05.54:135][165]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.05.54:156][166]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.05.54:472][183]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.05.54:494][184]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.05.54:531][186]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.05.54:833][202]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.05.55:029][212]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.05.55:045][213]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.05-15.05.55:119][217]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.05-15.05.55:169][219]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.05.55:192][219]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.05.55:283][223]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.05-15.05.55:388][229]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.05-15.05.55:404][230]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.05.55:612][241]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.05.55:620][241]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.05.55:651][242]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.05.55:651][242]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.05.55:831][252]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.05.55:892][255]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.05.55:892][255]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.05.55:910][256]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.05.56:044][263]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.05.56:099][266]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.05.56:317][277]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.05.56:333][278]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.05.56:406][282]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.05.56:668][294]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.05-15.05.56:742][298]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.05-15.05.56:790][298]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.05-15.05.56:982][305]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.05-15.05.57:092][311]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.05-15.05.57:092][311]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.05-15.05.57:165][315]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.05-15.05.57:370][326]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.05-15.05.57:556][336]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.05-15.05.57:592][338]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.05-15.05.57:758][347]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.05-15.05.57:896][353]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.05.57:906][353]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.05.57:908][353]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.05.57:958][354]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.05.57:985][355]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.05.58:084][360]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.05.58:123][362]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.05.58:168][364]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.05.58:189][365]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.05.58:305][371]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.05.58:321][372]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.05.58:544][383]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.05.58:583][385]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.05.58:640][388]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.05.59:012][407]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.05-15.05.59:046][409]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.05-15.05.59:085][411]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.05-15.05.59:312][421]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.05-15.05.59:332][422]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.05-15.05.59:428][427]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.05-15.05.59:500][430]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.05-15.05.59:617][436]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.05-15.05.59:735][442]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.05.59:748][442]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.05.59:826][445]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.05.59:954][452]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.05.59:959][452]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.06.00:009][454]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.06.00:138][461]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.06.00:138][461]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.06.00:191][464]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.06.00:289][469]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.06.00:317][470]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.06.00:344][471]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.06.00:382][472]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.06.00:403][473]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.06.00:564][481]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.06.00:601][483]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.06.00:713][489]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.06.00:730][490]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.06.00:770][492]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.06.00:825][495]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.06.01:063][508]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.06.01:114][511]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.06.01:131][512]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.06.01:392][526]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.05-15.06.01:581][536]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.05-15.06.01:600][537]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.05-15.06.01:670][541]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.05-15.06.01:840][548]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.05-15.06.01:921][552]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.05-15.06.02:001][556]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.05-15.06.02:125][562]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.05-15.06.02:321][571]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.05-15.06.02:358][573]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.05-15.06.02:416][576]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.05-15.06.02:421][576]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.06.02:619][584]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.06.02:790][592]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.06.02:807][593]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.06.02:807][593]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.06.02:943][600]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.06.02:985][602]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.06.03:030][604]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.06.03:046][605]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.06.03:314][618]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.06.03:333][619]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.06.03:388][622]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.06.03:699][637]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.05-15.06.03:715][638]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.05-15.06.03:729][639]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.05-15.06.04:016][654]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.05-15.06.04:055][656]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.05-15.06.04:094][658]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.05-15.06.04:110][659]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.05-15.06.04:416][674]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.05-15.06.04:563][682]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.05-15.06.04:608][684]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.05-15.06.04:799][694]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.05-15.06.05:175][715]MaterialEditorStats: Base pass shader: 68 instructions
+[2018.12.05-15.06.05:175][715]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 89 instructions
+[2018.12.05-15.06.05:175][715]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.12.05-15.06.05:175][715]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.05-15.06.06:258][796]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.TEMP_RED:MaterialGraph_1.MaterialGraphNode_2 or MaterialGraphNode /Engine/Transient.TEMP_BLUE:MaterialGraph_0.MaterialGraphNode_2
+[2018.12.05-15.06.06:258][796]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionCollectionParameter'"MaterialGraphNode_2.MaterialExpressionCollectionParameter_0"')'
+[2018.12.05-15.06.06:259][796]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.TEMP_BLUE:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.TEMP_RED:MaterialGraph_1.MaterialGraphNode_3
+[2018.12.05-15.06.06:259][796]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_3.MaterialExpressionMultiply_0"')'
+[2018.12.05-15.06.06:266][796]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.06.06:291][796]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.06.06:291][796]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.06.06:291][796]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.06.06:291][796]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.06.06:304][796]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_0, compiling. 
+[2018.12.05-15.06.06:307][796]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_1, compiling. 
+[2018.12.05-15.06.06:541][808]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.06.06:557][809]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.06.06:592][811]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.06.06:592][811]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.06.06:942][829]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.06.07:036][834]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.06.07:089][837]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.06.07:142][838]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.06.07:186][838]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_1, compiling. 
+[2018.12.05-15.06.07:283][840]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.05-15.06.07:329][842]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.05-15.06.07:430][846]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.05-15.06.07:574][853]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.05-15.06.07:592][854]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.06.07:610][855]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.06.07:707][860]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.06.07:728][861]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.06.07:814][865]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.06.07:835][866]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.06.08:053][876]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.06.08:130][880]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.06.08:154][880]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.06.08:503][892]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.06.08:544][894]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.06.08:607][897]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.05-15.06.08:813][906]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.05-15.06.08:813][906]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.05-15.06.08:907][911]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.05-15.06.08:983][915]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.05-15.06.09:094][921]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.05-15.06.09:305][930]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.05-15.06.09:376][934]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.05-15.06.09:426][937]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.05-15.06.09:604][945]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.06.09:623][945]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.06.09:669][945]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_1, compiling. 
+[2018.12.05-15.06.09:712][946]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.05-15.06.09:732][947]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.05-15.06.09:826][952]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.06.09:863][954]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.06.09:904][956]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.06.09:904][956]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.06.10:059][964]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.06.10:079][965]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.06.10:257][974]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.06.10:297][976]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.06.10:369][980]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.06.10:654][995]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.06.10:676][996]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.06.10:744][  0]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.05-15.06.11:042][ 15]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.05-15.06.11:060][ 16]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.05-15.06.11:152][ 21]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.05-15.06.11:169][ 22]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.05-15.06.11:362][ 32]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.05-15.06.11:557][ 42]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.05-15.06.11:594][ 44]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.05-15.06.11:728][ 49]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.05-15.06.11:860][ 55]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.05-15.06.11:991][ 61]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.05-15.06.12:223][ 71]MaterialEditorStats: Base pass shader: 64 instructions
+[2018.12.05-15.06.12:223][ 71]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 85 instructions
+[2018.12.05-15.06.12:223][ 71]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.12.05-15.06.12:223][ 71]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.05-15.06.12:515][ 90]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.06.12:538][ 91]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.06.12:538][ 91]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.06.12:538][ 91]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.06.12:538][ 91]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.06.12:719][100]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.06.12:720][100]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.06.12:778][103]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.06.12:794][104]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.06.13:084][119]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.06.13:119][121]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.06.13:155][123]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.06.13:447][138]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.05-15.06.13:447][138]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.05-15.06.13:520][142]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.05-15.06.13:822][154]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.05-15.06.13:840][155]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.05-15.06.13:959][161]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.05-15.06.13:979][162]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.05-15.06.14:131][169]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.05-15.06.14:361][180]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.05-15.06.14:399][182]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.05-15.06.14:512][187]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.05-15.06.14:910][205]MaterialEditorStats: Base pass shader: 64 instructions
+[2018.12.05-15.06.14:910][205]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 85 instructions
+[2018.12.05-15.06.14:910][205]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.12.05-15.06.14:910][205]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.05-15.06.21:065][699]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.06.21:087][700]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.06.21:087][700]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.06.21:087][700]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.06.21:087][700]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.06.21:330][713]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.06.21:351][714]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.06.21:351][714]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.06.21:390][716]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.06.21:657][728]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.06.21:745][733]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.06.21:796][736]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.06.22:016][748]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.06.22:037][748]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.12.05-15.06.22:063][748]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.05-15.06.22:198][755]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.05-15.06.22:219][756]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.06.22:252][758]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.06.22:361][763]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.06.22:421][766]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.06.22:485][769]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.06.22:485][769]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.06.22:743][782]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.06.22:801][783]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.06.22:801][783]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.06.23:121][799]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.06.23:155][801]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.06.23:189][803]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.05-15.06.23:465][817]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.05-15.06.23:510][819]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.05-15.06.23:639][823]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.05-15.06.23:639][823]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.05-15.06.23:805][832]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.05-15.06.24:067][846]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.05-15.06.24:084][847]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.05-15.06.24:132][849]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.05-15.06.24:132][849]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.06.24:156][849]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.12.05-15.06.24:188][849]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_0, compiling. 
+[2018.12.05-15.06.24:330][855]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.05-15.06.24:456][861]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.05-15.06.24:471][862]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.05-15.06.24:569][865]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.05-15.06.24:602][866]MaterialEditorStats: Base pass shader: 69 instructions
+[2018.12.05-15.06.24:602][866]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 90 instructions
+[2018.12.05-15.06.24:602][866]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.12.05-15.06.24:602][866]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.05-15.06.24:649][868]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.05-15.06.24:731][872]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.05-15.06.24:754][873]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.06.24:820][876]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.06.24:859][878]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.06.24:933][882]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.06.25:133][890]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.06.25:199][892]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.06.25:226][893]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.06.25:438][899]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.06.25:508][901]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.06.25:605][904]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.06.25:705][907]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.06.25:823][911]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.05-15.06.25:857][912]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.05-15.06.26:108][919]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.05-15.06.26:137][920]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.05-15.06.26:280][924]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.05-15.06.26:371][925]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.05-15.06.26:541][930]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.05-15.06.26:575][931]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.05-15.06.26:741][936]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.05-15.06.26:804][938]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.05-15.06.26:866][940]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.05-15.06.26:962][943]MaterialEditorStats: Base pass shader: 68 instructions
+[2018.12.05-15.06.26:962][943]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 89 instructions
+[2018.12.05-15.06.26:962][943]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.12.05-15.06.26:962][943]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.05-15.06.27:762][978]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.05-15.06.27:818][978]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.06.27:818][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-15.06.27:818][978]PIE: New page: PIE session: TopDownExampleMap (5 Dec 2018 15:06:27)
+[2018.12.05-15.06.27:818][978]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.12.05-15.06.27:822][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003712s)
+[2018.12.05-15.06.27:823][978]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.12.05-15.06.27:823][978]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2018.12.05-15.06.27:823][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.004503s)
+[2018.12.05-15.06.27:890][978]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.05-15.06.27:927][978]LogInit: FAudioDevice initialized.
+[2018.12.05-15.06.27:962][978]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.05-15.06.27:964][978]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.12.05-15.06.27
+[2018.12.05-15.06.27:964][978]LogWorld: Bringing up level for play took: 0.001631
+[2018.12.05-15.06.27:968][978]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.619
+[2018.12.05-15.06.27:968][978]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.06.31:404][105]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.06.31:442][105]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.06.32:401][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.06.37:331][420]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.06.37:370][420]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.06.37:370][420]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.06.37:370][420]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.06.37:370][420]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.06.37:600][431]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.06.37:616][432]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.06.37:634][433]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.06.37:648][434]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.06.37:947][449]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.06.38:028][453]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.06.38:050][454]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.06.38:303][465]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.05-15.06.38:461][473]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.05-15.06.38:502][475]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.05-15.06.38:584][478]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.05-15.06.38:726][485]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.05-15.06.38:807][489]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.05-15.06.38:871][492]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.05-15.06.38:956][496]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.06.39:020][496]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.06.39:183][503]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.06.39:198][504]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.06.39:261][507]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.06.39:319][510]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.06.39:379][513]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.06.39:440][516]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.06.39:568][522]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.06.39:787][532]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.06.39:787][532]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.06.39:844][535]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.06.39:868][536]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.06.40:127][546]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.06.40:144][547]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.06.40:187][549]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.06.40:295][553]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.06.40:318][554]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.06.40:335][554]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.05-15.06.40:337][554]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.06.40:347][554]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.06.40:416][555]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.05-15.06.40:516][560]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.05-15.06.40:516][560]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.05-15.06.40:537][561]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.05-15.06.40:576][563]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.05-15.06.40:699][569]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.05-15.06.40:736][571]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.05-15.06.40:773][573]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.05-15.06.41:313][602]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.12.05-15.06.41:313][602]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.12.05-15.06.41:313][602]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.05-15.06.41:993][653]LogMaterialEditor: Applying material TEMP_RED
+[2018.12.05-15.06.45:767][653]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.06.45:829][653]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.05-15.06.45:829][653]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.05-15.06.45:829][653]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.05-15.06.45:829][653]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.05-15.06.45:877][653]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.06.45:907][653]LogMaterial: Missing cached shader map for material TEMP_RED, compiling. 
+[2018.12.05-15.06.45:975][653]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy TEMP_RED, compiling. 
+[2018.12.05-15.06.46:606][653]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.06.46:606][653]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.06.46:606][653]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.06.46:606][653]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.06.46:606][653]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.06.46:606][653]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.05-15.06.46:606][653]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.05-15.06.46:608][653]TextureStreamingBuild: Display: Compiling optional shaders took 0.640 seconds.
+[2018.12.05-15.06.47:982][731]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.06.48:011][731]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.05-15.06.48:011][731]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.05-15.06.48:011][731]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-15.06.48:250][741]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.05-15.06.48:282][742]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.05-15.06.48:282][742]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.12.05-15.06.48:282][742]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.12.05-15.06.48:282][742]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.05-15.06.48:299][743]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.05-15.06.48:318][744]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.06.48:453][750]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.06.48:712][763]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.06.48:730][764]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.06.48:749][765]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.06.48:870][771]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.06.48:887][771]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.06.48:897][771]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.06.49:013][774]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.05-15.06.49:130][780]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.05-15.06.49:170][782]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.05-15.06.49:250][786]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.05-15.06.49:309][789]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.05-15.06.49:365][792]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.05-15.06.49:453][796]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.05-15.06.49:478][797]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.05-15.06.49:981][827]MaterialEditorStats: Base pass shader without light map: 47 instructions
+[2018.12.05-15.06.49:981][827]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.12.05-15.06.49:981][827]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.05-15.06.50:032][831]LogMaterialEditor: Applying material TEMP_BLUE
+[2018.12.05-15.06.53:059][831]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.06.53:118][831]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.05-15.06.53:118][831]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.05-15.06.53:118][831]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.05-15.06.53:118][831]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.05-15.06.53:151][831]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.06.53:186][831]LogMaterial: Missing cached shader map for material TEMP_BLUE, compiling. 
+[2018.12.05-15.06.53:255][831]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy TEMP_BLUE, compiling. 
+[2018.12.05-15.06.53:822][831]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.05-15.06.53:822][831]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.05-15.06.53:822][831]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.05-15.06.53:822][831]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.05-15.06.53:822][831]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.05-15.06.53:822][831]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.05-15.06.53:822][831]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.05-15.06.53:823][831]TextureStreamingBuild: Display: Compiling optional shaders took 0.577 seconds.
+[2018.12.05-15.06.55:761][873]LogSlate: Window 'Save Content' being destroyed
+[2018.12.05-15.06.56:036][873]LogSavePackage: Save=35.99ms
+[2018.12.05-15.06.56:036][873]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TEMP_BLUE6D02FEF946169CEA0532C6B9CB7C8CDF.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/RedBlueRoomAssets/TEMP_BLUE.uasset'
+[2018.12.05-15.06.56:053][873]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/RedBlueRoomAssets/TEMP_BLUE.uasset
+[2018.12.05-15.06.56:264][873]LogSavePackage: Save=25.19ms
+[2018.12.05-15.06.56:265][873]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TEMP_RED2EAC75C245862B712759439F9AD89107.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/RedBlueRoomAssets/TEMP_RED.uasset'
+[2018.12.05-15.06.56:285][873]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/RedBlueRoomAssets/TEMP_RED.uasset
+[2018.12.05-15.06.56:304][873]MaterialEditorStats: Base pass shader without light map: 47 instructions
+[2018.12.05-15.06.56:304][873]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.12.05-15.06.56:304][873]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.05-15.06.56:651][895]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.05-15.06.56:709][895]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.06.56:709][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-15.06.56:709][895]PIE: New page: PIE session: TopDownExampleMap (5 Dec 2018 15:06:56)
+[2018.12.05-15.06.56:709][895]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.12.05-15.06.56:713][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003602s)
+[2018.12.05-15.06.56:714][895]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.12.05-15.06.56:714][895]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2018.12.05-15.06.56:714][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.004352s)
+[2018.12.05-15.06.56:795][895]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.05-15.06.56:837][895]LogInit: FAudioDevice initialized.
+[2018.12.05-15.06.56:878][895]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.05-15.06.56:883][895]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.12.05-15.06.56
+[2018.12.05-15.06.56:884][895]LogWorld: Bringing up level for play took: 0.003733
+[2018.12.05-15.06.56:891][895]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.305
+[2018.12.05-15.06.56:892][895]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.06.59:305][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.07.00:202][146]LogBlueprintUserMessages: [Pong-room_C_0] EnteredRoom
+[2018.12.05-15.07.03:162][384]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.07.03:194][384]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-15.07.04:437][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.07.04:976][468]LogSavePackage: Save=211.32ms
+[2018.12.05-15.07.04:976][468]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownExampleMap846CFD4C4A4DFD74CA4518A683AE8358.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.12.05-15.07.04:996][468]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.12.05-15.07.18:512][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.07.23:572][560]BlueprintLog: New page: Compile RedBlueRoom
+[2018.12.05-15.07.23:697][560]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4b2390480, Size=424
+[2018.12.05-15.07.23:697][560]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c40fb33a00, Size=728
+[2018.12.05-15.07.23:697][560]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c509cd5600, Size=424, Default__RedBlueRoom_C Function /Engine/Transient.REINST_RedBlueRoom_C_688:ExecuteUbergraph_RedBlueRoom
+[2018.12.05-15.07.23:697][560]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c50a621c00, Size=728, Default__RedBlueRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.07.23:712][560]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4b2391980, Size=424, Default__RedBlueRoom_C Function /Game/Rooms/RedBlueRoom.RedBlueRoom_C:ExecuteUbergraph_RedBlueRoom
+[2018.12.05-15.07.23:712][560]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c4ef80a200, Size=728, Default__RedBlueRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-15.07.24:988][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RedBlueRoom" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/RedBlueRoom.uasset" SILENT=true
+[2018.12.05-15.07.25:431][585]LogSavePackage: Save=280.78ms
+[2018.12.05-15.07.25:431][585]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/RedBlueRoomFE83D2FF4DA374553D3B57A593ACE4B3.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/RedBlueRoom.uasset'
+[2018.12.05-15.07.25:453][585]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/RedBlueRoom.uasset
+[2018.12.05-15.07.41:533][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.07.41:623][483]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.DESTROYED_PongEnemy_C_CHILDACTOR_19.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.05-15.07.41:628][483]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_77:PersistentLevel.DESTROYED_PongEnemy_C_CHILDACTOR_26.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.05-15.07.44:015][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.07.44:086][643]BlueprintLog: New page: Compile PongEnemy
+[2018.12.05-15.07.44:198][643]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c4c4106400, Size=960
+[2018.12.05-15.07.44:198][643]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5d26aac00, Size=960, Default__PongEnemy_C Function /Engine/Transient.REINST_PongEnemy_C_698:ExecuteUbergraph_PongEnemy
+[2018.12.05-15.07.44:210][643]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5ea2c2000, Size=960, Default__PongEnemy_C Function /Game/Rooms/Pong_room/Pong_room/PongEnemy.PongEnemy_C:ExecuteUbergraph_PongEnemy
+[2018.12.05-15.07.44:820][643]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c509cd5600, Size=424
+[2018.12.05-15.07.44:820][643]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c50a621c00, Size=728
+[2018.12.05-15.07.44:828][643]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.DESTROYED_PongEnemy_C_CHILDACTOR_38.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.05-15.07.44:832][643]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_77:PersistentLevel.DESTROYED_PongEnemy_C_CHILDACTOR_40.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.05-15.07.44:853][643]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.DESTROYED_PongEnemy_C_CHILDACTOR_51.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.05-15.07.44:857][643]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_77:PersistentLevel.DESTROYED_PongEnemy_C_CHILDACTOR_53.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.05-15.07.45:298][643]LogSavePackage: Save=150.59ms
+[2018.12.05-15.07.45:298][643]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/PongEnemyC4C443884E47E5A9D9E2FF8AC18AB1B8.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset'
+[2018.12.05-15.07.45:320][643]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset
+[2018.12.05-15.07.46:493][679]LogSavePackage: Save=143.83ms
+[2018.12.05-15.07.46:493][679]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/PongEnemy05EF7B8C4EB3FDDB8AC9E9B382D397BA.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset'
+[2018.12.05-15.07.46:503][679]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong_room/Pong_room/PongEnemy.uasset
+[2018.12.05-15.07.47:295][727]LogSlate: Window 'PongEnemy' being destroyed
+[2018.12.05-15.07.47:300][727]LogSlate: Window 'PongEnemy' being destroyed
+[2018.12.05-15.07.47:447][727]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.05-15.07.47:580][727]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.05-15.07.47:758][727]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.05-15.07.48:313][727]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.05-15.07.48:558][734]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5d26aac00, Size=960
