@@ -3030,3 +3030,644 @@ LogInit: Object subsystem initialized
 [2018.12.05-17.38.40:827][437]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownExampleMap7A1E4FDD4E5C79C338B6AF8DFB6148BB.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
 [2018.12.05-17.38.40:845][437]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap
 [2018.12.05-17.38.41:839][530]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.05-17.49.33:141][ 99]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 U:\Fonts\GeorgiaPro-Black.ttf)
+[2018.12.05-17.49.34:620][ 99]LogSlate: Window 'Font Face Import Options' being destroyed
+[2018.12.05-17.49.34:714][100]LogSlate: Took 0.008410 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.05-17.49.34:726][100]LogSlate: Took 0.009413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.05-17.49.34:743][100]LogSlate: Took 0.011511 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.05-17.49.34:763][100]LogSlate: Took 0.011645 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.05-17.49.36:514][294]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fa5910f00, Size=1408
+[2018.12.05-17.49.37:441][294]LogSlate: Window 'Save Content' being destroyed
+[2018.12.05-17.49.37:481][294]LogSlate: Took 0.006351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.05-17.49.37:499][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeorgiaPro-Black" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/GeorgiaPro-Black.uasset" SILENT=true
+[2018.12.05-17.49.37:516][294]LogSavePackage: Save=11.02ms
+[2018.12.05-17.49.37:517][294]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/GeorgiaPro-Black1A39CB884BFE802260437E8EF359C6C1.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/GeorgiaPro-Black.uasset'
+[2018.12.05-17.49.37:531][294]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/GeorgiaPro-Black.uasset
+[2018.12.05-17.49.37:544][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeorgiaPro-Black_Font" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/GeorgiaPro-Black_Font.uasset" SILENT=true
+[2018.12.05-17.49.37:573][294]LogSavePackage: Save=18.83ms
+[2018.12.05-17.49.37:573][294]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/GeorgiaPro-Black_Font70BA05A0458284B3A04C8F9E0D8ADB48.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/GeorgiaPro-Black_Font.uasset'
+[2018.12.05-17.49.37:581][294]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/GeorgiaPro-Black_Font.uasset
+[2018.12.05-17.49.44:528][ 23]LogSlate: Took 0.013072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.05-17.49.59:596][719]BlueprintLog: New page: Compile MainMenu
+[2018.12.05-17.49.59:619][719]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f0f83cdb0, Size=80
+[2018.12.05-17.49.59:619][719]LogUObjectGlobals: Created PersistentFrame Addr=0x000001403bba70b0, Size=80, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_154:ExecuteUbergraph_MainMenu
+[2018.12.05-17.49.59:622][719]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f0f6ff470, Size=80, Default__MainMenu_C Function /Game/MainMenu/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.12.05-17.50.00:166][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/MainMenu" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/MainMenu.uasset" SILENT=true
+[2018.12.05-17.50.00:388][774]LogSavePackage: Save=40.97ms
+[2018.12.05-17.50.00:388][774]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/MainMenuBAE9DBFB45989B58EB1BA281DDD7219A.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/MainMenu.uasset'
+[2018.12.05-17.50.00:399][774]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/MainMenu.uasset
+[2018.12.05-17.50.01:878][948]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.05-17.50.01:922][948]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-17.50.01:922][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-17.50.01:923][948]PIE: New page: PIE session: TopDownExampleMap (5 Dec 2018 17:50:01)
+[2018.12.05-17.50.01:923][948]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.12.05-17.50.01:926][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003647s)
+[2018.12.05-17.50.01:927][948]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.12.05-17.50.01:927][948]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2018.12.05-17.50.01:927][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.004376s)
+[2018.12.05-17.50.01:980][948]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.05-17.50.02:022][948]LogInit: FAudioDevice initialized.
+[2018.12.05-17.50.02:057][948]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.05-17.50.02:060][948]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.12.05-17.50.02
+[2018.12.05-17.50.02:060][948]LogWorld: Bringing up level for play took: 0.001708
+[2018.12.05-17.50.02:064][948]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.488
+[2018.12.05-17.50.02:064][948]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-17.50.04:598][242]Cmd: LevelEditor.ToggleImmersive
+[2018.12.05-17.50.04:749][243]LogRenderer: Reallocating scene render targets to support 1420x824 Format 10 NumSamples 1 (Frame:296).
+[2018.12.05-17.50.04:799][244]LogRenderer: Reallocating scene render targets to support 1920x1160 Format 10 NumSamples 1 (Frame:298).
+[2018.12.05-17.50.04:804][244]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.05-17.50.13:071][180]Cmd: LevelEditor.ToggleImmersive
+[2018.12.05-17.50.13:309][186]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.05-17.50.15:063][392]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-17.50.15:101][392]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-17.50.15:537][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-17.50.16:065][446]LogSavePackage: Save=178.10ms
+[2018.12.05-17.50.16:065][446]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownExampleMap9A97B7B64307E005A0C79484A644664E.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.12.05-17.50.16:077][446]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.12.05-17.50.34:498][415]BlueprintLog: New page: Compile OptionsMenu
+[2018.12.05-17.50.34:540][415]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001402264d080, Size=160
+[2018.12.05-17.50.34:540][415]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fe2f660c0, Size=160, Default__OptionsMenu_C Function /Engine/Transient.REINST_OptionsMenu_C_156:ExecuteUbergraph_OptionsMenu
+[2018.12.05-17.50.34:546][415]LogUObjectGlobals: Created PersistentFrame Addr=0x000001400f1ed940, Size=160, Default__OptionsMenu_C Function /Game/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.12.05-17.50.34:571][415]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001403bba70b0, Size=80
+[2018.12.05-17.50.35:099][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/OptionsMenu" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/OptionsMenu.uasset" SILENT=true
+[2018.12.05-17.50.35:364][445]LogSavePackage: Save=95.77ms
+[2018.12.05-17.50.35:364][445]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/OptionsMenu9D2687A14F273813680C24A6F7F5DF7F.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/OptionsMenu.uasset'
+[2018.12.05-17.50.35:373][445]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/OptionsMenu.uasset
+[2018.12.05-17.51.18:394][465]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\prototype art\cross png.png)
+[2018.12.05-17.51.18:426][465]LogTexture: Display: Building textures: cross_png (BGRA8, 517X517)
+[2018.12.05-17.51.29:147][241]LogSlate: Window 'cross_png*' being destroyed
+[2018.12.05-17.51.31:271][381]LogSlate: Window 'Save Content' being destroyed
+[2018.12.05-17.51.31:324][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/cross_png" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/cross_png.uasset" SILENT=true
+[2018.12.05-17.51.31:352][381]LogSavePackage: Save=23.64ms
+[2018.12.05-17.51.31:352][381]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/cross_png6D5D72424F70A203C060ED9107F1C112.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/cross_png.uasset'
+[2018.12.05-17.51.31:360][381]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/cross_png.uasset
+[2018.12.05-17.51.50:864][246]LogSlate: Took 0.012297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.05-17.52.00:632][207]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.00:632][207]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.00:634][207]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.00:637][207]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:594][161]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:595][161]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:599][161]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:603][161]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:610][162]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:612][162]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:616][162]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:621][163]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:622][163]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:626][163]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:632][164]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:636][164]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:642][165]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:644][165]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:660][166]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:662][166]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:677][167]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:678][167]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:683][167]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:696][168]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:697][168]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:702][168]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:708][169]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:709][169]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:713][169]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:719][170]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:720][170]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:723][170]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:728][171]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:729][171]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:732][171]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:739][172]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:739][172]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:742][172]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:748][173]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:750][173]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.09:753][173]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.12.05-17.52.29:468][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fba740090, Size=4, Default__SKEL_MasterRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.SKEL_MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.52.29:475][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fba742850, Size=4, Default__SKEL_IcyFloorRoom_C Function /Game/Rooms/IcyFloorRoom.SKEL_IcyFloorRoom_C:ExecuteUbergraph_IcyFloorRoom
+[2018.12.05-17.52.29:475][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fba742d88, Size=4, Default__SKEL_IcyFloorRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.SKEL_MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.52.29:481][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fba740908, Size=4, Default__SKEL_RedBlueRoom_C Function /Game/Rooms/RedBlueRoom.SKEL_RedBlueRoom_C:ExecuteUbergraph_RedBlueRoom
+[2018.12.05-17.52.29:481][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fba740728, Size=4, Default__SKEL_RedBlueRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.SKEL_MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.52.29:489][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fba743bb0, Size=4, Default__SKEL_beeptest_C Function /Game/Rooms/beeptest.SKEL_beeptest_C:ExecuteUbergraph_beeptest
+[2018.12.05-17.52.29:489][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fba740f48, Size=4, Default__SKEL_beeptest_C Function /Game/Rooms/MasterRoom/MasterRoom.SKEL_MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.52.29:495][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fba740110, Size=4, Default__SKEL_brickbreaker_C Function /Game/Rooms/brickbreaker.SKEL_brickbreaker_C:ExecuteUbergraph_brickbreaker
+[2018.12.05-17.52.29:495][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fba743d30, Size=4, Default__SKEL_brickbreaker_C Function /Game/Rooms/MasterRoom/MasterRoom.SKEL_MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.52.29:506][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fba7433a8, Size=4, Default__SKEL_CardsRoom_C Function /Game/Rooms/CardsRoomAssets/CardsRoom.SKEL_CardsRoom_C:ExecuteUbergraph_CardsRoom
+[2018.12.05-17.52.29:506][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fba741370, Size=4, Default__SKEL_CardsRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.SKEL_MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.52.29:512][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fba741830, Size=4, Default__SKEL_Dodgeball_C Function /Game/Rooms/Dodgeball.SKEL_Dodgeball_C:ExecuteUbergraph_Dodgeball
+[2018.12.05-17.52.29:512][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fba741d18, Size=4, Default__SKEL_Dodgeball_C Function /Game/Rooms/MasterRoom/MasterRoom.SKEL_MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.52.29:517][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f5a3528f8, Size=4, Default__SKEL_FootbombRoom_C Function /Game/Rooms/FootBombRoomAssets/FootbombRoom.SKEL_FootbombRoom_C:ExecuteUbergraph_FootbombRoom
+[2018.12.05-17.52.29:517][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f5a351600, Size=4, Default__SKEL_FootbombRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.SKEL_MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.52.29:523][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f5a350dd0, Size=4, Default__SKEL_HideAndSpookRoom_C Function /Game/Rooms/HideAndSpookRoom.SKEL_HideAndSpookRoom_C:ExecuteUbergraph_HideAndSpookRoom
+[2018.12.05-17.52.29:523][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f5a350238, Size=4, Default__SKEL_HideAndSpookRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.SKEL_MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.52.29:528][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f5a351f70, Size=4, Default__SKEL_LightsOutRoomNew_C Function /Game/Rooms/LightsOutRoomNew.SKEL_LightsOutRoomNew_C:ExecuteUbergraph_LightsOutRoomNew
+[2018.12.05-17.52.29:528][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f5a350680, Size=4, Default__SKEL_LightsOutRoomNew_C Function /Game/Rooms/MasterRoom/MasterRoom.SKEL_MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.52.29:557][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f4ff6ce68, Size=4, Default__SKEL_MazeRoom_C Function /Game/Rooms/MazeRoomAssets/MazeRoom.SKEL_MazeRoom_C:ExecuteUbergraph_MazeRoom
+[2018.12.05-17.52.29:558][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f4ff6f9a8, Size=4, Default__SKEL_MazeRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.SKEL_MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.52.29:579][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f4ff6ced0, Size=4, Default__SKEL_Pong-room_C Function /Game/Rooms/Pong-room.SKEL_Pong-room_C:ExecuteUbergraph_Pong-room
+[2018.12.05-17.52.29:579][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f4ff6f8f8, Size=4, Default__SKEL_Pong-room_C Function /Game/Rooms/MasterRoom/MasterRoom.SKEL_MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.52.29:585][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f4ff6f568, Size=4, Default__SKEL_RoadRoom_C Function /Game/Rooms/RoadRoomAssets/RoadRoom.SKEL_RoadRoom_C:ExecuteUbergraph_RoadRoom
+[2018.12.05-17.52.29:585][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f4ff6c320, Size=4, Default__SKEL_RoadRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.SKEL_MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.52.29:593][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f4ff6ef50, Size=4, Default__SKEL_simon_C Function /Game/Rooms/simon.SKEL_simon_C:ExecuteUbergraph_simon
+[2018.12.05-17.52.29:593][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f4ff6f2b8, Size=4, Default__SKEL_simon_C Function /Game/Rooms/MasterRoom/MasterRoom.SKEL_MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.52.29:604][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fbea64558, Size=4, Default__SKEL_SnookerRoom_C Function /Game/Rooms/SnookerRoomAssets121212/SnookerRoom.SKEL_SnookerRoom_C:ExecuteUbergraph_SnookerRoom
+[2018.12.05-17.52.29:604][879]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fbea66a10, Size=4, Default__SKEL_SnookerRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.SKEL_MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.10:836][857]BlueprintLog: New page: Compile MasterRoom
+[2018.12.05-17.53.10:881][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fba740090, Size=4
+[2018.12.05-17.53.10:881][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abe9e8, Size=4, Default__SKEL_MasterRoom_C Function /Engine/Transient.REINST_SKEL_MasterRoom_C_2733:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.10:882][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fba743bb0, Size=4
+[2018.12.05-17.53.10:882][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fba740f48, Size=4
+[2018.12.05-17.53.10:882][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abe720, Size=4, Default__SKEL_beeptest_C Function /Engine/Transient.REINST_SKEL_beeptest_C_2740:ExecuteUbergraph_beeptest
+[2018.12.05-17.53.10:882][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abc128, Size=4, Default__SKEL_beeptest_C Function /Engine/Transient.REINST_SKEL_MasterRoom_C_2733:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.10:882][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fba740110, Size=4
+[2018.12.05-17.53.10:882][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fba743d30, Size=4
+[2018.12.05-17.53.10:882][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abe490, Size=4, Default__SKEL_brickbreaker_C Function /Engine/Transient.REINST_SKEL_brickbreaker_C_2741:ExecuteUbergraph_brickbreaker
+[2018.12.05-17.53.10:882][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abe3f0, Size=4, Default__SKEL_brickbreaker_C Function /Engine/Transient.REINST_SKEL_MasterRoom_C_2733:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.10:882][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fba7433a8, Size=4
+[2018.12.05-17.53.10:882][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fba741370, Size=4
+[2018.12.05-17.53.10:882][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abc690, Size=4, Default__SKEL_CardsRoom_C Function /Engine/Transient.REINST_SKEL_CardsRoom_C_2742:ExecuteUbergraph_CardsRoom
+[2018.12.05-17.53.10:882][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abda68, Size=4, Default__SKEL_CardsRoom_C Function /Engine/Transient.REINST_SKEL_MasterRoom_C_2733:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.10:882][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fba741830, Size=4
+[2018.12.05-17.53.10:883][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fba741d18, Size=4
+[2018.12.05-17.53.10:883][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abf708, Size=4, Default__SKEL_Dodgeball_C Function /Engine/Transient.REINST_SKEL_Dodgeball_C_2743:ExecuteUbergraph_Dodgeball
+[2018.12.05-17.53.10:883][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abe668, Size=4, Default__SKEL_Dodgeball_C Function /Engine/Transient.REINST_SKEL_MasterRoom_C_2733:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.10:883][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f5a3528f8, Size=4
+[2018.12.05-17.53.10:883][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f5a351600, Size=4
+[2018.12.05-17.53.10:883][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abd050, Size=4, Default__SKEL_FootbombRoom_C Function /Engine/Transient.REINST_SKEL_FootbombRoom_C_2744:ExecuteUbergraph_FootbombRoom
+[2018.12.05-17.53.10:883][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abe1e0, Size=4, Default__SKEL_FootbombRoom_C Function /Engine/Transient.REINST_SKEL_MasterRoom_C_2733:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.10:883][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f5a350dd0, Size=4
+[2018.12.05-17.53.10:883][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f5a350238, Size=4
+[2018.12.05-17.53.10:883][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abfa58, Size=4, Default__SKEL_HideAndSpookRoom_C Function /Engine/Transient.REINST_SKEL_HideAndSpookRoom_C_2745:ExecuteUbergraph_HideAndSpookRoom
+[2018.12.05-17.53.10:883][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abe090, Size=4, Default__SKEL_HideAndSpookRoom_C Function /Engine/Transient.REINST_SKEL_MasterRoom_C_2733:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.10:883][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fba742850, Size=4
+[2018.12.05-17.53.10:883][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fba742d88, Size=4
+[2018.12.05-17.53.10:883][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abe1f0, Size=4, Default__SKEL_IcyFloorRoom_C Function /Engine/Transient.REINST_SKEL_IcyFloorRoom_C_2746:ExecuteUbergraph_IcyFloorRoom
+[2018.12.05-17.53.10:883][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abe088, Size=4, Default__SKEL_IcyFloorRoom_C Function /Engine/Transient.REINST_SKEL_MasterRoom_C_2733:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.10:884][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f5a351f70, Size=4
+[2018.12.05-17.53.10:884][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f5a350680, Size=4
+[2018.12.05-17.53.10:884][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abe050, Size=4, Default__SKEL_LightsOutRoomNew_C Function /Engine/Transient.REINST_SKEL_LightsOutRoomNew_C_2751:ExecuteUbergraph_LightsOutRoomNew
+[2018.12.05-17.53.10:884][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abf538, Size=4, Default__SKEL_LightsOutRoomNew_C Function /Engine/Transient.REINST_SKEL_MasterRoom_C_2733:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.10:885][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f4ff6ce68, Size=4
+[2018.12.05-17.53.10:885][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f4ff6f9a8, Size=4
+[2018.12.05-17.53.10:885][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abe8b8, Size=4, Default__SKEL_MazeRoom_C Function /Engine/Transient.REINST_SKEL_MazeRoom_C_2752:ExecuteUbergraph_MazeRoom
+[2018.12.05-17.53.10:885][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abeb60, Size=4, Default__SKEL_MazeRoom_C Function /Engine/Transient.REINST_SKEL_MasterRoom_C_2733:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.10:885][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f4ff6ced0, Size=4
+[2018.12.05-17.53.10:885][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f4ff6f8f8, Size=4
+[2018.12.05-17.53.10:885][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abeb70, Size=4, Default__SKEL_Pong-room_C Function /Engine/Transient.REINST_SKEL_Pong-room_C_2755:ExecuteUbergraph_Pong-room
+[2018.12.05-17.53.10:885][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abe8c8, Size=4, Default__SKEL_Pong-room_C Function /Engine/Transient.REINST_SKEL_MasterRoom_C_2733:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.10:886][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fba740908, Size=4
+[2018.12.05-17.53.10:886][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fba740728, Size=4
+[2018.12.05-17.53.10:886][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abdef8, Size=4, Default__SKEL_RedBlueRoom_C Function /Engine/Transient.REINST_SKEL_RedBlueRoom_C_2756:ExecuteUbergraph_RedBlueRoom
+[2018.12.05-17.53.10:886][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abfdf8, Size=4, Default__SKEL_RedBlueRoom_C Function /Engine/Transient.REINST_SKEL_MasterRoom_C_2733:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.10:886][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f4ff6f568, Size=4
+[2018.12.05-17.53.10:886][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f4ff6c320, Size=4
+[2018.12.05-17.53.10:886][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abe8e0, Size=4, Default__SKEL_RoadRoom_C Function /Engine/Transient.REINST_SKEL_RoadRoom_C_2757:ExecuteUbergraph_RoadRoom
+[2018.12.05-17.53.10:886][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abddf8, Size=4, Default__SKEL_RoadRoom_C Function /Engine/Transient.REINST_SKEL_MasterRoom_C_2733:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.10:886][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f4ff6ef50, Size=4
+[2018.12.05-17.53.10:886][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f4ff6f2b8, Size=4
+[2018.12.05-17.53.10:886][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abdd80, Size=4, Default__SKEL_simon_C Function /Engine/Transient.REINST_SKEL_simon_C_2759:ExecuteUbergraph_simon
+[2018.12.05-17.53.10:886][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abdff0, Size=4, Default__SKEL_simon_C Function /Engine/Transient.REINST_SKEL_MasterRoom_C_2733:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.10:887][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fbea64558, Size=4
+[2018.12.05-17.53.10:887][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fbea66a10, Size=4
+[2018.12.05-17.53.10:887][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abe918, Size=4, Default__SKEL_SnookerRoom_C Function /Engine/Transient.REINST_SKEL_SnookerRoom_C_2760:ExecuteUbergraph_SnookerRoom
+[2018.12.05-17.53.10:887][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f58abd738, Size=4, Default__SKEL_SnookerRoom_C Function /Engine/Transient.REINST_SKEL_MasterRoom_C_2733:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:107][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fe0069d00, Size=792
+[2018.12.05-17.53.12:107][857]LogUObjectGlobals: Created PersistentFrame Addr=0x000001403700cb80, Size=792, Default__MasterRoom_C Function /Engine/Transient.REINST_MasterRoom_C_2817:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:109][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fa5c48400, Size=608
+[2018.12.05-17.53.12:109][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fe0068480, Size=792
+[2018.12.05-17.53.12:109][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fc1e8cb80, Size=608, Default__beeptest_C Function /Engine/Transient.REINST_beeptest_C_2818:ExecuteUbergraph_beeptest
+[2018.12.05-17.53.12:109][857]LogUObjectGlobals: Created PersistentFrame Addr=0x000001403700d280, Size=792, Default__beeptest_C Function /Engine/Transient.REINST_MasterRoom_C_2817:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:110][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001400c12c400, Size=704
+[2018.12.05-17.53.12:110][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fe006a780, Size=792
+[2018.12.05-17.53.12:110][857]LogUObjectGlobals: Created PersistentFrame Addr=0x00000140023fae00, Size=704, Default__brickbreaker_C Function /Engine/Transient.REINST_brickbreaker_C_2819:ExecuteUbergraph_brickbreaker
+[2018.12.05-17.53.12:110][857]LogUObjectGlobals: Created PersistentFrame Addr=0x000001403438f900, Size=792, Default__brickbreaker_C Function /Engine/Transient.REINST_MasterRoom_C_2817:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:112][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fd6681d00, Size=1056
+[2018.12.05-17.53.12:112][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f8cf3dd00, Size=792
+[2018.12.05-17.53.12:112][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014003c5a400, Size=1056, Default__CardsRoom_C Function /Engine/Transient.REINST_CardsRoom_C_2820:ExecuteUbergraph_CardsRoom
+[2018.12.05-17.53.12:112][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fe006a780, Size=792, Default__CardsRoom_C Function /Engine/Transient.REINST_MasterRoom_C_2817:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:113][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f8cf3e080, Size=800
+[2018.12.05-17.53.12:113][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f8cf3d600, Size=792
+[2018.12.05-17.53.12:113][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fe0068f00, Size=800, Default__Dodgeball_C Function /Engine/Transient.REINST_Dodgeball_C_2821:ExecuteUbergraph_Dodgeball
+[2018.12.05-17.53.12:113][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fe006b580, Size=792, Default__Dodgeball_C Function /Engine/Transient.REINST_MasterRoom_C_2817:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:115][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013ff0d1d300, Size=80
+[2018.12.05-17.53.12:115][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fc373ab00, Size=792
+[2018.12.05-17.53.12:115][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fd40f7380, Size=80, Default__FootbombRoom_C Function /Engine/Transient.REINST_FootbombRoom_C_2822:ExecuteUbergraph_FootbombRoom
+[2018.12.05-17.53.12:115][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f0f6f4800, Size=792, Default__FootbombRoom_C Function /Engine/Transient.REINST_MasterRoom_C_2817:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:116][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013ff4378680, Size=600
+[2018.12.05-17.53.12:116][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fc3739280, Size=792
+[2018.12.05-17.53.12:116][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fc1e8ec00, Size=600, Default__HideAndSpookRoom_C Function /Engine/Transient.REINST_HideAndSpookRoom_C_2823:ExecuteUbergraph_HideAndSpookRoom
+[2018.12.05-17.53.12:116][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f0f6f5600, Size=792, Default__HideAndSpookRoom_C Function /Engine/Transient.REINST_MasterRoom_C_2817:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:117][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fc373a080, Size=848
+[2018.12.05-17.53.12:118][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fc373bc80, Size=792
+[2018.12.05-17.53.12:118][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fbf2a2b00, Size=848, Default__IcyFloorRoom_C Function /Engine/Transient.REINST_IcyFloorRoom_C_2824:ExecuteUbergraph_IcyFloorRoom
+[2018.12.05-17.53.12:118][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fbf2a0480, Size=792, Default__IcyFloorRoom_C Function /Engine/Transient.REINST_MasterRoom_C_2817:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:119][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fd7316f80, Size=360
+[2018.12.05-17.53.12:119][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fc3738800, Size=792
+[2018.12.05-17.53.12:119][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fd6abdd80, Size=360, Default__LightsOutRoomNew_C Function /Engine/Transient.REINST_LightsOutRoomNew_C_2825:ExecuteUbergraph_LightsOutRoomNew
+[2018.12.05-17.53.12:119][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fc3738800, Size=792, Default__LightsOutRoomNew_C Function /Engine/Transient.REINST_MasterRoom_C_2817:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:125][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fc0cc0170, Size=56
+[2018.12.05-17.53.12:125][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fc1ef3c80, Size=792
+[2018.12.05-17.53.12:125][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f5a32ad68, Size=56, Default__MazeRoom_C Function /Engine/Transient.REINST_MazeRoom_C_2826:ExecuteUbergraph_MazeRoom
+[2018.12.05-17.53.12:125][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fc373ab00, Size=792, Default__MazeRoom_C Function /Engine/Transient.REINST_MasterRoom_C_2817:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:126][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f9bdc70a0, Size=96
+[2018.12.05-17.53.12:126][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fc1ef0100, Size=792
+[2018.12.05-17.53.12:126][857]LogUObjectGlobals: Created PersistentFrame Addr=0x000001401a3e0640, Size=96, Default__Pong-room_C Function /Engine/Transient.REINST_Pong-room_C_2827:ExecuteUbergraph_Pong-room
+[2018.12.05-17.53.12:126][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f8cf3e080, Size=792, Default__Pong-room_C Function /Engine/Transient.REINST_MasterRoom_C_2817:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:129][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fd7312cc0, Size=432
+[2018.12.05-17.53.12:129][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fc1ef3580, Size=792
+[2018.12.05-17.53.12:129][857]LogUObjectGlobals: Created PersistentFrame Addr=0x000001401148c640, Size=432, Default__RedBlueRoom_C Function /Engine/Transient.REINST_RedBlueRoom_C_2828:ExecuteUbergraph_RedBlueRoom
+[2018.12.05-17.53.12:129][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f8cf3e780, Size=792, Default__RedBlueRoom_C Function /Engine/Transient.REINST_MasterRoom_C_2817:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:130][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fc1ef0800, Size=832
+[2018.12.05-17.53.12:130][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fb72d3c80, Size=792
+[2018.12.05-17.53.12:130][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fc1ef0800, Size=832, Default__RoadRoom_C Function /Engine/Transient.REINST_RoadRoom_C_2829:ExecuteUbergraph_RoadRoom
+[2018.12.05-17.53.12:130][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fc1ef3c80, Size=792, Default__RoadRoom_C Function /Engine/Transient.REINST_MasterRoom_C_2817:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:131][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fd4b7fa00, Size=688
+[2018.12.05-17.53.12:131][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fb72d2080, Size=792
+[2018.12.05-17.53.12:131][857]LogUObjectGlobals: Created PersistentFrame Addr=0x00000140195aa500, Size=688, Default__simon_C Function /Engine/Transient.REINST_simon_C_2830:ExecuteUbergraph_simon
+[2018.12.05-17.53.12:131][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fdae82780, Size=792, Default__simon_C Function /Engine/Transient.REINST_MasterRoom_C_2817:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:133][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fd907ab00, Size=1552
+[2018.12.05-17.53.12:133][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fb72d0480, Size=792
+[2018.12.05-17.53.12:133][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014011489d00, Size=1552, Default__SnookerRoom_C Function /Engine/Transient.REINST_SnookerRoom_C_2831:ExecuteUbergraph_SnookerRoom
+[2018.12.05-17.53.12:133][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fdae80480, Size=792, Default__SnookerRoom_C Function /Engine/Transient.REINST_MasterRoom_C_2817:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:322][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014034449d00, Size=816, Default__MasterRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:326][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fd4c7fb00, Size=608, Default__beeptest_C Function /Game/Rooms/beeptest.beeptest_C:ExecuteUbergraph_beeptest
+[2018.12.05-17.53.12:326][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014034448f00, Size=816, Default__beeptest_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:329][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fbfed5600, Size=704, Default__brickbreaker_C Function /Game/Rooms/brickbreaker.brickbreaker_C:ExecuteUbergraph_brickbreaker
+[2018.12.05-17.53.12:329][857]LogUObjectGlobals: Created PersistentFrame Addr=0x000001403444b200, Size=816, Default__brickbreaker_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:335][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fd4c69d00, Size=1056, Default__CardsRoom_C Function /Game/Rooms/CardsRoomAssets/CardsRoom.CardsRoom_C:ExecuteUbergraph_CardsRoom
+[2018.12.05-17.53.12:335][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f1064bc80, Size=816, Default__CardsRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:339][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f1064ab00, Size=800, Default__Dodgeball_C Function /Game/Rooms/Dodgeball.Dodgeball_C:ExecuteUbergraph_Dodgeball
+[2018.12.05-17.53.12:339][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f10648b80, Size=816, Default__Dodgeball_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:342][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013ff44e6570, Size=80, Default__FootbombRoom_C Function /Game/Rooms/FootBombRoomAssets/FootbombRoom.FootbombRoom_C:ExecuteUbergraph_FootbombRoom
+[2018.12.05-17.53.12:342][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f1064a400, Size=816, Default__FootbombRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:346][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fd4c7cb80, Size=600, Default__HideAndSpookRoom_C Function /Game/Rooms/HideAndSpookRoom.HideAndSpookRoom_C:ExecuteUbergraph_HideAndSpookRoom
+[2018.12.05-17.53.12:346][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fb72d3c80, Size=816, Default__HideAndSpookRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:350][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fb72d2080, Size=848, Default__IcyFloorRoom_C Function /Game/Rooms/IcyFloorRoom.IcyFloorRoom_C:ExecuteUbergraph_IcyFloorRoom
+[2018.12.05-17.53.12:350][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fb72d1600, Size=816, Default__IcyFloorRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:353][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fd4c5e080, Size=360, Default__LightsOutRoomNew_C Function /Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C:ExecuteUbergraph_LightsOutRoomNew
+[2018.12.05-17.53.12:353][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fe8f04480, Size=816, Default__LightsOutRoomNew_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:362][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f596efbd8, Size=56, Default__MazeRoom_C Function /Game/Rooms/MazeRoomAssets/MazeRoom.MazeRoom_C:ExecuteUbergraph_MazeRoom
+[2018.12.05-17.53.12:362][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fe8f05980, Size=816, Default__MazeRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:367][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fb4885480, Size=96, Default__Pong-room_C Function /Game/Rooms/Pong-room.Pong-room_C:ExecuteUbergraph_Pong-room
+[2018.12.05-17.53.12:367][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fe8f04b80, Size=816, Default__Pong-room_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:370][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fd4c60f00, Size=432, Default__RedBlueRoom_C Function /Game/Rooms/RedBlueRoom.RedBlueRoom_C:ExecuteUbergraph_RedBlueRoom
+[2018.12.05-17.53.12:370][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fe8f06e80, Size=816, Default__RedBlueRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:374][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fe8f04f00, Size=832, Default__RoadRoom_C Function /Game/Rooms/RoadRoomAssets/RoadRoom.RoadRoom_C:ExecuteUbergraph_RoadRoom
+[2018.12.05-17.53.12:374][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fe8f06b00, Size=816, Default__RoadRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:379][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f2e01bd00, Size=688, Default__simon_C Function /Game/Rooms/simon.simon_C:ExecuteUbergraph_simon
+[2018.12.05-17.53.12:379][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014006c73900, Size=816, Default__simon_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.12:384][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fcb002b00, Size=1552, Default__SnookerRoom_C Function /Game/Rooms/SnookerRoomAssets121212/SnookerRoom.SnookerRoom_C:ExecuteUbergraph_SnookerRoom
+[2018.12.05-17.53.12:384][857]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014006c72400, Size=816, Default__SnookerRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.53.15:821][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abe1f0, Size=4
+[2018.12.05-17.53.15:821][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abe088, Size=4
+[2018.12.05-17.53.15:821][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abe9e8, Size=4
+[2018.12.05-17.53.15:822][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abe918, Size=4
+[2018.12.05-17.53.15:822][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abd738, Size=4
+[2018.12.05-17.53.15:822][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abdd80, Size=4
+[2018.12.05-17.53.15:822][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abdff0, Size=4
+[2018.12.05-17.53.15:822][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abe8e0, Size=4
+[2018.12.05-17.53.15:822][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abddf8, Size=4
+[2018.12.05-17.53.15:822][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abeb70, Size=4
+[2018.12.05-17.53.15:822][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abe8c8, Size=4
+[2018.12.05-17.53.15:822][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abe8b8, Size=4
+[2018.12.05-17.53.15:822][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abeb60, Size=4
+[2018.12.05-17.53.15:822][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abe050, Size=4
+[2018.12.05-17.53.15:822][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abf538, Size=4
+[2018.12.05-17.53.15:822][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abfa58, Size=4
+[2018.12.05-17.53.15:822][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abe090, Size=4
+[2018.12.05-17.53.15:822][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abd050, Size=4
+[2018.12.05-17.53.15:822][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abe1e0, Size=4
+[2018.12.05-17.53.15:822][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abf708, Size=4
+[2018.12.05-17.53.15:822][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abe668, Size=4
+[2018.12.05-17.53.15:823][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abc690, Size=4
+[2018.12.05-17.53.15:823][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abda68, Size=4
+[2018.12.05-17.53.15:823][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abe490, Size=4
+[2018.12.05-17.53.15:823][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abe3f0, Size=4
+[2018.12.05-17.53.15:823][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abe720, Size=4
+[2018.12.05-17.53.15:823][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abc128, Size=4
+[2018.12.05-17.53.15:823][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abdef8, Size=4
+[2018.12.05-17.53.15:823][857]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f58abfdf8, Size=4
+[2018.12.05-17.53.17:138][905]LogSavePackage: Save=179.70ms
+[2018.12.05-17.53.17:138][905]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/MasterRoom9625EFEF4D71C13B3E228F979AAB18E8.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/MasterRoom/MasterRoom.uasset'
+[2018.12.05-17.53.17:155][905]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/MasterRoom/MasterRoom.uasset
+[2018.12.05-17.53.20:204][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014011489d00, Size=1552
+[2018.12.05-17.53.20:204][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fdae80480, Size=792
+[2018.12.05-17.53.20:204][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000140195aa500, Size=688
+[2018.12.05-17.53.20:204][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fdae82780, Size=792
+[2018.12.05-17.53.20:204][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fc1ef0800, Size=832
+[2018.12.05-17.53.20:204][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fc1ef3c80, Size=792
+[2018.12.05-17.53.20:204][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001401148c640, Size=432
+[2018.12.05-17.53.20:204][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f8cf3e780, Size=792
+[2018.12.05-17.53.20:204][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001401a3e0640, Size=96
+[2018.12.05-17.53.20:204][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f8cf3e080, Size=792
+[2018.12.05-17.53.20:204][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f5a32ad68, Size=56
+[2018.12.05-17.53.20:205][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fc373ab00, Size=792
+[2018.12.05-17.53.20:205][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fd6abdd80, Size=360
+[2018.12.05-17.53.20:205][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fc3738800, Size=792
+[2018.12.05-17.53.20:205][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fbf2a2b00, Size=848
+[2018.12.05-17.53.20:205][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fbf2a0480, Size=792
+[2018.12.05-17.53.20:205][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fc1e8ec00, Size=600
+[2018.12.05-17.53.20:205][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f0f6f5600, Size=792
+[2018.12.05-17.53.20:205][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fd40f7380, Size=80
+[2018.12.05-17.53.20:205][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f0f6f4800, Size=792
+[2018.12.05-17.53.20:205][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fe0068f00, Size=800
+[2018.12.05-17.53.20:205][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fe006b580, Size=792
+[2018.12.05-17.53.20:205][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014003c5a400, Size=1056
+[2018.12.05-17.53.20:205][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fe006a780, Size=792
+[2018.12.05-17.53.20:205][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000140023fae00, Size=704
+[2018.12.05-17.53.20:205][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001403438f900, Size=792
+[2018.12.05-17.53.20:205][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fc1e8cb80, Size=608
+[2018.12.05-17.53.20:205][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001403700d280, Size=792
+[2018.12.05-17.53.20:205][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001403700cb80, Size=792
+[2018.12.05-17.53.20:908][114]LogSlate: Window 'Save Content' being destroyed
+[2018.12.05-17.53.20:967][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/beeptest" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/beeptest.uasset" SILENT=true
+[2018.12.05-17.53.21:300][114]LogSavePackage: Save=141.41ms
+[2018.12.05-17.53.21:300][114]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/beeptest443567BB4F6676A5BD9A9F8044002732.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/beeptest.uasset'
+[2018.12.05-17.53.21:317][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/beeptest.uasset
+[2018.12.05-17.53.21:321][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/brickbreaker" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/brickbreaker.uasset" SILENT=true
+[2018.12.05-17.53.21:612][114]LogSavePackage: Save=121.40ms
+[2018.12.05-17.53.21:612][114]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/brickbreaker3467DC2945E6027C6BEBA389D959F32E.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/brickbreaker.uasset'
+[2018.12.05-17.53.21:626][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/brickbreaker.uasset
+[2018.12.05-17.53.22:055][114]LogSavePackage: Save=247.88ms
+[2018.12.05-17.53.22:055][114]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/CardsRoomF880272E484BA2D6435F9F8D3E2F43D2.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/CardsRoomAssets/CardsRoom.uasset'
+[2018.12.05-17.53.22:070][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/CardsRoomAssets/CardsRoom.uasset
+[2018.12.05-17.53.22:076][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/Dodgeball" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Dodgeball.uasset" SILENT=true
+[2018.12.05-17.53.22:373][114]LogSavePackage: Save=109.19ms
+[2018.12.05-17.53.22:373][114]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/Dodgeball08B1D4FB48471A47AB000685A738D0FE.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Dodgeball.uasset'
+[2018.12.05-17.53.22:393][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Dodgeball.uasset
+[2018.12.05-17.53.22:723][114]LogSavePackage: Save=144.21ms
+[2018.12.05-17.53.22:723][114]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/FootbombRoomBA74E9AD4EE1522451D12F9E317DBDEE.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/FootBombRoomAssets/FootbombRoom.uasset'
+[2018.12.05-17.53.22:744][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/FootBombRoomAssets/FootbombRoom.uasset
+[2018.12.05-17.53.22:750][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/HideAndSpookRoom" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/HideAndSpookRoom.uasset" SILENT=true
+[2018.12.05-17.53.23:071][114]LogSavePackage: Save=140.52ms
+[2018.12.05-17.53.23:071][114]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/HideAndSpookRoom63FE12E74B84E1DDD4F483A429C29798.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/HideAndSpookRoom.uasset'
+[2018.12.05-17.53.23:088][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/HideAndSpookRoom.uasset
+[2018.12.05-17.53.23:093][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/IcyFloorRoom" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/IcyFloorRoom.uasset" SILENT=true
+[2018.12.05-17.53.23:445][114]LogSavePackage: Save=161.92ms
+[2018.12.05-17.53.23:445][114]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/IcyFloorRoom8F58146E4285BDE3B70AD0913BCE7992.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/IcyFloorRoom.uasset'
+[2018.12.05-17.53.23:466][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/IcyFloorRoom.uasset
+[2018.12.05-17.53.23:473][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/LightsOutRoomNew" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/LightsOutRoomNew.uasset" SILENT=true
+[2018.12.05-17.53.23:798][114]LogSavePackage: Save=128.77ms
+[2018.12.05-17.53.23:798][114]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/LightsOutRoomNew5E7CE3724B4D7AC90FDBFB88EC44CA33.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/LightsOutRoomNew.uasset'
+[2018.12.05-17.53.23:812][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/LightsOutRoomNew.uasset
+[2018.12.05-17.53.24:497][114]LogSavePackage: Save=478.93ms
+[2018.12.05-17.53.24:498][114]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/MazeRoomE63B6E4742C380507FB83092EDAE0250.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/MazeRoomAssets/MazeRoom.uasset'
+[2018.12.05-17.53.24:508][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/MazeRoomAssets/MazeRoom.uasset
+[2018.12.05-17.53.24:517][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/Pong-room" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong-room.uasset" SILENT=true
+[2018.12.05-17.53.24:809][114]LogSavePackage: Save=54.11ms
+[2018.12.05-17.53.24:809][114]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/Pong-room9C7EA8B946A75C9268365AA8F00AAF5A.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong-room.uasset'
+[2018.12.05-17.53.24:822][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/Pong-room.uasset
+[2018.12.05-17.53.24:827][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RedBlueRoom" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/RedBlueRoom.uasset" SILENT=true
+[2018.12.05-17.53.25:160][114]LogSavePackage: Save=151.52ms
+[2018.12.05-17.53.25:160][114]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/RedBlueRoomAA2598F04D3FCF52E5791597EDAFD065.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/RedBlueRoom.uasset'
+[2018.12.05-17.53.25:177][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/RedBlueRoom.uasset
+[2018.12.05-17.53.25:577][114]LogSavePackage: Save=193.15ms
+[2018.12.05-17.53.25:577][114]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/RoadRoom87A1BF204D70736808FD999A95ABD75B.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/RoadRoomAssets/RoadRoom.uasset'
+[2018.12.05-17.53.25:600][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/RoadRoomAssets/RoadRoom.uasset
+[2018.12.05-17.53.25:609][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/simon" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/simon.uasset" SILENT=true
+[2018.12.05-17.53.25:955][114]LogSavePackage: Save=174.85ms
+[2018.12.05-17.53.25:956][114]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/simon54440D6D4E104F6036A8FCB9E52C3AB0.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/simon.uasset'
+[2018.12.05-17.53.25:965][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/simon.uasset
+[2018.12.05-17.53.26:288][114]LogSavePackage: Save=144.75ms
+[2018.12.05-17.53.26:288][114]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/SnookerRoomC6D81BDA49D0376F2F84638865D8CDBA.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/SnookerRoomAssets121212/SnookerRoom.uasset'
+[2018.12.05-17.53.26:302][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/SnookerRoomAssets121212/SnookerRoom.uasset
+[2018.12.05-17.53.27:233][114]LogSavePackage: Save=247.67ms
+[2018.12.05-17.53.27:233][114]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownExampleMapF8BECB974C592021D3EE95A1CEEC16DC.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.12.05-17.53.27:247][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.12.05-17.53.27:310][114]LogFileHelpers: Saving map 'TopDownExampleMap' took 1.004
+[2018.12.05-17.53.43:235][694]BlueprintLog: New page: Compile RoomState
+[2018.12.05-17.53.43:255][694]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fa475a868, Size=40
+[2018.12.05-17.53.43:256][694]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014020b0c388, Size=40, Default__RoomState_C Function /Engine/Transient.REINST_RoomState_C_160:ExecuteUbergraph_RoomState
+[2018.12.05-17.53.43:258][694]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014020b0d0d0, Size=40, Default__RoomState_C Function /Game/MainMenu/RoomState.RoomState_C:ExecuteUbergraph_RoomState
+[2018.12.05-17.53.43:286][694]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fe2f660c0, Size=160
+[2018.12.05-17.53.43:685][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/RoomState" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/RoomState.uasset" SILENT=true
+[2018.12.05-17.53.43:879][729]LogSavePackage: Save=19.89ms
+[2018.12.05-17.53.43:879][729]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/RoomStateC44074204F6B52073EE027BF25BE015A.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/RoomState.uasset'
+[2018.12.05-17.53.43:890][729]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/RoomState.uasset
+[2018.12.05-17.53.44:851][839]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.05-17.53.44:882][839]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-17.53.44:882][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-17.53.44:882][839]PIE: New page: PIE session: TopDownExampleMap (5 Dec 2018 17:53:44)
+[2018.12.05-17.53.44:883][839]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.12.05-17.53.44:886][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003649s)
+[2018.12.05-17.53.44:887][839]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.12.05-17.53.44:887][839]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2018.12.05-17.53.44:887][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.004353s)
+[2018.12.05-17.53.44:913][839]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014020b0c388, Size=40
+[2018.12.05-17.53.44:944][839]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.05-17.53.44:976][839]LogInit: FAudioDevice initialized.
+[2018.12.05-17.53.45:004][839]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.05-17.53.45:006][839]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.12.05-17.53.45
+[2018.12.05-17.53.45:006][839]LogWorld: Bringing up level for play took: 0.001510
+[2018.12.05-17.53.45:010][839]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.456
+[2018.12.05-17.53.45:010][839]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-17.53.47:536][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-17.53.50:971][525]LogScript: Warning: Attempted to access Card via property Card, but Card is pending kill
+	CardsRoom_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.CardsRoom_C_0
+	Function /Game/Rooms/CardsRoomAssets/CardsRoom.CardsRoom_C:ExecuteUbergraph_CardsRoom:2913
+[2018.12.05-17.53.50:971][525]PIE: Error: Blueprint Runtime Error: Attempted to access Card via property Card, but Card is pending kill from function: 'ExecuteUbergraph_CardsRoom' from node: Start Cards in graph: EventGraph in object: CardsRoom with description: Attempted to access Card via property Card, but Card is pending kill
+[2018.12.05-17.53.50:971][525]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCard15
+	CardsRoom_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.CardsRoom_C_0
+	Function /Game/Rooms/CardsRoomAssets/CardsRoom.CardsRoom_C:ExecuteUbergraph_CardsRoom:2950
+[2018.12.05-17.53.50:971][525]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsCard15 from function: 'ExecuteUbergraph_CardsRoom' from node: Start Cards in graph: EventGraph in object: CardsRoom with description: Accessed None trying to read property K2Node_DynamicCast_AsCard15
+[2018.12.05-17.53.50:971][525]LogScript: Warning: Attempted to access Card2 via property Card2, but Card2 is pending kill
+	CardsRoom_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.CardsRoom_C_0
+	Function /Game/Rooms/CardsRoomAssets/CardsRoom.CardsRoom_C:ExecuteUbergraph_CardsRoom:2990
+[2018.12.05-17.53.50:971][525]PIE: Error: Blueprint Runtime Error: Attempted to access Card2 via property Card2, but Card2 is pending kill from function: 'ExecuteUbergraph_CardsRoom' from node: Start Cards in graph: EventGraph in object: CardsRoom with description: Attempted to access Card2 via property Card2, but Card2 is pending kill
+[2018.12.05-17.53.50:971][525]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCard16
+	CardsRoom_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.CardsRoom_C_0
+	Function /Game/Rooms/CardsRoomAssets/CardsRoom.CardsRoom_C:ExecuteUbergraph_CardsRoom:29CD
+[2018.12.05-17.53.50:971][525]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsCard16 from function: 'ExecuteUbergraph_CardsRoom' from node: Start Cards in graph: EventGraph in object: CardsRoom with description: Accessed None trying to read property K2Node_DynamicCast_AsCard16
+[2018.12.05-17.53.50:971][525]LogScript: Warning: Attempted to access Card3 via property Card3, but Card3 is pending kill
+	CardsRoom_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.CardsRoom_C_0
+	Function /Game/Rooms/CardsRoomAssets/CardsRoom.CardsRoom_C:ExecuteUbergraph_CardsRoom:2A0D
+[2018.12.05-17.53.50:971][525]PIE: Error: Blueprint Runtime Error: Attempted to access Card3 via property Card3, but Card3 is pending kill from function: 'ExecuteUbergraph_CardsRoom' from node: Start Cards in graph: EventGraph in object: CardsRoom with description: Attempted to access Card3 via property Card3, but Card3 is pending kill
+[2018.12.05-17.53.50:971][525]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCard17
+	CardsRoom_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.CardsRoom_C_0
+	Function /Game/Rooms/CardsRoomAssets/CardsRoom.CardsRoom_C:ExecuteUbergraph_CardsRoom:2A4A
+[2018.12.05-17.53.50:971][525]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsCard17 from function: 'ExecuteUbergraph_CardsRoom' from node: Start Cards in graph: EventGraph in object: CardsRoom with description: Accessed None trying to read property K2Node_DynamicCast_AsCard17
+[2018.12.05-17.53.52:984][766]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-17.53.53:020][766]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-17.53.53:832][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-17.53.54:318][845]LogSavePackage: Save=204.24ms
+[2018.12.05-17.53.54:318][845]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownExampleMapC68CAC0F4C15AD70E9B7B5810FF55136.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.12.05-17.53.54:328][845]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.12.05-17.54.01:742][375]LogSlate: Window 'CardsRoom' being destroyed
+[2018.12.05-17.54.08:652][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/RoomState" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/RoomState.uasset" SILENT=true
+[2018.12.05-17.54.08:829][147]LogSavePackage: Save=18.53ms
+[2018.12.05-17.54.08:829][147]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/RoomState83D51C0C455B5FABB15699B4763BAB13.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/RoomState.uasset'
+[2018.12.05-17.54.08:847][147]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/RoomState.uasset
+[2018.12.05-17.54.55:809][356]BlueprintLog: New page: Compile MasterRoom
+[2018.12.05-17.54.56:990][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014034449d00, Size=816
+[2018.12.05-17.54.56:990][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fb7114480, Size=816, Default__MasterRoom_C Function /Engine/Transient.REINST_MasterRoom_C_2981:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.56:991][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fd4c7fb00, Size=608
+[2018.12.05-17.54.56:991][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014034448f00, Size=816
+[2018.12.05-17.54.56:991][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fc0b87380, Size=608, Default__beeptest_C Function /Engine/Transient.REINST_beeptest_C_2982:ExecuteUbergraph_beeptest
+[2018.12.05-17.54.56:991][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fb7114800, Size=816, Default__beeptest_C Function /Engine/Transient.REINST_MasterRoom_C_2981:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.56:992][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fbfed5600, Size=704
+[2018.12.05-17.54.56:992][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001403444b200, Size=816
+[2018.12.05-17.54.56:992][356]LogUObjectGlobals: Created PersistentFrame Addr=0x000001402cf56800, Size=704, Default__brickbreaker_C Function /Engine/Transient.REINST_brickbreaker_C_2983:ExecuteUbergraph_brickbreaker
+[2018.12.05-17.54.56:992][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fb7116e80, Size=816, Default__brickbreaker_C Function /Engine/Transient.REINST_MasterRoom_C_2981:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.56:993][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fd4c69d00, Size=1056
+[2018.12.05-17.54.56:993][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f1064bc80, Size=816
+[2018.12.05-17.54.56:993][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014045d60800, Size=1056, Default__CardsRoom_C Function /Engine/Transient.REINST_CardsRoom_C_2984:ExecuteUbergraph_CardsRoom
+[2018.12.05-17.54.56:993][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fb7117900, Size=816, Default__CardsRoom_C Function /Engine/Transient.REINST_MasterRoom_C_2981:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.56:994][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f1064ab00, Size=800
+[2018.12.05-17.54.56:994][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f10648b80, Size=816
+[2018.12.05-17.54.56:994][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fb7115600, Size=800, Default__Dodgeball_C Function /Engine/Transient.REINST_Dodgeball_C_2985:ExecuteUbergraph_Dodgeball
+[2018.12.05-17.54.56:994][356]LogUObjectGlobals: Created PersistentFrame Addr=0x000001403444b200, Size=816, Default__Dodgeball_C Function /Engine/Transient.REINST_MasterRoom_C_2981:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.56:995][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013ff44e6570, Size=80
+[2018.12.05-17.54.56:995][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f1064a400, Size=816
+[2018.12.05-17.54.56:995][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013ffbef34c0, Size=80, Default__FootbombRoom_C Function /Engine/Transient.REINST_FootbombRoom_C_2986:ExecuteUbergraph_FootbombRoom
+[2018.12.05-17.54.56:995][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014034449280, Size=816, Default__FootbombRoom_C Function /Engine/Transient.REINST_MasterRoom_C_2981:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.56:996][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fd4c7cb80, Size=600
+[2018.12.05-17.54.56:996][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fb72d3c80, Size=816
+[2018.12.05-17.54.56:996][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fc0b85f80, Size=600, Default__HideAndSpookRoom_C Function /Engine/Transient.REINST_HideAndSpookRoom_C_2987:ExecuteUbergraph_HideAndSpookRoom
+[2018.12.05-17.54.56:996][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f1064ab00, Size=816, Default__HideAndSpookRoom_C Function /Engine/Transient.REINST_MasterRoom_C_2981:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.56:997][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fb72d2080, Size=848
+[2018.12.05-17.54.56:997][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fb72d1600, Size=816
+[2018.12.05-17.54.56:997][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fbff38800, Size=848, Default__IcyFloorRoom_C Function /Engine/Transient.REINST_IcyFloorRoom_C_2988:ExecuteUbergraph_IcyFloorRoom
+[2018.12.05-17.54.56:997][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fbff38100, Size=816, Default__IcyFloorRoom_C Function /Engine/Transient.REINST_MasterRoom_C_2981:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.56:998][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fd4c5e080, Size=360
+[2018.12.05-17.54.56:998][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fe8f04480, Size=816
+[2018.12.05-17.54.56:998][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fb76e1780, Size=360, Default__LightsOutRoomNew_C Function /Engine/Transient.REINST_LightsOutRoomNew_C_2989:ExecuteUbergraph_LightsOutRoomNew
+[2018.12.05-17.54.56:998][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fbff3b580, Size=816, Default__LightsOutRoomNew_C Function /Engine/Transient.REINST_MasterRoom_C_2981:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.57:002][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f596efbd8, Size=56
+[2018.12.05-17.54.57:002][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fe8f05980, Size=816
+[2018.12.05-17.54.57:002][356]LogUObjectGlobals: Created PersistentFrame Addr=0x000001402c1a1b40, Size=56, Default__MazeRoom_C Function /Engine/Transient.REINST_MazeRoom_C_2990:ExecuteUbergraph_MazeRoom
+[2018.12.05-17.54.57:002][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f5ab1a780, Size=816, Default__MazeRoom_C Function /Engine/Transient.REINST_MasterRoom_C_2981:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.57:002][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fb4885480, Size=96
+[2018.12.05-17.54.57:003][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fe8f04b80, Size=816
+[2018.12.05-17.54.57:003][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014044ea6f80, Size=96, Default__Pong-room_C Function /Engine/Transient.REINST_Pong-room_C_2991:ExecuteUbergraph_Pong-room
+[2018.12.05-17.54.57:003][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fe8f04b80, Size=816, Default__Pong-room_C Function /Engine/Transient.REINST_MasterRoom_C_2981:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.57:004][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fd4c60f00, Size=432
+[2018.12.05-17.54.57:004][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fe8f06e80, Size=816
+[2018.12.05-17.54.57:004][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014019127740, Size=432, Default__RedBlueRoom_C Function /Engine/Transient.REINST_RedBlueRoom_C_2992:ExecuteUbergraph_RedBlueRoom
+[2018.12.05-17.54.57:004][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fe8f06e80, Size=816, Default__RedBlueRoom_C Function /Engine/Transient.REINST_MasterRoom_C_2981:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.57:005][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fe8f04f00, Size=832
+[2018.12.05-17.54.57:005][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fe8f06b00, Size=816
+[2018.12.05-17.54.57:005][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fe8f06b00, Size=832, Default__RoadRoom_C Function /Engine/Transient.REINST_RoadRoom_C_2993:ExecuteUbergraph_RoadRoom
+[2018.12.05-17.54.57:005][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fe8f04f00, Size=816, Default__RoadRoom_C Function /Engine/Transient.REINST_MasterRoom_C_2981:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.57:006][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f2e01bd00, Size=688
+[2018.12.05-17.54.57:006][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014006c73900, Size=816
+[2018.12.05-17.54.57:006][356]LogUObjectGlobals: Created PersistentFrame Addr=0x000001402c11c100, Size=688, Default__simon_C Function /Engine/Transient.REINST_simon_C_2994:ExecuteUbergraph_simon
+[2018.12.05-17.54.57:006][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fa55b5d00, Size=816, Default__simon_C Function /Engine/Transient.REINST_MasterRoom_C_2981:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.57:007][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fcb002b00, Size=1552
+[2018.12.05-17.54.57:007][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014006c72400, Size=816
+[2018.12.05-17.54.57:007][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013ff3319600, Size=1552, Default__SnookerRoom_C Function /Engine/Transient.REINST_SnookerRoom_C_2995:ExecuteUbergraph_SnookerRoom
+[2018.12.05-17.54.57:007][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fa55b6780, Size=816, Default__SnookerRoom_C Function /Engine/Transient.REINST_MasterRoom_C_2981:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.57:171][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fd878f900, Size=816, Default__MasterRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.57:175][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013ff9b3fb00, Size=608, Default__beeptest_C Function /Game/Rooms/beeptest.beeptest_C:ExecuteUbergraph_beeptest
+[2018.12.05-17.54.57:175][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fd878fc80, Size=816, Default__beeptest_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.57:178][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fc66b4400, Size=704, Default__brickbreaker_C Function /Game/Rooms/brickbreaker.brickbreaker_C:ExecuteUbergraph_brickbreaker
+[2018.12.05-17.54.57:178][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fd878d600, Size=816, Default__brickbreaker_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.57:183][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013ff9b31d00, Size=1056, Default__CardsRoom_C Function /Game/Rooms/CardsRoomAssets/CardsRoom.CardsRoom_C:ExecuteUbergraph_CardsRoom
+[2018.12.05-17.54.57:183][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fd878e080, Size=816, Default__CardsRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.57:188][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fd878f200, Size=800, Default__Dodgeball_C Function /Game/Rooms/Dodgeball.Dodgeball_C:ExecuteUbergraph_Dodgeball
+[2018.12.05-17.54.57:188][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fa5721d00, Size=816, Default__Dodgeball_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.57:190][356]LogUObjectGlobals: Created PersistentFrame Addr=0x000001402a7fc9a0, Size=80, Default__FootbombRoom_C Function /Game/Rooms/FootBombRoomAssets/FootbombRoom.FootbombRoom_C:ExecuteUbergraph_FootbombRoom
+[2018.12.05-17.54.57:190][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fa5721980, Size=816, Default__FootbombRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.57:194][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013ff9b3cb80, Size=600, Default__HideAndSpookRoom_C Function /Game/Rooms/HideAndSpookRoom.HideAndSpookRoom_C:ExecuteUbergraph_HideAndSpookRoom
+[2018.12.05-17.54.57:194][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fa5720480, Size=816, Default__HideAndSpookRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.57:198][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fa5722080, Size=848, Default__IcyFloorRoom_C Function /Game/Rooms/IcyFloorRoom.IcyFloorRoom_C:ExecuteUbergraph_IcyFloorRoom
+[2018.12.05-17.54.57:198][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fa5720800, Size=816, Default__IcyFloorRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.57:202][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013ff9b8ef80, Size=360, Default__LightsOutRoomNew_C Function /Game/Rooms/LightsOutRoomNew.LightsOutRoomNew_C:ExecuteUbergraph_LightsOutRoomNew
+[2018.12.05-17.54.57:202][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013ff9b73900, Size=816, Default__LightsOutRoomNew_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.57:211][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f59698b10, Size=56, Default__MazeRoom_C Function /Game/Rooms/MazeRoomAssets/MazeRoom.MazeRoom_C:ExecuteUbergraph_MazeRoom
+[2018.12.05-17.54.57:211][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013ff9b72e80, Size=816, Default__MazeRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.57:222][356]LogUObjectGlobals: Created PersistentFrame Addr=0x000001402dd123e0, Size=96, Default__Pong-room_C Function /Game/Rooms/Pong-room.Pong-room_C:ExecuteUbergraph_Pong-room
+[2018.12.05-17.54.57:222][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013ff9b71d00, Size=816, Default__Pong-room_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.57:225][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013ff9b34640, Size=432, Default__RedBlueRoom_C Function /Game/Rooms/RedBlueRoom.RedBlueRoom_C:ExecuteUbergraph_RedBlueRoom
+[2018.12.05-17.54.57:225][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013ff9b71280, Size=816, Default__RedBlueRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.57:229][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013ff9b71600, Size=832, Default__RoadRoom_C Function /Game/Rooms/RoadRoomAssets/RoadRoom.RoadRoom_C:ExecuteUbergraph_RoadRoom
+[2018.12.05-17.54.57:229][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013ff9b70800, Size=816, Default__RoadRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.57:234][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013ff322df00, Size=688, Default__simon_C Function /Game/Rooms/simon.simon_C:ExecuteUbergraph_simon
+[2018.12.05-17.54.57:235][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013ff9b70480, Size=816, Default__simon_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.54.57:239][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fcb00c100, Size=1552, Default__SnookerRoom_C Function /Game/Rooms/SnookerRoomAssets121212/SnookerRoom.SnookerRoom_C:ExecuteUbergraph_SnookerRoom
+[2018.12.05-17.54.57:239][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fd7a64480, Size=816, Default__SnookerRoom_C Function /Game/Rooms/MasterRoom/MasterRoom.MasterRoom_C:ExecuteUbergraph_MasterRoom
+[2018.12.05-17.55.01:252][356]LogSavePackage: Save=182.40ms
+[2018.12.05-17.55.01:252][356]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/MasterRoom41BEA4164046760A154861906E13078B.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/MasterRoom/MasterRoom.uasset'
+[2018.12.05-17.55.01:262][356]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/MasterRoom/MasterRoom.uasset
+[2018.12.05-17.55.02:094][377]LogSavePackage: Save=211.05ms
+[2018.12.05-17.55.02:094][377]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/MasterRoomB47AD6AA41341C005ECF81954B259C5E.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/MasterRoom/MasterRoom.uasset'
+[2018.12.05-17.55.02:101][377]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/Rooms/MasterRoom/MasterRoom.uasset
+[2018.12.05-17.55.02:524][411]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.05-17.55.14:666][570]BlueprintLog: New page: Compile RoomState
+[2018.12.05-17.55.14:686][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014020b0d0d0, Size=40
+[2018.12.05-17.55.14:686][570]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f5b98bf10, Size=40, Default__RoomState_C Function /Engine/Transient.REINST_RoomState_C_164:ExecuteUbergraph_RoomState
+[2018.12.05-17.55.14:687][570]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013f5b988fb8, Size=40, Default__RoomState_C Function /Game/MainMenu/RoomState.RoomState_C:ExecuteUbergraph_RoomState
+[2018.12.05-17.55.14:718][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013ff3319600, Size=1552
+[2018.12.05-17.55.14:718][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fa55b6780, Size=816
+[2018.12.05-17.55.14:718][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001402c11c100, Size=688
+[2018.12.05-17.55.14:718][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fa55b5d00, Size=816
+[2018.12.05-17.55.14:718][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fe8f06b00, Size=832
+[2018.12.05-17.55.14:718][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fe8f04f00, Size=816
+[2018.12.05-17.55.14:718][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014019127740, Size=432
+[2018.12.05-17.55.14:718][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fe8f06e80, Size=816
+[2018.12.05-17.55.14:718][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014044ea6f80, Size=96
+[2018.12.05-17.55.14:718][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fe8f04b80, Size=816
+[2018.12.05-17.55.14:719][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001402c1a1b40, Size=56
+[2018.12.05-17.55.14:719][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f5ab1a780, Size=816
+[2018.12.05-17.55.14:719][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fb76e1780, Size=360
+[2018.12.05-17.55.14:719][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fbff3b580, Size=816
+[2018.12.05-17.55.14:719][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fbff38800, Size=848
+[2018.12.05-17.55.14:719][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fbff38100, Size=816
+[2018.12.05-17.55.14:719][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fc0b85f80, Size=600
+[2018.12.05-17.55.14:719][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f1064ab00, Size=816
+[2018.12.05-17.55.14:719][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013ffbef34c0, Size=80
+[2018.12.05-17.55.14:719][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014034449280, Size=816
+[2018.12.05-17.55.14:719][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fb7115600, Size=800
+[2018.12.05-17.55.14:719][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001403444b200, Size=816
+[2018.12.05-17.55.14:719][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014045d60800, Size=1056
+[2018.12.05-17.55.14:719][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fb7117900, Size=816
+[2018.12.05-17.55.14:719][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001402cf56800, Size=704
+[2018.12.05-17.55.14:719][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fb7116e80, Size=816
+[2018.12.05-17.55.14:719][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fc0b87380, Size=608
+[2018.12.05-17.55.14:719][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fb7114800, Size=816
+[2018.12.05-17.55.14:719][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fb7114480, Size=816
+[2018.12.05-17.55.15:238][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/RoomState" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/RoomState.uasset" SILENT=true
+[2018.12.05-17.55.15:420][607]LogSavePackage: Save=16.73ms
+[2018.12.05-17.55.15:420][607]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/RoomStateA860D487481C90B680158FABC13B3AF9.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/RoomState.uasset'
+[2018.12.05-17.55.15:440][607]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/RoomState.uasset
+[2018.12.05-17.55.21:825][315]BlueprintLog: New page: Compile RoomState
+[2018.12.05-17.55.21:845][315]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f5b988fb8, Size=40
+[2018.12.05-17.55.21:845][315]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fa472b100, Size=40, RoomState_C_82 Function /Engine/Transient.REINST_RoomState_C_166:ExecuteUbergraph_RoomState
+[2018.12.05-17.55.21:846][315]LogUObjectGlobals: Created PersistentFrame Addr=0x0000013fa472a4d0, Size=40, Default__RoomState_C Function /Game/MainMenu/RoomState.RoomState_C:ExecuteUbergraph_RoomState
+[2018.12.05-17.55.22:406][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/RoomState" FILE="../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/RoomState.uasset" SILENT=true
+[2018.12.05-17.55.22:584][362]LogSavePackage: Save=19.78ms
+[2018.12.05-17.55.22:584][362]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/RoomState3230A7CD456A71AA27A879AB00DBFEBC.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/RoomState.uasset'
+[2018.12.05-17.55.22:601][362]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/MainMenu/RoomState.uasset
+[2018.12.05-17.55.28:405][ 12]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.05-17.55.28:441][ 12]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-17.55.28:441][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-17.55.28:441][ 12]PIE: New page: PIE session: TopDownExampleMap (5 Dec 2018 17:55:28)
+[2018.12.05-17.55.28:441][ 12]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.12.05-17.55.28:444][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003554s)
+[2018.12.05-17.55.28:445][ 12]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.12.05-17.55.28:445][ 12]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2018.12.05-17.55.28:445][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.004450s)
+[2018.12.05-17.55.28:496][ 12]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.05-17.55.28:536][ 12]LogInit: FAudioDevice initialized.
+[2018.12.05-17.55.28:567][ 12]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.05-17.55.28:569][ 12]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.12.05-17.55.28
+[2018.12.05-17.55.28:569][ 12]LogWorld: Bringing up level for play took: 0.001454
+[2018.12.05-17.55.28:572][ 12]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.019
+[2018.12.05-17.55.28:572][ 12]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-17.55.29:885][163]Cmd: LevelEditor.ToggleImmersive
+[2018.12.05-17.55.30:092][167]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.05-17.55.31:253][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-17.55.40:879][158]Cmd: LevelEditor.ToggleImmersive
+[2018.12.05-17.55.41:150][163]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.05-17.55.41:160][163]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-17.55.41:212][163]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.12.05-17.55.42:139][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-17.55.42:657][267]LogSavePackage: Save=206.00ms
+[2018.12.05-17.55.42:657][267]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownExampleMapE7877B1A41B5EC8AE40C359825D14963.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.12.05-17.55.42:676][267]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.12.05-17.55.44:519][474]LogSlate: Window 'Message Log' being destroyed
+[2018.12.05-17.55.44:525][474]LogSlate: Window 'Message Log' being destroyed
+[2018.12.05-17.56.17:389][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013fa472b100, Size=40
+[2018.12.05-17.56.17:390][625]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000013f5b98bf10, Size=40
+[2018.12.05-17.56.17:751][625]LogSavePackage: Save=205.11ms
+[2018.12.05-17.56.17:751][625]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Saved/TopDownExampleMapEF55448E4BAA173A6DD87D86B8F103B4.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.12.05-17.56.17:760][625]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/MCompGamesDev2018/MCompProject/Content/TopDownBP/Maps/TopDownExampleMap.umap
